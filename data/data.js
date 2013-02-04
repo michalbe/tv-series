@@ -207,7 +207,7 @@ var series = [{
 }, {
   "title": "MacGuyver",
   "imdb": "http://www.imdb.com/title/tt0088559/",
-  "episodes": "64",
+  "episodes": 64,
   "totalEpisodes": "139",
   "episodeLength": 48,
   "stillWatching": 0
