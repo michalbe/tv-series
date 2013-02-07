@@ -30,7 +30,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Heroes](http://www.imdb.com/title/tt0813715) | 59/77 | 42min | 41h 19min | No |
 | [House MD](http://www.imdb.com/title/tt0412142/) | 177 | 42min | 123h 54min | No |
 | [House of Cards](http://www.imdb.com/title/tt1856010) | 9/13 | 60min | 9h | Yes |
-| [How I met your mother](http://www.imdb.com/title/tt0460649/) | 178 | 22min | 65h 16min | Yes |
+| [How I met your mother](http://www.imdb.com/title/tt0460649/) | 179 | 22min | 65h 38min | Yes |
 | [IT Crowd](http://www.imdb.com/title/tt0487831) | 24 | 25min | 10h | No |
 | [Jericho](http://www.imdb.com/title/tt0805663) | 29 | 43min | 20h 47min | No |
 | [Kyle XY](http://www.imdb.com/title/tt0756509/) | 10/43 | 44min | 7h 20min | No |
@@ -53,7 +53,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 220 | 21min | 76h 59min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3285** |  | **1849h 48min**  (~77 days) | X |
+| **Total:** | **3286** |  | **1850h 10min**  (~77 days) | X |
 
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
