@@ -28,6 +28,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | 20h | Yes |
 | [Heroes](http://www.imdb.com/title/tt0813715) | 59/77 | 42min | 41h 19min | No |
 | [House MD](http://www.imdb.com/title/tt0412142/) | 177 | 42min | 123h 54min | No |
+| [House of Cards](http://www.imdb.com/title/tt1856010) | 2/13 | 60min | 2h | Yes |
 | [How I met your mother](http://www.imdb.com/title/tt0460649/) | 177 | 22min | 64h 54min | Yes |
 | [IT Crowd](http://www.imdb.com/title/tt0487831) | 24 | 25min | 10h | No |
 | [Jericho](http://www.imdb.com/title/tt0805663) | 29 | 43min | 20h 47min | No |
@@ -36,7 +37,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Lie to Me](http://www.imdb.com/title/tt1235099/) | 48 | 42min | 33h 36min | No |
 | [Lost](http://www.imdb.com/title/tt0411008/) | 121 | 48min | 96h 48min | No |
 | [MacGuyver](http://www.imdb.com/title/tt0088559/) | 64/139 | 48min | 51h 18min | Maybe |
-| [Mentalist](http://www.imdb.com/title/tt1196946) | 107 | 42min | 74h 54min | Yes |
+| [Mentalist](http://www.imdb.com/title/tt1196946) | 108 | 42min | 75h 36min | Yes |
 | [Misfits](http://www.imdb.com/title/tt1548850/) | 21/29 | 45min | 15h 45min | Yes |
 | [My wife and kids](http://www.imdb.com/title/tt0273855) | 122 | 23min | 46h 50min | No |
 | [Odwroceni](http://www.imdb.com/title/tt0998810) | 13 | 45min | 9h 45min | No |
@@ -50,7 +51,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 217 | 21min | 75h 56min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3244** |  | **1820h 08min**  (~75 days) | X |
+| **Total:** | **3247** |  | **1822h 50min**  (~75 days) | X |
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
 
@@ -60,7 +61,6 @@ If your propositions are already on the list, just put additional `+` with link 
 | [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | No | TBR | [+](https://github.com/datrio) |
 | [Homeland](http://www.imdb.com/tt1796960) | 24 | 60min | Yes | TBR | [+](https://github.com/tobeytailor)[+](https://github.com/shorang) |
-| [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [Louie](http://www.imdb.com/title/tt1492966) | 39 | 23min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [Modern Family](http://www.imdb.com/title/tt1442437/) | 86 | 30min | Yes | TBR | [+](https://github.com/afronski) |
