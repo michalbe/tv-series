@@ -69,11 +69,11 @@ If your propositions are already on the list, just put additional `+` with link 
 | [Numb3rs](http://www.imdb.com/title/tt0433309/) | 118 | 43min | No | TBR | [+](https://github.com/afronski) |
 | [Oz](http://www.imdb.com/title/tt0118421) | 56 | 55min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Parks and Recreations](http://www.imdb.com/title/tt1266020) | 83 | 21min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [Person of Interest](http://www.imdb.com/title/tt1839578) | 39 | 43min | yes | TBR | |
+| [Person of Interest](http://www.imdb.com/title/tt1839578) | 39 | 43min | yes | TBR | [+](https://github.com/shorang) |
 | [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/afronski) |
 | [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
 | [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio)[+](https://github.com/afronski)[+](https://github.com/tobeytailor) |
-| [The Following](http://www.imdb.com/title/tt2071645) | 5 | 43min | yes | TBR | |
+| [The Following](http://www.imdb.com/title/tt2071645) | 5 | 43min | yes | TBR | [+](https://github.com/shorang) |
 | [The Newsroom](http://www.imdb.com/tt1870479) | 10 | 60min | Yes | TBR | [+](https://github.com/tobeytailor) |
 | [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [The Pacific](http://www.imdb.com/tt0374463) | 10 | 60min | No | TBR | [+](https://github.com/tobeytailor) |
