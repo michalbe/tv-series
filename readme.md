@@ -56,7 +56,7 @@ If your propositions are already on the list, just put additional `+` with link 
 
 | Title | Episodes | Episode Length | Ongoing? | Status | Votes |
 |:-----------|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|
-| [Band of Brothers](http://www.imdb.com/tt0185906) | 10 | 60min | No | TBR | |
+| [Band of Brothers](http://www.imdb.com/tt0185906) | 10 | 60min | No | TBR | [+](https://github.com/tobeytailor) |
 | [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | No | TBR | [+](https://github.com/datrio) |
 | [Homeland](http://www.imdb.com/tt1796960) | 24 | 60min | Yes | TBR | [+](https://github.com/tobeytailor)[+](https://github.com/shorang) |
