@@ -57,17 +57,23 @@ If your propositions are already on the list, just put additional `+` with link 
 |:-----------|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|
 | [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | No | TBR | [+](https://github.com/datrio) |
-| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
 | [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [Louie](http://www.imdb.com/title/tt1492966) | 39 | 23min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
-| [My Name Is Earl](http://www.imdb.com/title/tt0460091) | 96 | 30min | No | TBR | [+](https://github.com/kamilogorek) |
+| [My Name Is Earl](http://www.imdb.com/title/tt0460091) | 96 | 30min | No | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
 | [Oz](http://www.imdb.com/title/tt0118421) | 56 | 55min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Parks and Recreations](http://www.imdb.com/title/tt1266020) | 83 | 21min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek) |
-| [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
+| [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
+| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio)[+](https://github.com/tobeytailor) |
 | [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio) |
 | [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | No | TBR | [+](https://github.com/datrio) |
 | [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [The Sopranos](http://www.imdb.com/tt0141842) | 86 | 55min | No | TBR | |
+| [The Newsroom](http://www.imdb.com/tt1870479) | 10 | 60min | Yes | TBR | |
+| [The Shield](http://www.imdb.com/tt0286486) | 88 | 42min | No | TBR | |
+| [Homeland](http://www.imdb.com/tt1796960) | 24 | 60min | Yes | TBR | |
+| [The Pacific](http://www.imdb.com/tt0374463) | 10 | 60min | No | TBR | |
+| [Band of Brothers](http://www.imdb.com/tt0185906) | 10 | 60min | No | TBR | |
