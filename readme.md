@@ -50,22 +50,25 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
 | **Total:** | **3198** | **~33min** | **1780h 57min**  (~75 days) | X |
 
-
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
  
 | Title | Episodes | Episode Length | Ongoing? | Status | Votes |
 |:-----------|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|
 | [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | No | TBR | [+](https://github.com/datrio) |
 | [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [Louie](http://www.imdb.com/title/tt1492966) | 39 | 23min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [My Name Is Earl](http://www.imdb.com/title/tt0460091) | 96 | 30min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Oz](http://www.imdb.com/title/tt0118421) | 56 | 55min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Parks and Recreations](http://www.imdb.com/title/tt1266020) | 83 | 21min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio) |
+| [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | No | TBR | [+](https://github.com/datrio) |
+| [The Wire](http://www.imdb.com/title/tt0306414/) | 60 | 57min | No | TBR | [+](https://github.com/datrio) |
 | [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | Yes | TBR | [+](https://github.com/kamilogorek) |
