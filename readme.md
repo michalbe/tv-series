@@ -49,3 +49,15 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
 | **Total:** | **3198** | **~33min** | **1780h 57min**  (~75 days) | X |
+
+#### For consideration
+
+| Title | Episodes | Episode Length | Total Length | Still on air |
+|:-----------|:-----------:|:------------:|:------------:|:------------:|
+| [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | 10h 50min | No |
+| [House of Cards](http://www.imdb.com/title/tt1856010/) | 13 | 50min | 10h 50min | No |
+| [Mad Men](http://www.imdb.com/title/tt0804503/) | 65 | 47min | 50h 55min | Soon |
+| [Spartacus](http://www.imdb.com/title/tt1442449/) | 33 | 60min | 33h | Yes |
+| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | 20h 32min | Yes |
+| [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | 109h 12min | No |
+| [The Wire](http://www.imdb.com/title/tt0306414/) | 60 | 57min | 57h | No |
