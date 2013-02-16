@@ -1,5 +1,5 @@
 ## My TV Shows List
-This is the list of all the TV series I've been watching since February 2008. I probably forget about some of them, so I'll update this list in near future. In the meantime - help me find some new interesting titles! If you want to propose something, just fork this repo and send pull request with the list updated. Thanks in advance!
+This is the list of all the TV series I've been watching since February 2008. I probably forget about some of them, so I'll update this list in near future. In the meantime - help me find some new interesting titles! If you want to propose something, just fork this repo and send pull request with the list updated in [TV Shows to consider](https://github.com/michalbe/tv-series/blob/master/readme.md#tv-shows-to-consider) part. Thanks in advance!
 
 ###### If I didn't watched all of the episodes, I put the total episodes numbers next to the number of those I watched. 
 
@@ -70,5 +70,4 @@ If your propositions are already on the list, just put additional `+` with link 
 | [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio) |
 | [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | No | TBR | [+](https://github.com/datrio) |
-| [The Wire](http://www.imdb.com/title/tt0306414/) | 60 | 57min | No | TBR | [+](https://github.com/datrio) |
 | [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | Yes | TBR | [+](https://github.com/kamilogorek) |
