@@ -49,3 +49,19 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
 | **Total:** | **3198** | **~33min** | **1780h 57min**  (~75 days) | X |
+
+### TV Shows to consider
+
+- Sons of Anarchy
+- Game of Thrones
+- The Office
+- Parks and Recreations
+- Mad Man
+- My Name Is Earl
+- Oz
+- Spartacus
+- House of Cards
+- Louie
+- Wilfred
+- Chuck
+- Pitbull
