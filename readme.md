@@ -49,3 +49,22 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
 | **Total:** | **3198** | **~33min** | **1780h 57min**  (~75 days) | X |
+
+
+### TV Shows to consider
+
+| Title | Episodes | Episode Length | Total Length | Ongoing? | Status |
+|:-----------|:-----------:|:------------:|:------------:|:------------:|:------------:|
+| [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | 65h 13min | Yes | To be reviewed |
+| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | 20h | Yes | To be reviewed |
+| [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | 13h | Yes | To be reviewed |
+| [Louie](http://www.imdb.com/title/tt1492966) | 39 | 23min | 14h 57min | Yes | To be reviewed |
+| [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | 48h 45min | Yes | To be reviewed |
+| [My Name Is Earl](http://www.imdb.com/title/tt0460091) | 96 | 30min | 48h | No | To be reviewed |
+| [Oz](http://www.imdb.com/title/tt0118421) | 56 | 55min | 51h 20min | No | To be reviewed |
+| [Parks and Recreations](http://www.imdb.com/title/tt1266020) | 83 | 21min | 29h 3min | Yes | To be reviewed |
+| [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | 23h 15min | No | To be reviewed |
+| [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | 40h 30min | Yes | To be reviewed |
+| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | 33h | Yes | To be reviewed |
+| [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | 65h 38min | Yes | To be reviewed |
+| [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | 13h | Yes | To be reviewed |
