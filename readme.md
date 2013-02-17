@@ -67,10 +67,10 @@ If your propositions are already on the list, just put additional `+` with link 
 | [Numb3rs](http://www.imdb.com/title/tt0433309/) | 118 | 43min | No | TBR | [+](https://github.com/afronski) |
 | [Oz](http://www.imdb.com/title/tt0118421) | 56 | 55min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Parks and Recreations](http://www.imdb.com/title/tt1266020) | 83 | 21min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek) |
+| [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/afronski) |
 | [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
+| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio)[+](https://github.com/afronski) |
 | [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio) |
+| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio)[+](https://github.com/afronski) |
 | [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | No | TBR | [+](https://github.com/datrio) |
 | [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | Yes | TBR | [+](https://github.com/kamilogorek) |
