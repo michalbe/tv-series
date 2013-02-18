@@ -1,7 +1,7 @@
 ## My TV Shows List
 This is the list of all the TV series I've been watching since February 2008. I probably forget about some of them, so I'll update this list in near future. In the meantime - help me find some new interesting titles! If you want to propose something, just fork this repo and send pull request with the list updated in [TV Shows to consider](https://github.com/michalbe/tv-series/blob/master/readme.md#tv-shows-to-consider) part. Thanks in advance!
 
-###### If I didn't watched all of the episodes, I put the total episodes numbers next to the number of those I watched. 
+###### If I didn't watched all of the episodes, I put the total episodes numbers next to the number of those I watched.
 
 | Title | Episodes | Episode Length | Total Length | Still watching? |
 |:-----------|:-----------:|:------------:|:------------:|:------------:|
@@ -22,8 +22,10 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Czterej Pancerni i Pies](http://www.imdb.com/title/tt0120948/) | 21 | 55min | 19h 15min | No |
 | [Dexter](http://www.imdb.com/title/tt0773262/) | 84 | 50min | 70h | Yes |
 | [Family Guy](http://www.imdb.com/title/tt0182576/) | 200 | 22min | 73h 20 min | Yes |
+| [Flashforward](http://www.imdb.com/title/tt1441135/) | 22 | 42min | 15h 24 min | No |
 | [Fringe](http://www.imdb.com/title/tt1119644/) | 100 | 47min | 78h 20min | No |
 | [Futurama](http://www.imdb.com/title/tt0149460/) | 127 | 22min | 46h 36min | No |
+| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 10/20 | 60min | 10h | Yes |
 | [Heroes](http://www.imdb.com/title/tt0813715) | 59/77 | 42min | 41h 19min | No |
 | [House MD](http://www.imdb.com/title/tt0412142/) | 177 | 42min | 123h 54min | No |
 | [How I met your mother](http://www.imdb.com/title/tt0460649/) | 176 | 22min | 64h 32min | Yes |
@@ -48,32 +50,33 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 217 | 21min | 75h 56min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3198** | **~33min** | **1780h 57min**  (~75 days) | X |
-
+| **Total:** | **3230** |  | **1806h 21min**  (~75 days) | X |
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
- 
+
 | Title | Episodes | Episode Length | Ongoing? | Status | Votes |
 |:-----------|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|
+| [Band of Brothers](http://www.imdb.com/tt0185906) | 10 | 60min | No | TBR | |
 | [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | No | TBR | [+](https://github.com/datrio) |
-| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
+| [Homeland](http://www.imdb.com/tt1796960) | 24 | 60min | Yes | TBR | |
 | [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [Louie](http://www.imdb.com/title/tt1492966) | 39 | 23min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
-| [My Name Is Earl](http://www.imdb.com/title/tt0460091) | 96 | 30min | No | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
+| [Modern Family](http://www.imdb.com/title/tt1442437/) | 86 | 30min | Yes | TBR | [+](https://github.com/afronski) |
+| [My Little Pony: Friendship is Magic](http://www.imdb.com/title/tt1751105/) | 65 | 22min | Yes | TBR | [+](https://github.com/dos1) |
+| [My Name Is Earl](http://www.imdb.com/title/tt0460091) | 96 | 30min | No | TBR | [+](https://github.com/kamilogorek) |
+| [Numb3rs](http://www.imdb.com/title/tt0433309/) | 118 | 43min | No | TBR | [+](https://github.com/afronski) |
 | [Oz](http://www.imdb.com/title/tt0118421) | 56 | 55min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Parks and Recreations](http://www.imdb.com/title/tt1266020) | 83 | 21min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek) |
+| [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/afronski) |
 | [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
-| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio)[+](https://github.com/tobeytailor) |
+| [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio)[+](https://github.com/afronski)[+](https://github.com/tobeytailor) |
 | [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio) |
+| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio)[+](https://github.com/afronski)[+](https://github.com/tobeytailor) |
 | [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | No | TBR | [+](https://github.com/datrio) |
 | [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [The Sopranos](http://www.imdb.com/tt0141842) | 86 | 55min | No | TBR | |
 | [The Newsroom](http://www.imdb.com/tt1870479) | 10 | 60min | Yes | TBR | |
-| [The Shield](http://www.imdb.com/tt0286486) | 88 | 42min | No | TBR | |
-| [Homeland](http://www.imdb.com/tt1796960) | 24 | 60min | Yes | TBR | |
 | [The Pacific](http://www.imdb.com/tt0374463) | 10 | 60min | No | TBR | |
-| [Band of Brothers](http://www.imdb.com/tt0185906) | 10 | 60min | No | TBR | |
+| [The Shield](http://www.imdb.com/tt0286486) | 88 | 42min | No | TBR | |
+| [The Sopranos](http://www.imdb.com/tt0141842) | 86 | 55min | No | TBR | |
