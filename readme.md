@@ -25,6 +25,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Flashforward](http://www.imdb.com/title/tt1441135/) | 22 | 42min | 15h 24 min | No |
 | [Fringe](http://www.imdb.com/title/tt1119644/) | 100 | 47min | 78h 20min | No |
 | [Futurama](http://www.imdb.com/title/tt0149460/) | 127 | 22min | 46h 36min | No |
+| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 10/20 | 60min | 10h | Yes |
 | [Heroes](http://www.imdb.com/title/tt0813715) | 59/77 | 42min | 41h 19min | No |
 | [House MD](http://www.imdb.com/title/tt0412142/) | 177 | 42min | 123h 54min | No |
 | [How I met your mother](http://www.imdb.com/title/tt0460649/) | 176 | 22min | 64h 32min | Yes |
@@ -49,7 +50,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 217 | 21min | 75h 56min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3220** |  | **1796h 21min**  (~75 days) | X |
+| **Total:** | **3230** |  | **1806h 21min**  (~75 days) | X |
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
  
@@ -57,7 +58,6 @@ If your propositions are already on the list, just put additional `+` with link 
 |:-----------|:-----------:|:------------:|:------------:|:------------:|:------------:|:------------:|
 | [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | No | TBR | [+](https://github.com/datrio) |
-| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [Louie](http://www.imdb.com/title/tt1492966) | 39 | 23min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
