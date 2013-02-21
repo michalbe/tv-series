@@ -25,7 +25,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Flashforward](http://www.imdb.com/title/tt1441135/) | 22 | 42min | 15h 24 min | No |
 | [Fringe](http://www.imdb.com/title/tt1119644/) | 100 | 47min | 78h 20min | No |
 | [Futurama](http://www.imdb.com/title/tt0149460/) | 127 | 22min | 46h 36min | No |
-| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 15/20 | 60min | 15h | Yes |
+| [Game of Thrones](http://www.imdb.com/title/tt0944947) | 20 | 60min | 20h | Yes |
 | [Heroes](http://www.imdb.com/title/tt0813715) | 59/77 | 42min | 41h 19min | No |
 | [House MD](http://www.imdb.com/title/tt0412142/) | 177 | 42min | 123h 54min | No |
 | [How I met your mother](http://www.imdb.com/title/tt0460649/) | 177 | 22min | 64h 54min | Yes |
@@ -50,7 +50,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 217 | 21min | 75h 56min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3239** |  | **1815h 08min**  (~75 days) | X |
+| **Total:** | **3244** |  | **1820h 08min**  (~75 days) | X |
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
 
