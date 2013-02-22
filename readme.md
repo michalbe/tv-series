@@ -59,7 +59,7 @@ If your propositions are already on the list, just put additional `+` with link 
 | [Band of Brothers](http://www.imdb.com/tt0185906) | 10 | 60min | No | TBR | |
 | [Chuck](http://www.imdb.com/title/tt0934814) | 91 | 43min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Cowboy Bebop](http://www.imdb.com/title/tt0213338/) | 26 | 25min | No | TBR | [+](https://github.com/datrio) |
-| [Homeland](http://www.imdb.com/tt1796960) | 24 | 60min | Yes | TBR | [+](https://github.com/tobeytailor) |
+| [Homeland](http://www.imdb.com/tt1796960) | 24 | 60min | Yes | TBR | [+](https://github.com/tobeytailor)[+](https://github.com/shorang) |
 | [House of Cards](http://www.imdb.com/title/tt1856010) | 13 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
 | [Louie](http://www.imdb.com/title/tt1492966) | 39 | 23min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [Mad Men](http://www.imdb.com/title/tt0804503) | 65 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio) |
@@ -69,14 +69,16 @@ If your propositions are already on the list, just put additional `+` with link 
 | [Numb3rs](http://www.imdb.com/title/tt0433309/) | 118 | 43min | No | TBR | [+](https://github.com/afronski) |
 | [Oz](http://www.imdb.com/title/tt0118421) | 56 | 55min | No | TBR | [+](https://github.com/kamilogorek) |
 | [Parks and Recreations](http://www.imdb.com/title/tt1266020) | 83 | 21min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [Person of Interest](http://www.imdb.com/title/tt1839578) | 39 | 43min | yes | TBR | |
 | [Pitbull](http://www.imdb.com/title/tt1096980) | 31 | 45min | No | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/afronski) |
 | [Sons of Anarchy](http://www.imdb.com/title/tt1124373) | 56 | 45min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/tobeytailor) |
 | [Spartacus](http://www.imdb.com/title/tt1442449) | 33 | 60min | Yes | TBR | [+](https://github.com/kamilogorek)[+](https://github.com/datrio)[+](https://github.com/afronski)[+](https://github.com/tobeytailor) |
-| [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
-| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio)[+](https://github.com/afronski)[+](https://github.com/tobeytailor) |
-| [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | No | TBR | [+](https://github.com/datrio) |
-| [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | Yes | TBR | [+](https://github.com/kamilogorek) |
+| [The Following](http://www.imdb.com/title/tt2071645) | 5 | 43min | yes | TBR | |
 | [The Newsroom](http://www.imdb.com/tt1870479) | 10 | 60min | Yes | TBR | [+](https://github.com/tobeytailor) |
+| [The Office](http://www.imdb.com/title/tt0386676) | 179 | 22min | Yes | TBR | [+](https://github.com/kamilogorek) |
 | [The Pacific](http://www.imdb.com/tt0374463) | 10 | 60min | No | TBR | [+](https://github.com/tobeytailor) |
 | [The Shield](http://www.imdb.com/tt0286486) | 88 | 42min | No | TBR | [+](https://github.com/tobeytailor) |
 | [The Sopranos](http://www.imdb.com/tt0141842) | 86 | 55min | No | TBR | [+](https://github.com/tobeytailor) |
+| [The Walking Dead](http://www.imdb.com/title/tt1520211/) | 28 | 44min | Yes | TBR | [+](https://github.com/datrio)[+](https://github.com/afronski)[+](https://github.com/tobeytailor)[+](https://github.com/shorang) |
+| [The West Wing](http://www.imdb.com/title/tt0200276/) | 156 | 42min | No | TBR | [+](https://github.com/datrio) |
+| [Wilfred](http://www.imdb.com/title/tt1703925) | 26 | 30min | Yes | TBR | [+](https://github.com/kamilogorek) |
