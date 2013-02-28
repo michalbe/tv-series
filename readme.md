@@ -11,7 +11,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [American Horror Story](http://www.imdb.com/title/tt1844624) | 12/25 | 45min | 9h | Yes |
 | [Anger Management](http://www.imdb.com/title/tt1986770) | 14 | 22min | 5h 8min | Yes |
 | [Arrow](http://www.imdb.com/title/tt2193021/) | 16 | 43min | 11h 28min | Yes |
-| [Big Bang Theory](http://www.imdb.com/title/tt0898266/) | 129 | 21min | 45h 10min | Yes |
+| [Big Bang Theory](http://www.imdb.com/title/tt0898266/) | 130 | 21min | 45h 31min | Yes |
 | [Boston Public](http://www.imdb.com/title/tt0247081/) | 81 | 44min | 59h 24min | No |
 | [Breaking Bad](http://www.imdb.com/title/tt0903747/) | 54 | 47min | 42h 18min | Yes |
 | [Boardwalk Empire](http://www.imdb.com/title/tt0979432/) | 12/36 | 60min | 12h | Maybe |
@@ -51,7 +51,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 217 | 21min | 75h 56min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3251** |  | **1824h 58min**  (~76 days) | X |
+| **Total:** | **3252** |  | **1825h 19min**  (~76 days) | X |
 
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
