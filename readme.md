@@ -15,7 +15,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Boston Public](http://www.imdb.com/title/tt0247081/) | 81 | 44min | 59h 24min | No |
 | [Breaking Bad](http://www.imdb.com/title/tt0903747/) | 54 | 47min | 42h 18min | Yes |
 | [Boardwalk Empire](http://www.imdb.com/title/tt0979432/) | 12/36 | 60min | 12h | Maybe |
-| [Californication](http://www.imdb.com/title/tt0904208/) | 67 | 28min | 31h 16min | Yes |
+| [Californication](http://www.imdb.com/title/tt0904208/) | 68 | 28min | 31h 44min | Yes |
 | [Cleveland Show](http://www.imdb.com/title/tt1195935/) | 65/75 | 23min | 24h 54min | Maybe |
 | [Common Law](http://www.imdb.com/title/tt1771072/) | 12 | 43min | 8h 36min| No |
 | [CSI: Las vegas](http://www.imdb.com/title/tt0247082/) | 121/287 | 45min | 90h 45min | No |
@@ -51,7 +51,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 217 | 21min | 75h 56min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3252** |  | **1825h 19min**  (~76 days) | X |
+| **Total:** | **3253** |  | **1825h 47min**  (~76 days) | X |
 
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
