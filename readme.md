@@ -37,7 +37,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Lie to Me](http://www.imdb.com/title/tt1235099/) | 48 | 42min | 33h 36min | No |
 | [Lost](http://www.imdb.com/title/tt0411008/) | 121 | 48min | 96h 48min | No |
 | [MacGuyver](http://www.imdb.com/title/tt0088559/) | 64/139 | 48min | 51h 18min | Maybe |
-| [Mentalist](http://www.imdb.com/title/tt1196946) | 108 | 42min | 75h 36min | Yes |
+| [Mentalist](http://www.imdb.com/title/tt1196946) | 109 | 42min | 76h 18min | Yes |
 | [Misfits](http://www.imdb.com/title/tt1548850/) | 21/29 | 45min | 15h 45min | Yes |
 | [My wife and kids](http://www.imdb.com/title/tt0273855) | 122 | 23min | 46h 50min | No |
 | [Odwroceni](http://www.imdb.com/title/tt0998810) | 13 | 45min | 9h 45min | No |
@@ -51,7 +51,7 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 217 | 21min | 75h 56min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3264** |  | **1835h 31min**  (~76 days) | X |
+| **Total:** | **3265** |  | **1836h 13min**  (~76 days) | X |
 
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
