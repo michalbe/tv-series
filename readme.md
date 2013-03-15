@@ -48,10 +48,10 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Sherlock](http://www.imdb.com/title/tt1475582) | 6 | 90min | 9h | No |
 | [Stawka większa niż zycie](http://www.imdb.com/title/tt0065035/) | 18 | 60min | 18h | No |
 | [Suits](http://www.imdb.com/title/tt1632701/) | 28 | 42min | 19h 36min | Yes |
-| [Two and a half men](http://www.imdb.com/title/tt0369179) | 219 | 21min | 76h 38min | Yes |
+| [Two and a half men](http://www.imdb.com/title/tt0369179) | 220 | 21min | 76h 59min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3268** |  | **1837h 43min**  (~76 days) | X |
+| **Total:** | **3269** |  | **1838h 04min**  (~76 days) | X |
 
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
