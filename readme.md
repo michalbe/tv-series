@@ -47,13 +47,13 @@ This is the list of all the TV series I've been watching since February 2008. I 
 | [Sex and the City](http://www.imdb.com/title/tt0159206) | 94 | 30min | 47h | No |
 | [Shameless US](http://www.imdb.com/title/tt1586680) | 24/28 | 50min | 20h | Yes |
 | [Sherlock](http://www.imdb.com/title/tt1475582) | 6 | 90min | 9h | [YES!](http://www.bleedingcool.com/2013/03/18/sherlock-season-3-has-started-shooting-new-details-revealed/)|
-| [Simpsons](http://www.imdb.com/title/tt0096697/) | 6/523 | 24min | 2h 24min | Yes |
+| [Simpsons](http://www.imdb.com/title/tt0096697/) | 7/523 | 24min | 2h 48min | Yes |
 | [Stawka większa niż zycie](http://www.imdb.com/title/tt0065035/) | 18 | 60min | 18h | No |
 | [Suits](http://www.imdb.com/title/tt1632701/) | 28 | 42min | 19h 36min | Yes |
 | [Two and a half men](http://www.imdb.com/title/tt0369179) | 220 | 21min | 76h 59min | Yes |
 | [White Collar](http://www.imdb.com/title/tt1358522/) | 56/59 | 42min | 39h 18min | Yes |
 | [Wire](http://www.imdb.com/title/tt0306414) | 60 | 60min | 60h | No |
-| **Total:** | **3292** |  | **1853h 27min**  (~77 days) | X |
+| **Total:** | **3293** |  | **1853h 51min**  (~77 days) | X |
 
 ### TV Shows to consider
 If your propositions are already on the list, just put additional `+` with link to your GH account in `Votes` section.
