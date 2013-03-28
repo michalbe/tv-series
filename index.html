@@ -3,14 +3,19 @@
   <head>
     <meta charset="utf-8" />
     <script src="data.js"></script>
+    <script src="proposals.js"></script>
     <script src="render.js"></script>
-   
     <title>tv-series</title>
     <link rel="stylesheet" href="style.css">
   </head>
 <body>
     
   <table id="series">
+    <tr>
+      <th colspan=5 style="text-align:center">
+        My List
+      </th>
+    </tr>
     <tr>
       <th>
         Title
@@ -28,25 +33,14 @@
         Still watching?
       </th>
     </tr>
-    <!-- <tr>
-         <td>
-           Title
-         </td>
-         <td>
-           Episodes
-         </td>
-         <td>
-           Episode Length
-         </td>
-         <td>
-           Total Length
-         </td>
-         <td>
-           Still watching?
-         </td>
-       </tr> -->
   </table>
+  
   <table id="to-consider">
+    <tr>
+      <th colspan=6 style="text-align:center">
+        Shows to consider
+      </th>
+    </tr>
      <tr>
        <th>
          Title
@@ -61,12 +55,16 @@
          Total Length
        </th>
        <th>
-         Still watching?
+         Ongoing?
+       </th>
+       <th>
+         Votes
        </th>
      </tr>
   </table>
     <script>
-      Renderer(series);
+      Renderer(series, document.getElementById('series'));
+      Renderer(toConsider, document.getElementById('to-consider'));
     </script>
 </body>
 </html>
