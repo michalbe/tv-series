@@ -70,7 +70,7 @@ var series = [{
 }, {
   "title": "Californication",
   "imdb": "http://www.imdb.com/title/tt0904208/",
-  "episodes": "69",
+  "episodes": 70,
   "episodeLength": 28,
   "stillWatching": 1
 }, {
@@ -108,7 +108,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": "203",
+  "episodes": 204,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
