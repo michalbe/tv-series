@@ -1,5 +1,4 @@
-var Renderer = function(data){
-  var parent = document.getElementById('series');
+var Renderer = function(data, parent){
   var globalTotalMinutes = 0;
   var globalTotalEpisodes = 0;
   
@@ -25,6 +24,12 @@ var Renderer = function(data){
     var stillWatching = document.createElement('td');
     stillWatching.className = "stillWatching";
     element.appendChild(stillWatching);
+    
+    if (chunk.votes) {
+      var votes = document.createElement('td');
+      votes.className = "votes";
+      element.appendChild(votes);
+    }
     
     if (chunk.imdb) {
       title.innerHTML = "<a href=" + chunk.imdb + ">" + chunk.title + "</a>";
@@ -52,6 +57,13 @@ var Renderer = function(data){
     
     stillWatching.innerHTML = chunk.stillWatching ? "Yes" : "No";
     
+    if (chunk.votes) {
+      var votesContent = '';
+      chunk.votes.forEach(function(voter){
+        votes.innerHTML += "<a href='https://github.com/"+voter+"'>+</a> ";
+      });
+    }    
+    
     parent.appendChild(element);
   }
   
@@ -64,4 +76,6 @@ var Renderer = function(data){
     episodes: globalTotalEpisodes,
     totalTime: globalTotalMinutes
   });
+  
+  globalTotalMinutes = globalTotalMinutes = 0;
 };
