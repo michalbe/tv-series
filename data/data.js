@@ -289,7 +289,7 @@ var series = [{
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
-  "episodes": 57,
+  "episodes": 58,
   "totalEpisodes": 59,
   "episodeLength": 42,
   "stillWatching": 1
