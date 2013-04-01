@@ -14,7 +14,7 @@ var series = [{
 }, {
   "title": "American Dad",
   "imdb": "http://www.imdb.com/title/tt0397306",
-  "episodes": "146",
+  "episodes": 147,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
@@ -151,7 +151,7 @@ var series = [{
 }, {
   "title": "House of Cards",
   "imdb": "http://www.imdb.com/title/tt1856010",
-  "episodes": 10,
+  "episodes": 11,
   "totalEpisodes": 13,
   "episodeLength": 60,
   "stillWatching": 1
