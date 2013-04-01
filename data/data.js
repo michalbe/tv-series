@@ -151,8 +151,7 @@ var series = [{
 }, {
   "title": "House of Cards",
   "imdb": "http://www.imdb.com/title/tt1856010",
-  "episodes": 11,
-  "totalEpisodes": 13,
+  "episodes": 13,
   "episodeLength": 60,
   "stillWatching": 1
 }, {
