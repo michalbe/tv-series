@@ -132,7 +132,7 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": "20",
+  "episodes": 21,
   "episodeLength": 60,
   "stillWatching": 1
 }, {
