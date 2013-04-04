@@ -70,7 +70,7 @@ var series = [{
 }, {
   "title": "Californication",
   "imdb": "http://www.imdb.com/title/tt0904208/",
-  "episodes": 70,
+  "episodes": 71,
   "episodeLength": 28,
   "stillWatching": 1
 }, {
@@ -134,6 +134,13 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0944947",
   "episodes": 21,
   "episodeLength": 60,
+  "stillWatching": 1
+},
+{
+  "title": "Hannibal",
+  "imdb": "http://www.imdb.com/title/tt2243973",
+  "episodes": 1,
+  "episodeLength": 43,
   "stillWatching": 1
 }, {
   "title": "Heroes",
