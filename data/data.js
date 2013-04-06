@@ -220,7 +220,7 @@ var series = [{
 }, {
   "title": "Misfits",
   "imdb": "http://www.imdb.com/title/tt1548850/",
-  "episodes": "21",
+  "episodes": 22,
   "totalEpisodes": "29",
   "episodeLength": 45,
   "stillWatching": 1
