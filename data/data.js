@@ -270,7 +270,7 @@ var series = [{
 }, {
   "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 17,
+  "episodes": 18,
   "totalEpisodes": "523",
   "episodeLength": 24,
   "stillWatching": 1
