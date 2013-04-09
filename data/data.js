@@ -220,7 +220,7 @@ var series = [{
 }, {
   "title": "Misfits",
   "imdb": "http://www.imdb.com/title/tt1548850/",
-  "episodes": 23,
+  "episodes": 24,
   "totalEpisodes": 29,
   "episodeLength": 45,
   "stillWatching": 1
@@ -270,7 +270,7 @@ var series = [{
 }, {
   "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 18,
+  "episodes": 19,
   "totalEpisodes": "523",
   "episodeLength": 24,
   "stillWatching": 1
@@ -289,7 +289,7 @@ var series = [{
 }, {
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": "220",
+  "episodes": 221,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
