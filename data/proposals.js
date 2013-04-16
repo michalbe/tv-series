@@ -25,6 +25,12 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["datrio"]
 }, {
+  "title": "Da Vinci's Demons",
+  "imdb": "http://www.imdb.com/title/tt2094262/",
+  "episodes": "2",
+  "episodeLength": 60,
+  "stillWatching": 1
+},  {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
   "episodes": "24",
