@@ -99,7 +99,13 @@ var series = [{
   "episodes": "21",
   "episodeLength": 55,
   "stillWatching": 0
-}, {
+},{
+  "title": "Da Vinci's Demons",
+  "imdb": "http://www.imdb.com/title/tt2094262/",
+  "episodes": 1,
+  "episodeLength": 60,
+  "stillWatching": 1
+},{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
   "episodes": "84",
