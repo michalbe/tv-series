@@ -102,7 +102,7 @@ var series = [{
 },{
   "title": "Da Vinci's Demons",
   "imdb": "http://www.imdb.com/title/tt2094262/",
-  "episodes": 1,
+  "episodes": 2,
   "episodeLength": 60,
   "stillWatching": 1
 },{
