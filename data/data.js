@@ -102,7 +102,7 @@ var series = [{
 },{
   "title": "Da Vinci's Demons",
   "imdb": "http://www.imdb.com/title/tt2094262/",
-  "episodes": 2,
+  "episodes": 3,
   "episodeLength": 60,
   "stillWatching": 1
 },{
@@ -220,7 +220,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 113,
+  "episodes": 114,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
