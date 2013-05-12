@@ -33,7 +33,7 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 20,
+  "episodes": 22,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
