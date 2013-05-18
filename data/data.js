@@ -145,7 +145,7 @@ var series = [{
 {
   "title": "Hannibal",
   "imdb": "http://www.imdb.com/title/tt2243973",
-  "episodes": 5,
+  "episodes": 8,
   "episodeLength": 43,
   "stillWatching": 1
 }, {
