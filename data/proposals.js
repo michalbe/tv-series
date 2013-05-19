@@ -179,6 +179,13 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["datrio"]
 }, {
+  "title": "Weeds",
+  "imdb": "http://www.imdb.com/title/tt0439100/",
+  "episodes": "102",
+  "episodeLength": 30,
+  "stillWatching": 0,
+  "votes": ["tizianozonta"]
+}, {
   "title": "Wilfred",
   "imdb": "http://www.imdb.com/title/tt1703925",
   "episodes": "26",
