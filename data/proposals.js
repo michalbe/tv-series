@@ -11,6 +11,13 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tobeytailor"]
 }, {
+  "title": "Black Mirror",
+  "imdb": "http://www.imdb.com/title/tt2085059/",
+  "episodes": "6",
+  "episodeLength": 60,
+  "stillWatching": 0,
+  "votes": ["tizianozonta"]
+}, {
   "title": "Chuck",
   "imdb": "http://www.imdb.com/title/tt0934814",
   "episodes": "91",
