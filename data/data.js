@@ -27,7 +27,7 @@ var series = [{
 }, {
   "title": "Anger Management",
   "imdb": "http://www.imdb.com/title/tt1986770",
-  "episodes": "14",
+  "episodes": 23,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
