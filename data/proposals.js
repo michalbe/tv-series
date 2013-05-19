@@ -11,6 +11,13 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tobeytailor"]
 }, {
+  "title": "Black Mirror",
+  "imdb": "http://www.imdb.com/title/tt2085059/",
+  "episodes": "6",
+  "episodeLength": 60,
+  "stillWatching": 0,
+  "votes": ["tizianozonta"]
+}, {
   "title": "Chuck",
   "imdb": "http://www.imdb.com/title/tt0934814",
   "episodes": "91",
@@ -107,7 +114,7 @@ var toConsider = [{
   "episodes": "56",
   "episodeLength": 45,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "tobeytailor"]
+  "votes": ["kamilogorek", "tobeytailor","tizianozonta"]
 }, {
   "title": "Spartacus",
   "imdb": "http://www.imdb.com/title/tt1442449",
@@ -171,6 +178,13 @@ var toConsider = [{
   "episodeLength": 42,
   "stillWatching": 0,
   "votes": ["datrio"]
+}, {
+  "title": "Weeds",
+  "imdb": "http://www.imdb.com/title/tt0439100/",
+  "episodes": "102",
+  "episodeLength": 30,
+  "stillWatching": 0,
+  "votes": ["tizianozonta"]
 }, {
   "title": "Wilfred",
   "imdb": "http://www.imdb.com/title/tt1703925",
