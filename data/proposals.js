@@ -114,7 +114,7 @@ var toConsider = [{
   "episodes": "56",
   "episodeLength": 45,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "tobeytailor"]
+  "votes": ["kamilogorek", "tobeytailor","tizianozonta"]
 }, {
   "title": "Spartacus",
   "imdb": "http://www.imdb.com/title/tt1442449",
