@@ -18,6 +18,13 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tizianozonta"]
 }, {
+  "title": "Burn Notice",
+  "imdb": "http://www.imdb.com/title/tt0810788/",
+  "episodes": "98",
+  "episodeLength": 60,
+  "stillWatching": 0,
+  "votes": ["1marc"]
+}, {
   "title": "Chuck",
   "imdb": "http://www.imdb.com/title/tt0934814",
   "episodes": "91",
