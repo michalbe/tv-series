@@ -1,5 +1,5 @@
 // Add your proposal to the list, but please, 
-// remmeber about alphabetical order. If your show is
+// remember about alphabetical order. If your show is
 // already on the list, just put your github account
 // in the 'votes' part. Thanks!
 
@@ -30,7 +30,7 @@ var toConsider = [{
   "episodes": "26",
   "episodeLength": 25,
   "stillWatching": 0,
-  "votes": ["datrio"]
+  "votes": ["datrio", "kamilogorek"]
 },  {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
@@ -58,7 +58,7 @@ var toConsider = [{
   "episodes": "86",
   "episodeLength": 30,
   "stillWatching": 1,
-  "votes": ["afronski"]
+  "votes": ["afronski", "kamilogorek"]
 }, {
   "title": "My Little Pony: Friendship is Magic",
   "imdb": "http://www.imdb.com/title/tt1751105/",
@@ -141,7 +141,7 @@ var toConsider = [{
   "imdb": "http://www.imdb.com/title/tt0386676",
   "episodes": "179",
   "episodeLength": 22,
-  "stillWatching": 1,
+  "stillWatching": 0,
   "votes": ["kamilogorek"]
 }, {
   "title": "The Pacific",
