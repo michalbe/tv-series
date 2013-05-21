@@ -1,5 +1,5 @@
 // Add your proposal to the list, but please, 
-// remmeber about alphabetical order. If your show is
+// remember about alphabetical order. If your show is
 // already on the list, just put your github account
 // in the 'votes' part. Thanks!
 
@@ -10,6 +10,20 @@ var toConsider = [{
   "episodeLength": 60,
   "stillWatching": 0,
   "votes": ["tobeytailor"]
+}, {
+  "title": "Black Mirror",
+  "imdb": "http://www.imdb.com/title/tt2085059/",
+  "episodes": "6",
+  "episodeLength": 60,
+  "stillWatching": 0,
+  "votes": ["tizianozonta"]
+}, {
+  "title": "Burn Notice",
+  "imdb": "http://www.imdb.com/title/tt0810788/",
+  "episodes": "98",
+  "episodeLength": 60,
+  "stillWatching": 0,
+  "votes": ["1marc"]
 }, {
   "title": "Chuck",
   "imdb": "http://www.imdb.com/title/tt0934814",
@@ -23,7 +37,7 @@ var toConsider = [{
   "episodes": "26",
   "episodeLength": 25,
   "stillWatching": 0,
-  "votes": ["datrio"]
+  "votes": ["datrio", "kamilogorek"]
 },  {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
@@ -51,7 +65,7 @@ var toConsider = [{
   "episodes": "86",
   "episodeLength": 30,
   "stillWatching": 1,
-  "votes": ["afronski"]
+  "votes": ["afronski", "kamilogorek"]
 }, {
   "title": "My Little Pony: Friendship is Magic",
   "imdb": "http://www.imdb.com/title/tt1751105/",
@@ -107,7 +121,7 @@ var toConsider = [{
   "episodes": "56",
   "episodeLength": 45,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "tobeytailor"]
+  "votes": ["kamilogorek", "tobeytailor","tizianozonta"]
 }, {
   "title": "Spartacus",
   "imdb": "http://www.imdb.com/title/tt1442449",
@@ -134,7 +148,7 @@ var toConsider = [{
   "imdb": "http://www.imdb.com/title/tt0386676",
   "episodes": "179",
   "episodeLength": 22,
-  "stillWatching": 1,
+  "stillWatching": 0,
   "votes": ["kamilogorek"]
 }, {
   "title": "The Pacific",
@@ -171,6 +185,13 @@ var toConsider = [{
   "episodeLength": 42,
   "stillWatching": 0,
   "votes": ["datrio"]
+}, {
+  "title": "Weeds",
+  "imdb": "http://www.imdb.com/title/tt0439100/",
+  "episodes": "102",
+  "episodeLength": 30,
+  "stillWatching": 0,
+  "votes": ["tizianozonta"]
 }, {
   "title": "Wilfred",
   "imdb": "http://www.imdb.com/title/tt1703925",
