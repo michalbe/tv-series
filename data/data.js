@@ -114,7 +114,7 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
-  "episodes": 208,
+  "episodes": 209,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -276,7 +276,7 @@ var series = [{
 }, {
   "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
-  "episodes": 21,
+  "episodes": 22,
   "totalEpisodes": "523",
   "episodeLength": 24,
   "stillWatching": 1
