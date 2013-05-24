@@ -32,13 +32,28 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "sirgregg"]
 }, {
+  "title": "Community",
+  "imdb": "http://www.imdb.com/title/tt1439629/",
+  "episodes": 84,
+  "episodeLength": 22,
+  "stillWatching": 1,
+  "votes": ["sirgregg"]
+}, {
   "title": "Cowboy Bebop",
   "imdb": "http://www.imdb.com/title/tt0213338/",
   "episodes": "26",
   "episodeLength": 25,
   "stillWatching": 0,
   "votes": ["datrio", "kamilogorek"]
-},  {
+}, 
+  "title": "Doctor Who",
+  "imdb": "http://www.imdb.com/title/tt0436992/",
+  "episodes": 105,
+  "episodeLength": 45,
+  "stillWatching": 1,
+  "votes": ["sirgregg"]
+{
+ {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
   "episodes": "24",
