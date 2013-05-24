@@ -30,7 +30,7 @@ var toConsider = [{
   "episodes": "91",
   "episodeLength": 43,
   "stillWatching": 1,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
 }, {
   "title": "Cowboy Bebop",
   "imdb": "http://www.imdb.com/title/tt0213338/",
@@ -79,7 +79,7 @@ var toConsider = [{
   "episodes": "96",
   "episodeLength": 30,
   "stillWatching": 0,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
 }, {
   "title": "Numb3rs",
   "imdb": "http://www.imdb.com/title/tt0433309/",
@@ -100,7 +100,7 @@ var toConsider = [{
   "episodes": "83",
   "episodeLength": 21,
   "stillWatching": 1,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
 }, {
   "title": "Person of Interest",
   "imdb": "http://www.imdb.com/title/tt1839578",
@@ -198,5 +198,5 @@ var toConsider = [{
   "episodes": "26",
   "episodeLength": 30,
   "stillWatching": 1,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
 }]
