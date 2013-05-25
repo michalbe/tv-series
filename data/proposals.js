@@ -53,12 +53,26 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["sirgregg"]
 }, {
+  "title": "Elementary",
+  "imdb": "http://www.imdb.com/title/tt2191671/",
+  "episodes": 24,
+  "episodeLength": 44,
+  "stillWatching": 1,
+  "votes": ["sirgregg"]
+}, {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
   "episodes": "24",
   "episodeLength": 60,
   "stillWatching": 1,
   "votes": ["tobeytailor", "shorang"]
+}, {
+  "title": "It's Always Sunny in Philadelphia",
+  "imdb": "http://www.imdb.com/title/tt0472954/",
+  "episodes": 94,
+  "episodeLength": 22,
+  "stillWatching": 1,
+  "votes": ["sirgregg"]
 }, {
   "title": "Louie",
   "imdb": "http://www.imdb.com/title/tt1492966",
