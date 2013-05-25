@@ -45,15 +45,14 @@ var toConsider = [{
   "episodeLength": 25,
   "stillWatching": 0,
   "votes": ["datrio", "kamilogorek"]
-}, 
+}, {
   "title": "Doctor Who",
   "imdb": "http://www.imdb.com/title/tt0436992/",
   "episodes": 105,
   "episodeLength": 45,
   "stillWatching": 1,
   "votes": ["sirgregg"]
-{
- {
+}, {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
   "episodes": "24",
