@@ -111,6 +111,12 @@ var series = [{
   "episodes": "84",
   "episodeLength": 50,
   "stillWatching": 1
+},{
+  "title": "Elementary",
+  "imdb": "http://www.imdb.com/title/tt2191671/",
+  "episodes": "2",
+  "episodeLength": 43,
+  "stillWatching": 1
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
