@@ -53,13 +53,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["sirgregg"]
 }, {
-  "title": "Elementary",
-  "imdb": "http://www.imdb.com/title/tt2191671/",
-  "episodes": 24,
-  "episodeLength": 44,
-  "stillWatching": 1,
-  "votes": ["sirgregg"]
-}, {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
   "episodes": "24",
