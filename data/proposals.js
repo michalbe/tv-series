@@ -30,7 +30,14 @@ var toConsider = [{
   "episodes": "91",
   "episodeLength": 43,
   "stillWatching": 1,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
+}, {
+  "title": "Community",
+  "imdb": "http://www.imdb.com/title/tt1439629/",
+  "episodes": 84,
+  "episodeLength": 22,
+  "stillWatching": 1,
+  "votes": ["sirgregg"]
 }, {
   "title": "Cowboy Bebop",
   "imdb": "http://www.imdb.com/title/tt0213338/",
@@ -38,7 +45,15 @@ var toConsider = [{
   "episodeLength": 25,
   "stillWatching": 0,
   "votes": ["datrio", "kamilogorek"]
-},  {
+}, 
+  "title": "Doctor Who",
+  "imdb": "http://www.imdb.com/title/tt0436992/",
+  "episodes": 105,
+  "episodeLength": 45,
+  "stillWatching": 1,
+  "votes": ["sirgregg"]
+{
+ {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
   "episodes": "24",
@@ -79,7 +94,7 @@ var toConsider = [{
   "episodes": "96",
   "episodeLength": 30,
   "stillWatching": 0,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
 }, {
   "title": "Numb3rs",
   "imdb": "http://www.imdb.com/title/tt0433309/",
@@ -100,7 +115,7 @@ var toConsider = [{
   "episodes": "83",
   "episodeLength": 21,
   "stillWatching": 1,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
 }, {
   "title": "Person of Interest",
   "imdb": "http://www.imdb.com/title/tt1839578",
@@ -198,5 +213,5 @@ var toConsider = [{
   "episodes": "26",
   "episodeLength": 30,
   "stillWatching": 1,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "sirgregg"]
 }]
