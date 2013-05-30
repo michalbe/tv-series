@@ -259,9 +259,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1837642/",
   "episodes": 1,
   "episodeLength": 44,
-  "stillWatching": 1,
-},
-{
+  "stillWatching": 1
+}, {
   "title": "Scrubs",
   "imdb": "http://www.imdb.com/title/tt0285403",
   "episodes": "182",
