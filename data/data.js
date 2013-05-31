@@ -114,7 +114,7 @@ var series = [{
 },{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
-  "episodes": 7,
+  "episodes": 11,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
