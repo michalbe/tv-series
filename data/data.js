@@ -114,7 +114,7 @@ var series = [{
 },{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
-  "episodes": 12,
+  "episodes": 17,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -144,7 +144,7 @@ var series = [{
 }, {
   "title": "Game of Thrones",
   "imdb": "http://www.imdb.com/title/tt0944947",
-  "episodes": 28,
+  "episodes": 29,
   "episodeLength": 60,
   "stillWatching": 1
 },
