@@ -27,7 +27,7 @@ var series = [{
 }, {
   "title": "Anger Management",
   "imdb": "http://www.imdb.com/title/tt1986770",
-  "episodes": 25,
+  "episodes": 26,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
@@ -257,7 +257,7 @@ var series = [{
 }, {
   "title": "Revenge",
   "imdb": "http://www.imdb.com/title/tt1837642/",
-  "episodes": 5,
+  "episodes": 6,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
