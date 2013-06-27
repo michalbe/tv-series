@@ -257,7 +257,7 @@ var series = [{
 }, {
   "title": "Revenge",
   "imdb": "http://www.imdb.com/title/tt1837642/",
-  "episodes": 36,
+  "episodes": 37,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
