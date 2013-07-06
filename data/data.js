@@ -138,7 +138,7 @@ var series = [{
 }, {
   "title": "Futurama",
   "imdb": "http://www.imdb.com/title/tt0149460/",
-  "episodes": 128,
+  "episodes": 129,
   "episodeLength": 22,
   "stillWatching": 0
 }, {
