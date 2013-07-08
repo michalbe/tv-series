@@ -67,13 +67,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["sirgregg"]
 }, {
-  "title": "Louie",
-  "imdb": "http://www.imdb.com/title/tt1492966",
-  "episodes": "39",
-  "episodeLength": 23,
-  "stillWatching": 1,
-  "votes": ["kamilogorek"]
-}, {
   "title": "Mad Men",
   "imdb": "http://www.imdb.com/title/tt0804503",
   "episodes": "65",
