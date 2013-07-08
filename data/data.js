@@ -217,6 +217,12 @@ var series = [{
   "episodeLength": 48,
   "stillWatching": 0
 }, {
+  "title": "Louie",
+  "imdb": "http://www.imdb.com/title/tt1492966",
+  "episodes": 3,
+  "episodeLength": 23,
+  "stillWatching": 1
+}, {
   "title": "MacGuyver",
   "imdb": "http://www.imdb.com/title/tt0088559/",
   "episodes": 64,
