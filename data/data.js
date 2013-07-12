@@ -180,6 +180,12 @@ var series = [{
   "episodeLength": 22,
   "stillWatching": 1
 }, {
+  "title": "I, Claudius",
+  "imdb": "http://www.imdb.com/title/tt0074006/",
+  "episodes": 12,
+  "episodeLength": 54,
+  "stillWatching": 0
+}, {
   "title": "IT Crowd",
   "imdb": "http://www.imdb.com/title/tt0487831",
   "episodes": "24",
