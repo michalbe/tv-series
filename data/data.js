@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 86,
+  "episodes": 87,
   "episodeLength": 50,
   "stillWatching": 1
 },{
@@ -313,7 +313,7 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": "28",
+  "episodes": 29,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
