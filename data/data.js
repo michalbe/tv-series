@@ -313,7 +313,7 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 29,
+  "episodes": 30,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
