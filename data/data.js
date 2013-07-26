@@ -225,7 +225,7 @@ var series = [{
 }, {
   "title": "Louie",
   "imdb": "http://www.imdb.com/title/tt1492966",
-  "episodes": 31,
+  "episodes": 32,
   "episodeLength": 23,
   "stillWatching": 1
 }, {
