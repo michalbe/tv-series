@@ -197,6 +197,12 @@ var series = [{
   "episodes": "29",
   "episodeLength": 43,
   "stillWatching": 0
+},{
+  "title": "Joey",
+  "imdb": "http://www.imdb.com/title/tt0375355/",
+  "episodes": 0,
+  "episodeLength": 24,
+  "stillWatching": 1
 }, {
   "title": "Kyle XY",
   "imdb": "http://www.imdb.com/title/tt0756509/",
