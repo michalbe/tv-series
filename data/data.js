@@ -204,6 +204,12 @@ var series = [{
   "episodeLength": 24,
   "stillWatching": 1
 }, {
+  "title": "King of Queens",
+  "imdb": "http://www.imdb.com/title/tt0165581/",
+  "episodes": 207,
+  "episodeLength": 22,
+  "stillWatching": 0
+}, {
   "title": "Kyle XY",
   "imdb": "http://www.imdb.com/title/tt0756509/",
   "episodes": "10",
