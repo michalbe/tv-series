@@ -130,6 +130,12 @@ var series = [{
   "episodeLength": 42,
   "stillWatching": 0
 }, {
+  "title": "Franklin & Bash",
+  "imdb": "http://www.imdb.com/title/tt1600199/",
+  "episodes": 1,
+  "episodeLength": 42,
+  "stillWatching": 1
+}, {
   "title": "Fringe",
   "imdb": "http://www.imdb.com/title/tt1119644/",
   "episodes": "100",
