@@ -316,7 +316,7 @@ var series = [{
   "episodeLength": 90,
   "stillWatching": 1
 }, {
-  "title": "Simpsons",
+  "title": "Simpsons, The",
   "imdb": "http://www.imdb.com/title/tt0096697/",
   "episodes": 23,
   "totalEpisodes": "523",
@@ -347,7 +347,7 @@ var series = [{
   "episodeLength": 42,
   "stillWatching": 1
 }, {
-  "title": "Wire",
+  "title": "Wire, The",
   "imdb": "http://www.imdb.com/title/tt0306414",
   "episodes": "60",
   "episodeLength": 60,
