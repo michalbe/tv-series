@@ -206,7 +206,7 @@ var series = [{
 },{
   "title": "Joey",
   "imdb": "http://www.imdb.com/title/tt0375355/",
-  "episodes": 9,
+  "episodes": 10,
   "episodeLength": 24,
   "stillWatching": 1
 }, {
