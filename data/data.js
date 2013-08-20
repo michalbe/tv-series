@@ -132,7 +132,7 @@ var series = [{
 }, {
   "title": "Franklin & Bash",
   "imdb": "http://www.imdb.com/title/tt1600199/",
-  "episodes": 6,
+  "episodes": 7,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
