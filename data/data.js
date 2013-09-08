@@ -57,7 +57,7 @@ var series = [{
 }, {
   "title": "Breaking Bad",
   "imdb": "http://www.imdb.com/title/tt0903747/",
-  "episodes": 58,
+  "episodes": 59,
   "episodeLength": 47,
   "stillWatching": 1
 }, {
@@ -108,8 +108,8 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 93,
-  "episodeLength": 52,
+  "episodes": 94,
+  "episodeLength": 53,
   "stillWatching": 1
 },{
   "title": "Elementary",
