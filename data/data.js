@@ -108,7 +108,7 @@ var series = [{
 },{
   "title": "Dexter",
   "imdb": "http://www.imdb.com/title/tt0773262/",
-  "episodes": 94,
+  "episodes": 95,
   "episodeLength": 53,
   "stillWatching": 1
 },{
