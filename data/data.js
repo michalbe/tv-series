@@ -110,7 +110,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0773262/",
   "episodes": 96,
   "episodeLength": 53,
-  "stillWatching": 1
+  "stillWatching": 0
 },{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
