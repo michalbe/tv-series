@@ -59,7 +59,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0903747/",
   "episodes": 62,
   "episodeLength": 52,
-  "stillWatching": 1
+  "stillWatching": 0
 }, {
   "title": "Boardwalk Empire",
   "imdb": "http://www.imdb.com/title/tt0979432/",
