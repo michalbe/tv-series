@@ -53,6 +53,13 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["sirgregg"]
 }, {
+  "title": "Dollhouse",
+  "imdb": "http://www.imdb.com/title/tt1135300/",
+  "episodes": 27,
+  "episodeLength": 45,
+  "stillWatching": 0,
+  "votes": ["igorw"]
+}, {
   "title": "Homeland",
   "imdb": "http://www.imdb.com/tt1796960",
   "episodes": "24",
