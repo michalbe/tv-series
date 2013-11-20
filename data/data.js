@@ -338,9 +338,8 @@ var series = [{
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
   "episodes": 200,
-  "totalEpisodes": 200,
   "episodeLength": 22,
-  "stillWatching": 1
+  "stillWatching": 0
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
