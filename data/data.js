@@ -141,6 +141,13 @@ var series = [{
   "episodes": "100",
   "episodeLength": 47,
   "stillWatching": 0
+},{
+  "title": "Friends",
+  "imdb": "http://www.imdb.com/title/tt0108778/",
+  "episodes": 1,
+  "totalEpisodes": 239,
+  "episodeLength": 22,
+  "stillWatching": 1
 }, {
   "title": "Futurama",
   "imdb": "http://www.imdb.com/title/tt0149460/",
