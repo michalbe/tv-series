@@ -256,7 +256,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 124,
+  "episodes": 123,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
@@ -343,7 +343,7 @@ var series = [{
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 230,
+  "episodes": 229,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
