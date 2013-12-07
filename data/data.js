@@ -14,7 +14,7 @@ var series = [{
 }, {
   "title": "American Dad",
   "imdb": "http://www.imdb.com/title/tt0397306",
-  "episodes": 155,
+  "episodes": 157,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
