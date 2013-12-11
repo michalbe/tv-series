@@ -45,7 +45,7 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 146,
+  "episodes": 147,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
