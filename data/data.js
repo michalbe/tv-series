@@ -348,6 +348,12 @@ var series = [{
   "episodeLength": 22,
   "stillWatching": 0
 },{
+  "title": "True Detective",
+  "imdb": "http://www.imdb.com/title/tt2356777",
+  "episodes": 1,
+  "episodeLength": 60,
+  "stillWatching": 1
+},{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
   "episodes": 235,
