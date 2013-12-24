@@ -350,7 +350,7 @@ var series = [{
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 230,
+  "episodes": 235,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
