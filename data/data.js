@@ -263,7 +263,7 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "http://www.imdb.com/title/tt1196946",
-  "episodes": 124,
+  "episodes": 126,
   "episodeLength": 42,
   "stillWatching": 1
 }, {
