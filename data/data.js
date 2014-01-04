@@ -144,7 +144,7 @@ var series = [{
 },{
   "title": "Friends",
   "imdb": "http://www.imdb.com/title/tt0108778/",
-  "episodes": 217,
+  "episodes": 227,
   "totalEpisodes": 239,
   "episodeLength": 22,
   "stillWatching": 1
