@@ -319,7 +319,7 @@ var series = [{
 }, {
   "title": "Sherlock",
   "imdb": "http://www.imdb.com/title/tt1475582",
-  "episodes": "6",
+  "episodes": 8,
   "episodeLength": 90,
   "stillWatching": 1
 }, {
