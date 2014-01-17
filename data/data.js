@@ -312,9 +312,8 @@ var series = [{
 }, {
   "title": "Shameless US",
   "imdb": "http://www.imdb.com/title/tt1586680",
-  "episodes": "24",
-  "totalEpisodes": "28",
-  "episodeLength": 50,
+  "episodes": 25,
+  "episodeLength": 55,
   "stillWatching": 1
 }, {
   "title": "Sherlock",
