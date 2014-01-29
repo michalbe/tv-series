@@ -220,4 +220,11 @@ var toConsider = [{
   "episodeLength": 30,
   "stillWatching": 1,
   "votes": ["kamilogorek", "sirgregg"]
+}, {
+  "title": "Warehouse 13",
+  "imdb": "http://www.imdb.com/title/tt1132290/",
+  "episodes": "58",
+  "episodeLength": 45,
+  "stillWatching": 0,
+  "votes": ["hounddog"]
 }]
