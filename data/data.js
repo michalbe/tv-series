@@ -349,7 +349,7 @@ var series = [{
 },{
   "title": "True Detective",
   "imdb": "http://www.imdb.com/title/tt2356777",
-  "episodes": 2,
+  "episodes": 3,
   "episodeLength": 60,
   "stillWatching": 1
 },{
