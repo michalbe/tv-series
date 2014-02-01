@@ -33,7 +33,7 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 34,
+  "episodes": 35,
   "episodeLength": 44,
   "stillWatching": 1
 }, {
@@ -355,7 +355,7 @@ var series = [{
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 235,
+  "episodes": 236,
   "episodeLength": 21,
   "stillWatching": 1
 }, {
