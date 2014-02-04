@@ -112,6 +112,12 @@ var series = [{
   "episodeLength": 53,
   "stillWatching": 0
 },{
+  "title": "Doctor Who",
+  "imdb": "http://www.imdb.com/title/tt0436992/",
+  "episodes": 0,
+  "episodeLength": 45,
+  "stillWatching": 1
+},{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
   "episodes": 25,
