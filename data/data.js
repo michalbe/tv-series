@@ -195,7 +195,7 @@ var series = [{
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 200,
+  "episodes": 201,
   "episodeLength": 22,
   "stillWatching": 1
 }, {
