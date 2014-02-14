@@ -65,28 +65,28 @@ var toConsider = [{
   "episodes": "24",
   "episodeLength": 60,
   "stillWatching": 1,
-  "votes": ["tobeytailor", "shorang"]
+  "votes": ["tobeytailor", "shorang", "ryanburgess"]
 }, {
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "http://www.imdb.com/title/tt0472954/",
   "episodes": 94,
   "episodeLength": 22,
   "stillWatching": 1,
-  "votes": ["sirgregg"]
+  "votes": ["sirgregg", "ryanburgess"]
 }, {
   "title": "Mad Men",
   "imdb": "http://www.imdb.com/title/tt0804503",
   "episodes": "65",
   "episodeLength": 45,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "datrio"]
+  "votes": ["kamilogorek", "datrio", "ryanburgess"]
 }, {
   "title": "Modern Family",
   "imdb": "http://www.imdb.com/title/tt1442437/",
   "episodes": "86",
   "episodeLength": 30,
   "stillWatching": 1,
-  "votes": ["afronski", "kamilogorek"]
+  "votes": ["afronski", "kamilogorek", "ryanburgess"]
 }, {
   "title": "My Little Pony: Friendship is Magic",
   "imdb": "http://www.imdb.com/title/tt1751105/",
@@ -121,7 +121,7 @@ var toConsider = [{
   "episodes": "83",
   "episodeLength": 21,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "sirgregg"]
+  "votes": ["kamilogorek", "sirgregg", "ryanburgess"]
 }, {
   "title": "Person of Interest",
   "imdb": "http://www.imdb.com/title/tt1839578",
@@ -142,7 +142,7 @@ var toConsider = [{
   "episodes": "56",
   "episodeLength": 45,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "tobeytailor","tizianozonta"]
+  "votes": ["kamilogorek", "tobeytailor","tizianozonta", "ryanburgess"]
 }, {
   "title": "Spartacus",
   "imdb": "http://www.imdb.com/title/tt1442449",
@@ -156,7 +156,7 @@ var toConsider = [{
   "episodes": "5",
   "episodeLength": 43,
   "stillWatching": 0,
-  "votes": ["shorang"]
+  "votes": ["shorang", "ryanburgess"]
 }, {
   "title": "The Newsroom",
   "imdb": "http://www.imdb.com/tt1870479",
@@ -170,7 +170,7 @@ var toConsider = [{
   "episodes": "179",
   "episodeLength": 22,
   "stillWatching": 0,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "ryanburgess"]
 }, {
   "title": "The Pacific",
   "imdb": "http://www.imdb.com/tt0374463",
@@ -191,14 +191,14 @@ var toConsider = [{
   "episodes": "86",
   "episodeLength": 55,
   "stillWatching": 0,
-  "votes": ["tobeytailor"]
+  "votes": ["tobeytailor", "ryanburgess"]
 }, {
   "title": "The Walking Dead",
   "imdb": "http://www.imdb.com/title/tt1520211/",
   "episodes": "28",
   "episodeLength": 44,
   "stillWatching": 1,
-  "votes": ["datrio", "afronski", "tobeytailor", "shorang"]
+  "votes": ["datrio", "afronski", "tobeytailor", "shorang", "ryanburgess"]
 }, {
   "title": "The West Wing",
   "imdb": "http://www.imdb.com/title/tt0200276/",
@@ -212,7 +212,7 @@ var toConsider = [{
   "episodes": "102",
   "episodeLength": 30,
   "stillWatching": 0,
-  "votes": ["tizianozonta"]
+  "votes": ["tizianozonta", "ryanburgess"]
 }, {
   "title": "Wilfred",
   "imdb": "http://www.imdb.com/title/tt1703925",
