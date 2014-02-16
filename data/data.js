@@ -114,7 +114,7 @@ var series = [{
 },{
   "title": "Doctor Who",
   "imdb": "http://www.imdb.com/title/tt0436992/",
-  "episodes": 25,
+  "episodes": 26,
   "episodeLength": 45,
   "stillWatching": 1
 },{
