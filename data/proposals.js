@@ -207,6 +207,13 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["datrio"]
 }, {
+  "title": "Warehouse 13",
+  "imdb": "http://www.imdb.com/title/tt1132290/",
+  "episodes": "58",
+  "episodeLength": 45,
+  "stillWatching": 0,
+  "votes": ["hounddog"]
+}, {
   "title": "Weeds",
   "imdb": "http://www.imdb.com/title/tt0439100/",
   "episodes": "102",
