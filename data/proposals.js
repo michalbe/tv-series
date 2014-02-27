@@ -11,13 +11,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["scryptonite"]
 }, {
-  "title": "Arrow",
-  "imdb": "http://www.imdb.com/title/tt2193021",
-  "episodes": 47,
-  "episodeLength": 42,
-  "stillWatching": 1,
-  "votes": ["scryptonite"]
-}, {
   "title": "Band of Brothers",
   "imdb": "http://www.imdb.com/title/tt0185906",
   "episodes": "10",
