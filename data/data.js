@@ -48,6 +48,12 @@ var series = [{
   "episodes": 148,
   "episodeLength": 22,
   "stillWatching": 1
+},{
+  "title": "Blok Ekipa",
+  "imdb": "http://www.filmweb.pl/serial/Blok+Ekipa-2013-692964",
+  "episodes": 19,
+  "episodeLength": 5,
+  "stillWatching": 1
 }, {
   "title": "Boston Public",
   "imdb": "http://www.imdb.com/title/tt0247081/",
