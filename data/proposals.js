@@ -4,6 +4,13 @@
 // in the 'votes' part. Thanks!
 
 var toConsider = [{
+  "title": "Almost Human",
+  "imdb": "http://www.imdb.com/title/tt2654580",
+  "episodes": 14,
+  "episodeLength": 45,
+  "stillWatching": 1,
+  "votes": ["scryptonite"]
+}, {
   "title": "Band of Brothers",
   "imdb": "http://www.imdb.com/title/tt0185906",
   "episodes": "10",
@@ -30,7 +37,14 @@ var toConsider = [{
   "episodes": "91",
   "episodeLength": 43,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "sirgregg"]
+  "votes": ["kamilogorek", "sirgregg", "scryptonite"]
+}, {
+  "title": "Continuum",
+  "imdb": "http://www.imdb.com/title/tt1954347",
+  "episodes": 23,
+  "episodeLength": 45,
+  "stillWatching": 1,
+  "votes": ["scryptonite"]
 }, {
   "title": "Community",
   "imdb": "http://www.imdb.com/title/tt1439629/",
@@ -121,7 +135,7 @@ var toConsider = [{
   "episodes": "39",
   "episodeLength": 43,
   "stillWatching": 0,
-  "votes": ["shorang"]
+  "votes": ["shorang", "scryptonite"]
 }, {
   "title": "Pitbull",
   "imdb": "http://www.imdb.com/title/tt1096980",
@@ -191,7 +205,7 @@ var toConsider = [{
   "episodes": "28",
   "episodeLength": 44,
   "stillWatching": 1,
-  "votes": ["datrio", "afronski", "tobeytailor", "shorang", "ryanburgess"]
+  "votes": ["datrio", "afronski", "tobeytailor", "shorang", "ryanburgess", "scryptonite"]
 }, {
   "title": "The West Wing",
   "imdb": "http://www.imdb.com/title/tt0200276/",
