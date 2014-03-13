@@ -16,26 +16,30 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0397306",
   "episodes": 162,
   "episodeLength": 21,
-  "stillWatching": 1
+  "stillWatching": 1,
+  "lastWatched": 'S10E10'
 }, {
   "title": "American Horror Story",
   "imdb": "http://www.imdb.com/title/tt1844624",
   "episodes": "12",
   "totalEpisodes": "25",
   "episodeLength": 45,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S02E13'
 }, {
   "title": "Anger Management",
   "imdb": "http://www.imdb.com/title/tt1986770",
   "episodes": 37,
   "episodeLength": 22,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S02E27'
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
   "episodes": 36,
   "episodeLength": 44,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S02E13'
 }, {
   "title": "Banshee",
   "imdb": "http://www.imdb.com/title/tt2017109/",
@@ -47,7 +51,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0898266/",
   "episodes": 148,
   "episodeLength": 22,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S07E13'
 },{
   "title": "Blok Ekipa",
   "imdb": "http://www.filmweb.pl/serial/Blok+Ekipa-2013-692964",
@@ -129,13 +134,15 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt2191671/",
   "episodes": 25,
   "episodeLength": 44,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S02E01'
 }, {
   "title": "Family Guy",
   "imdb": "http://www.imdb.com/title/tt0182576/",
   "episodes": 221,
   "episodeLength": 22,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S12E11'
 }, {
   "title": "Flashforward",
   "imdb": "http://www.imdb.com/title/tt1441135/",
@@ -147,7 +154,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1600199/",
   "episodes": 30,
   "episodeLength": 42,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S3E10'
 }, {
   "title": "Fringe",
   "imdb": "http://www.imdb.com/title/tt1119644/",
@@ -172,14 +180,16 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0944947",
   "episodes": 30,
   "episodeLength": 60,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S03E10'
 },
 {
   "title": "Hannibal",
   "imdb": "http://www.imdb.com/title/tt2243973",
   "episodes": 13,
   "episodeLength": 43,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S1E13'
 }, {
   "title": "Heroes",
   "imdb": "http://www.imdb.com/title/tt0813715",
@@ -198,13 +208,15 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1856010",
   "episodes": 13,
   "episodeLength": 60,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S01E13'
 }, {
   "title": "How I met your mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
   "episodes": 201,
   "episodeLength": 22,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S09E17'
 }, {
   "title": "I, Claudius",
   "imdb": "http://www.imdb.com/title/tt0074006/",
@@ -278,14 +290,16 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1196946",
   "episodes": 128,
   "episodeLength": 42,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S06E12'
 }, {
   "title": "Misfits",
   "imdb": "http://www.imdb.com/title/tt1548850/",
   "episodes": 24,
   "totalEpisodes": 29,
   "episodeLength": 45,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S04E03'
 }, {
   "title": "My wife and kids",
   "imdb": "http://www.imdb.com/title/tt0273855",
@@ -309,7 +323,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1837642/",
   "episodes": 44,
   "episodeLength": 44,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S02E22'
 }, {
   "title": "Scrubs",
   "imdb": "http://www.imdb.com/title/tt0285403",
@@ -327,13 +342,15 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1586680",
   "episodes": 41,
   "episodeLength": 55,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S04E05'
 }, {
   "title": "Sherlock",
   "imdb": "http://www.imdb.com/title/tt1475582",
   "episodes": 9,
   "episodeLength": 90,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S03E03'
 }, {
   "title": "Simpsons, The",
   "imdb": "http://www.imdb.com/title/tt0096697/",
@@ -350,9 +367,10 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 34,
+  "episodes": 38,
   "episodeLength": 42,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S03E10'
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
@@ -364,19 +382,22 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt2356777",
   "episodes": 3,
   "episodeLength": 60,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S01E03'
 },{
   "title": "Two and a half men",
   "imdb": "http://www.imdb.com/title/tt0369179",
   "episodes": 237,
   "episodeLength": 21,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S11E13'
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
-  "episodes": 61,
+  "episodes": 62,
   "episodeLength": 42,
-  "stillWatching": 1
+  "stillWatching": 1,
+  'lastWatched': 'S04E16'
 }, {
   "title": "Wire, The",
   "imdb": "http://www.imdb.com/title/tt0306414",
