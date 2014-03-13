@@ -122,7 +122,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0436992/",
   "episodes": 103,
   "episodeLength": 45,
-  "stillWatching": 1
+  "stillWatching": 1,
+  "lastWatched" : "Christmas Special Season 7"
 },{
   "title": "Elementary",
   "imdb": "http://www.imdb.com/title/tt2191671/",
