@@ -1,4 +1,7 @@
-## UPDATE 27.03.2013 ##
+### UPDATE 13.03.2014 ###
+Each show has now 'last watched episode' in the data, because using episodes list on Wikipedia for determining which was the last one I watched was painful.
+
+### UPDATE 27.03.2013 ###
 The list is now dynamically rendered based on data JSON files. You can find it here: [Tv Shows](http://michalbe.github.com/tv-series/).
 
 ## My TV Shows List
