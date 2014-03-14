@@ -1,3 +1,5 @@
+var timeout = 8000;
+
 var Renderer = function(data, parent){
   var globalTotalMinutes = 0;
   var globalTotalEpisodes = 0;
@@ -37,12 +39,24 @@ var Renderer = function(data, parent){
       title.innerHTML = chunk.title;
     }
 
-    var episodesData = chunk.episodes + (chunk.totalEpisodes ? "/" + chunk.totalEpisodes : '');
-    if (chunk.lastWatched) {
-      episodesData = "<a class='last-watched' title='" + chunk.lastWatched +"'>" + episodesData + "</a>";
-    }
+    if (chunk.title === 'TOTAL') {
 
-    episodes.innerHTML = episodesData;
+      episodes.innerHTML = chunk.episodes;
+
+    } else if (!chunk.episodes) {
+      renderEpisodes(episodes, chunk, '<img src="style/loader.gif">');
+    } else {
+
+      var episodesData = chunk.episodes + ' / <img src="style/loader.gif">';
+      if (chunk.lastWatched) {
+        episodesData = "<a class='last-watched' title='" + chunk.lastWatched +"'>" + episodesData + "</a>";
+        episodes.dataset.lastWatched = chunk.lastWatched;
+      }
+
+      renderEpisodes(episodes, chunk, episodesData);
+      episodes.dataset.episodes = chunk.episodes;
+
+    }
 
     if (!chunk.totalTime) {
       episodeLength.innerHTML = chunk.episodeLength + "min";
@@ -85,3 +99,65 @@ var Renderer = function(data, parent){
 
   globalTotalMinutes = globalTotalMinutes = 0;
 };
+
+var parseWikiResponse = function(data) {
+
+  var id = data.id;
+  var content = data.content;
+
+  var element = document.getElementById(id);
+  var episodes = element.dataset.episodes;
+  var newData;
+
+  clearTimeout(element.dataset.timeout);
+
+  if (content === '' && failed.indexOf(element.dataset.name) === -1) {
+    WikiClient(element.dataset.name + ' (TV series)', id);
+    failed.push(element.dataset.name);
+    return;
+  }
+
+  if (episodes) {
+    if (episodes >= content) {
+      newData = episodes;
+    } else {
+      newData = episodes + ' / ' + content;
+    }
+
+    if (element.dataset.lastWatched) {
+      newData = "<a class='last-watched' title='" + element.dataset.lastWatched +"'>" + newData + "</a>";
+    }
+  } else {
+    newData = content;
+  }
+
+  element.innerHTML = newData;
+}
+
+var failed = [];
+
+var noResponse = function(id) {
+  var element = document.getElementById(id);
+  var episodes = element.dataset.episodes;
+  var newData = episodes || 0;
+
+  if (element.dataset.lastWatched) {
+    newData = "<a class='last-watched' title='" + element.dataset.lastWatched +"'>" + newData + "</a>";
+  }
+
+  element.innerHTML = newData;
+}
+
+var renderEpisodes = function(element, data, defaultValue) {
+  element.dataset.name = data.title;
+  element.innerHTML = defaultValue;
+  element.id = Math.random().toString(36).slice(2).toUpperCase();
+
+  WikiClient(data.wiki || data.title, element.id);
+
+  element.dataset.timeout = setTimeout((function(id){
+    return function() {
+      noResponse(id);
+    }
+  })(element.id), timeout);
+}
