@@ -12,7 +12,7 @@ var series = [{
   "episodeLength": 43,
   "stillWatching": 0
 }, {
-  "title": "American Dad",
+  "title": "American Dad!",
   "imdb": "http://www.imdb.com/title/tt0397306",
   "episodes": 162,
   "episodeLength": 21,
@@ -32,7 +32,8 @@ var series = [{
   "episodes": 37,
   "episodeLength": 22,
   "stillWatching": 1,
-  'lastWatched': 'S02E27'
+  'lastWatched': 'S02E27',
+  'wiki' : 'Anger_Management_(TV_series)'
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
@@ -52,7 +53,8 @@ var series = [{
   "episodes": 148,
   "episodeLength": 22,
   "stillWatching": 1,
-  'lastWatched': 'S07E13'
+  'lastWatched': 'S07E13',
+  'wiki' : 'The_Big_Bang_Theory'
 },{
   "title": "Blok Ekipa",
   "imdb": "http://www.filmweb.pl/serial/Blok+Ekipa-2013-692964",
@@ -90,22 +92,24 @@ var series = [{
   "episodes": "65",
   "totalEpisodes": "75",
   "episodeLength": 23,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'The Cleveland Show'
 }, {
   "title": "Common Law",
   "imdb": "http://www.imdb.com/title/tt1771072/",
   "episodes": "12",
   "episodeLength": 43,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'Common_Law_(2012_TV_series)'
 }, {
-  "title": "CSI: Las vegas",
+  "title": "CSI: Crime Scene Investigation",
   "imdb": "http://www.imdb.com/title/tt0247082/",
   "episodes": "121",
   "totalEpisodes": "287",
   "episodeLength": 45,
   "stillWatching": 0
 }, {
-  "title": "Czterej Pancerni i Pies",
+  "title": "Czterej pancerni i pies",
   "imdb": "http://www.imdb.com/title/tt0120948/",
   "episodes": "21",
   "episodeLength": 55,
@@ -144,7 +148,7 @@ var series = [{
   "stillWatching": 1,
   'lastWatched': 'S12E11'
 }, {
-  "title": "Flashforward",
+  "title": "FlashForward",
   "imdb": "http://www.imdb.com/title/tt1441135/",
   "episodes": "22",
   "episodeLength": 42,
@@ -155,7 +159,8 @@ var series = [{
   "episodes": 30,
   "episodeLength": 42,
   "stillWatching": 1,
-  'lastWatched': 'S3E10'
+  'lastWatched': 'S3E10',
+  'wiki' : 'Franklin_%26_Bash'
 }, {
   "title": "Fringe",
   "imdb": "http://www.imdb.com/title/tt1119644/",
@@ -198,7 +203,7 @@ var series = [{
   "episodeLength": 42,
   "stillWatching": 0
 }, {
-  "title": "House MD",
+  "title": "House",
   "imdb": "http://www.imdb.com/title/tt0412142/",
   "episodes": "177",
   "episodeLength": 42,
@@ -209,9 +214,10 @@ var series = [{
   "episodes": 13,
   "episodeLength": 60,
   "stillWatching": 1,
-  'lastWatched': 'S01E13'
+  'lastWatched': 'S01E13',
+  'wiki' : 'House_of_Cards_(U.S._TV_series)'
 }, {
-  "title": "How I met your mother",
+  "title": "How I Met Your Mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
   "episodes": 201,
   "episodeLength": 22,
@@ -228,13 +234,15 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0487831",
   "episodes": "24",
   "episodeLength": 25,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'The IT Crowd'
 }, {
   "title": "Jericho",
   "imdb": "http://www.imdb.com/title/tt0805663",
   "episodes": "29",
   "episodeLength": 43,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'Jericho (2006 TV series)'
 },{
   "title": "Joey",
   "imdb": "http://www.imdb.com/title/tt0375355/",
@@ -246,7 +254,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0165581/",
   "episodes": 207,
   "episodeLength": 22,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'The King of Queens'
 }, {
   "title": "Kyle XY",
   "imdb": "http://www.imdb.com/title/tt0756509/",
@@ -259,7 +268,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt2172103/",
   "episodes": "13",
   "episodeLength": 42,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'Last Resort (U.S. TV series)'
 }, {
   "title": "Lie to Me",
   "imdb": "http://www.imdb.com/title/tt1235099/",
@@ -279,7 +289,7 @@ var series = [{
   "episodeLength": 23,
   "stillWatching": 0
 }, {
-  "title": "MacGuyver",
+  "title": "MacGyver",
   "imdb": "http://www.imdb.com/title/tt0088559/",
   "episodes": 64,
   "totalEpisodes": "139",
@@ -291,7 +301,8 @@ var series = [{
   "episodes": 128,
   "episodeLength": 42,
   "stillWatching": 1,
-  'lastWatched': 'S06E12'
+  'lastWatched': 'S06E12',
+  'wiki' : 'The_Mentalist'
 }, {
   "title": "Misfits",
   "imdb": "http://www.imdb.com/title/tt1548850/",
@@ -301,7 +312,7 @@ var series = [{
   "stillWatching": 1,
   'lastWatched': 'S04E03'
 }, {
-  "title": "My wife and kids",
+  "title": "My Wife and Kids",
   "imdb": "http://www.imdb.com/title/tt0273855",
   "episodes": "122",
   "episodeLength": 23,
@@ -330,7 +341,8 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0285403",
   "episodes": "182",
   "episodeLength": 23,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'Scrubs (TV series)'
 }, {
   "title": "Sex and the City",
   "imdb": "http://www.imdb.com/title/tt0159206",
@@ -343,7 +355,8 @@ var series = [{
   "episodes": 41,
   "episodeLength": 55,
   "stillWatching": 1,
-  'lastWatched': 'S04E05'
+  'lastWatched': 'S04E05',
+  'wiki' : 'Shameless (U.S. TV series)'
 }, {
   "title": "Sherlock",
   "imdb": "http://www.imdb.com/title/tt1475582",
@@ -352,12 +365,12 @@ var series = [{
   "stillWatching": 1,
   'lastWatched': 'S03E03'
 }, {
-  "title": "Simpsons, The",
+  "title": "Simpsons",
   "imdb": "http://www.imdb.com/title/tt0096697/",
   "episodes": 23,
   "totalEpisodes": "523",
   "episodeLength": 24,
-  "stillWatching": 1
+  "stillWatching": 0
 }, {
   "title": "Stawka większa niż życie",
   "imdb": "http://www.imdb.com/title/tt0065035/",
@@ -370,7 +383,8 @@ var series = [{
   "episodes": 38,
   "episodeLength": 42,
   "stillWatching": 1,
-  'lastWatched': 'S03E10'
+  'lastWatched': 'S03E10',
+  'wiki' : 'Suits_(TV_series)'
 }, {
   "title": "That '70s Show",
   "imdb": "http://www.imdb.com/title/tt0165598/",
@@ -385,7 +399,7 @@ var series = [{
   "stillWatching": 1,
   'lastWatched': 'S01E03'
 },{
-  "title": "Two and a half men",
+  "title": "Two and a Half Men",
   "imdb": "http://www.imdb.com/title/tt0369179",
   "episodes": 237,
   "episodeLength": 21,
@@ -397,11 +411,13 @@ var series = [{
   "episodes": 62,
   "episodeLength": 42,
   "stillWatching": 1,
-  'lastWatched': 'S04E16'
+  'lastWatched': 'S04E16',
+  'wiki' : 'White Collar (TV series)'
 }, {
-  "title": "Wire, The",
+  "title": "Wire",
   "imdb": "http://www.imdb.com/title/tt0306414",
   "episodes": "60",
   "episodeLength": 60,
-  "stillWatching": 0
+  "stillWatching": 0,
+  'wiki' : 'The Wire'
 }];

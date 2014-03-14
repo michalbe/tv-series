@@ -175,3 +175,8 @@ table tr:hover td {
 .last-watched {
 	cursor: pointer;
 }
+
+#to-consider .totallength,
+table ~ table > tr:last-child {
+	display: none;
+}
