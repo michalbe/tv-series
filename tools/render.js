@@ -118,6 +118,7 @@ var parseWikiResponse = function(data) {
   }
 
   if (episodes) {
+
     if (episodes >= content) {
       newData = episodes;
     } else {
@@ -127,6 +128,21 @@ var parseWikiResponse = function(data) {
     if (element.dataset.lastWatched) {
       newData = "<a class='last-watched' title='" + element.dataset.lastWatched +"'>" + newData + "</a>";
     }
+
+    if (element.dataset.stillWatching == 1 && episodes < content) {
+      // watching, not up to date
+      element.parentNode.classList.add('red');
+    } else if (element.dataset.stillWatching == 1 && episodes >= content) {
+      // watching up to date!
+      element.parentNode.classList.add('green');
+    } else if (element.dataset.stillWatching == 0 && episodes >= content) {
+      //not watching anymore, finished :(
+      element.parentNode.classList.add('finished');
+    } else if (element.dataset.stillWatching == 0 && episodes < content) {
+      // not watching this shit anymore
+      element.parentNode.classList.add('abandoned');
+    }
+
   } else {
     newData = content;
   }
@@ -150,6 +166,7 @@ var noResponse = function(id) {
 
 var renderEpisodes = function(element, data, defaultValue) {
   element.dataset.name = data.title;
+  element.dataset.stillWatching = data.stillWatching;
   element.innerHTML = defaultValue;
   element.id = Math.random().toString(36).slice(2).toUpperCase();
 

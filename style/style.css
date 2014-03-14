@@ -180,3 +180,21 @@ table tr:hover td {
 table ~ table > tr:last-child {
 	display: none;
 }
+
+#series .red {
+	background: #ffcfcf;
+}
+
+/*#series tr.green {
+	background: #c1ffbc;
+}*/
+
+/*#series tr.abandoned {
+	background: #fac09d;
+}*/
+
+/*#series tr.green td,
+#series tr.abandoned td,*/
+#series tr.red td {
+	background: none;
+}
