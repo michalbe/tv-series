@@ -24,7 +24,7 @@ var series = [{
   "episodes": "12",
   "totalEpisodes": "25",
   "episodeLength": 45,
-  "stillWatching": 1,
+  "stillWatching": 0,
   'lastWatched': 'S02E13'
 }, {
   "title": "Anger Management",
@@ -83,7 +83,7 @@ var series = [{
 }, {
   "title": "Californication",
   "imdb": "http://www.imdb.com/title/tt0904208/",
-  "episodes": 71,
+  "episodes": 72,
   "episodeLength": 28,
   "stillWatching": 1
 }, {
@@ -138,7 +138,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt2191671/",
   "episodes": 25,
   "episodeLength": 44,
-  "stillWatching": 1,
+  "stillWatching": 0,
   'lastWatched': 'S02E01'
 }, {
   "title": "Family Guy",
@@ -248,7 +248,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt0375355/",
   "episodes": 17,
   "episodeLength": 24,
-  "stillWatching": 1
+  "stillWatching": 0
 }, {
   "title": "King of Queens",
   "imdb": "http://www.imdb.com/title/tt0165581/",
@@ -380,10 +380,10 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "http://www.imdb.com/title/tt1632701/",
-  "episodes": 38,
+  "episodes": 39,
   "episodeLength": 42,
   "stillWatching": 1,
-  'lastWatched': 'S03E10',
+  'lastWatched': 'S03E11',
   'wiki' : 'Suits_(TV_series)'
 }, {
   "title": "That '70s Show",
@@ -410,7 +410,7 @@ var series = [{
   "imdb": "http://www.imdb.com/title/tt1358522/",
   "episodes": 62,
   "episodeLength": 42,
-  "stillWatching": 1,
+  "stillWatching": 0,
   'lastWatched': 'S04E16',
   'wiki' : 'White Collar (TV series)'
 }, {
