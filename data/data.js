@@ -37,10 +37,10 @@ var series = [{
 }, {
   "title": "Arrow",
   "imdb": "http://www.imdb.com/title/tt2193021/",
-  "episodes": 36,
+  "episodes": 37,
   "episodeLength": 44,
   "stillWatching": 1,
-  'lastWatched': 'S02E13'
+  'lastWatched': 'S02E14'
 }, {
   "title": "Banshee",
   "imdb": "http://www.imdb.com/title/tt2017109/",
