@@ -77,10 +77,15 @@ var Renderer = function(data, parent){
 
     stillWatching.innerHTML = chunk.stillWatching ? "Yes" : "No";
 
+    var addVoter = function(voter, name) {
+        votes.innerHTML += "<a href='https://github.com/" + name +
+          "'><img src='" + voter + "' title='"+ name +"' class='voter'></a> ";
+    }
+
     if (chunk.votes) {
       var votesContent = '';
-      chunk.votes.forEach(function(voter){
-        votes.innerHTML += "<a href='https://github.com/"+voter+"'>+</a> ";
+      chunk.votes.forEach(function(voter) {
+        GHClient(voter, addVoter);
       });
     }
 

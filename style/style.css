@@ -198,3 +198,9 @@ table ~ table > tr:last-child {
 #series tr.red td {
 	background: none;
 }
+
+img.voter {
+	width: 20px;
+	height: 20px;
+	margin: 1px;
+}

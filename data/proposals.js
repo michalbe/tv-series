@@ -14,7 +14,7 @@ var toConsider = [{
   "imdb": "http://www.imdb.com/title/tt0185906",
   "episodeLength": 60,
   "stillWatching": 0,
-  "votes": ["tobeytailor"]
+  "votes": ["tobytailor"]
 }, {
   "title": "Black Mirror",
   "imdb": "http://www.imdb.com/title/tt2085059/",
@@ -63,7 +63,7 @@ var toConsider = [{
   "imdb": "http://www.imdb.com/tt1796960",
   "episodeLength": 60,
   "stillWatching": 1,
-  "votes": ["tobeytailor", "shorang", "ryanburgess"]
+  "votes": ["tobytailor", "shorang", "ryanburgess"]
 }, {
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "http://www.imdb.com/title/tt0472954/",
@@ -119,13 +119,13 @@ var toConsider = [{
   "imdb": "http://www.imdb.com/title/tt1124373",
   "episodeLength": 45,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "tobeytailor","tizianozonta", "ryanburgess"]
+  "votes": ["kamilogorek", "tobytailor","tizianozonta", "ryanburgess"]
 }, {
   "title": "Spartacus",
   "imdb": "http://www.imdb.com/title/tt1442449",
   "episodeLength": 60,
   "stillWatching": 1,
-  "votes": ["kamilogorek", "datrio", "afronski", "tobeytailor"]
+  "votes": ["kamilogorek", "datrio", "afronski", "tobytailor"]
 }, {
   "title": "The Following",
   "imdb": "http://www.imdb.com/title/tt2071645",
@@ -137,7 +137,7 @@ var toConsider = [{
   "imdb": "http://www.imdb.com/tt1870479",
   "episodeLength": 60,
   "stillWatching": 1,
-  "votes": ["tobeytailor"],
+  "votes": ["tobytailor"],
   'wiki' : 'The Newsroom (U.S. TV series)'
 }, {
   "title": "The Office",
@@ -151,26 +151,26 @@ var toConsider = [{
   "imdb": "http://www.imdb.com/tt0374463",
   "episodeLength": 60,
   "stillWatching": 0,
-  "votes": ["tobeytailor"],
+  "votes": ["tobytailor"],
   'wiki' : 'The_Pacific_(TV_miniseries)'
 }, {
   "title": "The Shield",
   "imdb": "http://www.imdb.com/tt0286486",
   "episodeLength": 42,
   "stillWatching": 0,
-  "votes": ["tobeytailor"]
+  "votes": ["tobytailor"]
 }, {
   "title": "The Sopranos",
   "imdb": "http://www.imdb.com/tt0141842",
   "episodeLength": 55,
   "stillWatching": 0,
-  "votes": ["tobeytailor", "ryanburgess"]
+  "votes": ["tobytailor", "ryanburgess"]
 }, {
   "title": "The Walking Dead",
   "imdb": "http://www.imdb.com/title/tt1520211/",
   "episodeLength": 44,
   "stillWatching": 1,
-  "votes": ["datrio", "afronski", "tobeytailor", "shorang", "ryanburgess", "scryptonite"],
+  "votes": ["datrio", "afronski", "tobytailor", "shorang", "ryanburgess", "scryptonite"],
   'wiki' : 'The Walking Dead (TV series)'
 }, {
   "title": "The West Wing",
