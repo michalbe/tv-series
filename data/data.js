@@ -397,7 +397,8 @@ var series = [{
   "episodes": 3,
   "episodeLength": 60,
   "stillWatching": 1,
-  'lastWatched': 'S01E03'
+  'lastWatched': 'S01E03',
+  'wiki' : 'True Detective (TV series)'
 },{
   "title": "Two and a Half Men",
   "imdb": "http://www.imdb.com/title/tt0369179",

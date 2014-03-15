@@ -83,12 +83,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["afronski", "kamilogorek", "ryanburgess"]
 }, {
-  "title": "My Little Pony: Friendship Is Magic",
-  "imdb": "http://www.imdb.com/title/tt1751105/",
-  "episodeLength": 22,
-  "stillWatching": 1,
-  "votes": ["dos1"]
-}, {
   "title": "My Name Is Earl",
   "imdb": "http://www.imdb.com/title/tt0460091",
   "episodeLength": 30,
