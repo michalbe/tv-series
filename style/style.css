@@ -204,3 +204,12 @@ img.voter {
 	height: 20px;
 	margin: 1px;
 }
+
+.download-icon,
+img.voter {
+	width: 20px;
+	height: 20px;
+	margin-right: 3px;
+	margin-bottom: 2px;
+	vertical-align: middle;
+}

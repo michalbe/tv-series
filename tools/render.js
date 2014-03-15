@@ -137,6 +137,11 @@ var parseWikiResponse = function(data) {
     if (element.dataset.stillWatching == 1 && episodes < content) {
       // watching, not up to date
       element.parentNode.classList.add('red');
+      element.previousSibling.innerHTML = '<a href="http://www.filestube.to/query.html?q=' +
+        element.dataset.name + ' ' + incrementLastWatched(element.dataset.lastWatched) +
+        '"><img src="style/dwnld.png" class="download-icon"></a>' +
+        element.previousSibling.innerHTML;
+
     } else if (element.dataset.stillWatching == 1 && episodes >= content) {
       // watching up to date!
       element.parentNode.classList.add('green');
@@ -182,4 +187,11 @@ var renderEpisodes = function(element, data, defaultValue) {
       noResponse(id);
     }
   })(element.id), timeout);
+}
+
+var incrementLastWatched = function(value) {
+  var lw = value.split('E');
+  lw[1] = parseInt(lw[1], 10);
+  lw[1]++;
+  return lw.join('E');
 }
