@@ -219,10 +219,10 @@ var series = [{
 }, {
   "title": "How I Met Your Mother",
   "imdb": "http://www.imdb.com/title/tt0460649/",
-  "episodes": 202,
+  "episodes": 203,
   "episodeLength": 22,
   "stillWatching": 1,
-  'lastWatched': 'S09E18'
+  'lastWatched': 'S09E19'
 }, {
   "title": "I, Claudius",
   "imdb": "http://www.imdb.com/title/tt0074006/",
