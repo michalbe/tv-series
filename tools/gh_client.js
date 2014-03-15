@@ -1,13 +1,12 @@
 var GHClient = (function() {
-  var avatars = {};
+  var default_av = 'https://i2.wp.com/a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png';
   var url = 'https://api.github.com/users/';
 
   var getAvatar = function(name, callback) {
     var xhr = new XMLHttpRequest();
     xhr.onreadystatechange = function(){
       if (xhr.readyState === 4) {
-        avatars[name] = JSON.parse(xhr.responseText).avatar_url;
-        callback(avatars[name]);
+        callback(JSON.parse(xhr.responseText).avatar_url || default_av, name);
       }
     }
 
@@ -16,11 +15,6 @@ var GHClient = (function() {
   }
 
   return function(name, cb) {
-    if (name in avatars) {
-      cb(avatars[name]);
-      return;
-    } else {
       getAvatar(name, cb);
-    }
   }
 })();
