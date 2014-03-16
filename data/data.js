@@ -402,10 +402,10 @@ var series = [{
 },{
   "title": "Two and a Half Men",
   "imdb": "http://www.imdb.com/title/tt0369179",
-  "episodes": 240,
+  "episodes": 241,
   "episodeLength": 21,
   "stillWatching": 1,
-  'lastWatched': 'S11E16'
+  'lastWatched': 'S11E17'
 }, {
   "title": "White Collar",
   "imdb": "http://www.imdb.com/title/tt1358522/",
