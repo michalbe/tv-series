@@ -50,10 +50,10 @@ var series = [{
 }, {
   "title": "Big Bang Theory",
   "imdb": "http://www.imdb.com/title/tt0898266/",
-  "episodes": 151,
+  "episodes": 152,
   "episodeLength": 22,
   "stillWatching": 1,
-  'lastWatched': 'S07E16',
+  'lastWatched': 'S07E17',
   'wiki' : 'The_Big_Bang_Theory'
 },{
   "title": "Blok Ekipa",
