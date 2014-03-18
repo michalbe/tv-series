@@ -9,7 +9,15 @@ var toConsider = [{
   "episodeLength": 45,
   "stillWatching": 1,
   "votes": ["scryptonite"]
-}, {
+},
+{
+  "title": "Arrested development",
+  "imdb": "http://www.imdb.com/title/tt0367279/",
+  "episodeLength": 28,
+  "stillWatching": 0,
+  "votes": ["autonome"],
+  'wiki' : 'Arrested_Development_(TV_series)'
+},{
   "title": "Band of Brothers",
   "imdb": "http://www.imdb.com/title/tt0185906",
   "episodeLength": 60,
