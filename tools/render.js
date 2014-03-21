@@ -39,17 +39,15 @@ var Renderer = function(data, parent) {
       element.appendChild(votes);
     }
 
-    if (chunk.poster) {
-      cover.style.backgroundImage = 'url(' + chunk.poster + ')';
-    } else if (chunk.imdb) {
+    if (chunk.imdb && !chunk.poster) {
       OMDBClient(chunk.imdb, function(data) {
-        var length = data.episodeLength;
+        var length = chunk.episodeLength || data.episodeLength;
         if (length) {
           episodeLength.innerHTML = length + 'min';
           var showTotalTime = length * chunk.episodes;
           totalLength.innerHTML = minToH(showTotalTime);
           if(!chunk.votes) {
-            incrementAll(showTotalTime);  
+            incrementAll(showTotalTime);
           }
 
         }
@@ -57,6 +55,20 @@ var Renderer = function(data, parent) {
           cover.style.backgroundImage = 'url(' + data.poster + ')';
         }
       });
+    }
+
+    if (chunk.poster) {
+      cover.style.backgroundImage = 'url(' + chunk.poster + ')';
+    }
+
+    if (chunk.episodeLength) {
+      var length = chunk.episodeLength;
+      episodeLength.innerHTML = length + 'min';
+      var showTotalTime = length * chunk.episodes;
+      totalLength.innerHTML = minToH(showTotalTime);
+      if(!chunk.votes) {
+        incrementAll(showTotalTime);
+      }
     }
 
     if (chunk.imdb) {
@@ -230,7 +242,6 @@ var minToH = function(min) {
 }
 
 var incrementAll = function(minutes) {
-  console.log(minutes);
   var element = document.querySelector('tbody tr:last-child .totallength');
   var total = parseInt(element.dataset.minutes, 10) || 0;
   total += minutes;
