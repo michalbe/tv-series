@@ -37,14 +37,18 @@ var Renderer = function(data, parent){
       element.appendChild(votes);
     }
 
-    if (chunk.imdb) {
-      title.innerHTML = "<a href='http://www.imdb.com/title/" + chunk.imdb + "''>" + chunk.title + "</a>";
+    if (chunk.poster) {
+      cover.style.backgroundImage = 'url(' + chunk.poster + ')';
+    } else if (chunk.imdb) {
       OMDBClient(chunk.imdb, function(data) {
         if (data.poster) {
           cover.style.backgroundImage = 'url(' + data.poster + ')';
         }
       });
+    }
 
+    if (chunk.imdb) {
+      title.innerHTML = "<a href='http://www.imdb.com/title/" + chunk.imdb + "''>" + chunk.title + "</a>";
     } else {
       title.innerHTML = chunk.title;
     }
