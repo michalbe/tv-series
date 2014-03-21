@@ -1,6 +1,8 @@
 var timeout = 8000;
 
-var Renderer = function(data, parent){
+var Renderer = function(data, parent) {
+  parent = parent.querySelector('tbody');
+
   var globalTotalMinutes = 0;
   var globalTotalEpisodes = 0;
 
@@ -41,7 +43,16 @@ var Renderer = function(data, parent){
       cover.style.backgroundImage = 'url(' + chunk.poster + ')';
     } else if (chunk.imdb) {
       OMDBClient(chunk.imdb, function(data) {
-        console.log(chunk.title, data.episodeLength);
+        var length = data.episodeLength;
+        if (length) {
+          episodeLength.innerHTML = length + 'min';
+          var showTotalTime = length * chunk.episodes;
+          totalLength.innerHTML = minToH(showTotalTime);
+          if(!chunk.votes) {
+            incrementAll(showTotalTime);  
+          }
+
+        }
         if (data.poster) {
           cover.style.backgroundImage = 'url(' + data.poster + ')';
         }
@@ -74,7 +85,8 @@ var Renderer = function(data, parent){
     }
 
     if (!chunk.totalTime) {
-      episodeLength.innerHTML = chunk.episodeLength + "min";
+      // Moved to the OMDB API call at the top
+      //episodeLength.innerHTML = chunk.episodeLength + "min";
       globalTotalEpisodes += parseInt(chunk.episodes, 10);
     }
 
@@ -87,8 +99,9 @@ var Renderer = function(data, parent){
       globalTotalMinutes += totalMinutes;
     }
 
-    totalLength.innerHTML = ~~( totalMinutes / 60) + "h " +
-      (totalMinutes%60 === 0 ? '' : totalMinutes%60 + "min");
+    // Moved to the OMDB client call at the top
+    // totalLength.innerHTML = ~~( totalMinutes / 60) + "h " +
+    //   (totalMinutes%60 === 0 ? '' : totalMinutes%60 + "min");
 
     stillWatching.innerHTML = chunk.stillWatching ? "Yes" : "No";
 
@@ -209,4 +222,18 @@ var incrementLastWatched = function(value) {
   lw[1] = parseInt(lw[1], 10);
   lw[1]++;
   return lw.join('E');
+}
+
+var minToH = function(min) {
+  return ~~( min / 60) + "h " +
+    (min%60 === 0 ? '' : min%60 + "min");
+}
+
+var incrementAll = function(minutes) {
+  console.log(minutes);
+  var element = document.querySelector('tbody tr:last-child .totallength');
+  var total = parseInt(element.dataset.minutes, 10) || 0;
+  total += minutes;
+  element.dataset.minutes = total;
+  element.innerHTML = minToH(total);
 }
