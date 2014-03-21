@@ -17,62 +17,66 @@
 <body>
     <a href="https://github.com/michalbe/tv-series"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png" alt="Fork me on GitHub"></a>
   <table id="series">
-    <tr>
-      <th colspan=5 style="text-align:center">
-        My List
-      </th>
-    </tr>
-    <tr>
-      <th>
-        Cover
-      </th>
-      <th>
-        Title
-      </th>
-      <th>
-        Episodes
-      </th>
-      <th>
-        Episode Length
-      </th>
-      <th>
-        Total Length
-      </th>
-      <th>
-        Still watching?
-      </th>
-    </tr>
+    <tbody>
+      <tr>
+        <th colspan=5 style="text-align:center">
+          My List
+        </th>
+      </tr>
+      <tr>
+        <th>
+          Cover
+        </th>
+        <th>
+          Title
+        </th>
+        <th>
+          Episodes
+        </th>
+        <th>
+          Episode Length
+        </th>
+        <th>
+          Total Length
+        </th>
+        <th>
+          Still watching?
+        </th>
+      </tr>
+    </tbody>
   </table>
 
   <table id="to-consider">
-    <tr>
-      <th colspan=5 style="text-align:center">
-        Shows to consider
-      </th>
-    </tr>
-     <tr>
-       <th>
-         Cover
-       </th>
-       <th>
-         Title
-       </th>
-       <th>
-         Episodes
-       </th>
-       <th>
-         Episode Length
-       </th>
-       <th class="totallength">
-         Total Length
-       </th>
-       <th class="stillWatching">
-         Ongoing?
-       </th>
-       <th>
-         Votes
-       </th>
-     </tr>
+    <tbody>
+      <tr>
+        <th colspan=5 style="text-align:center">
+          Shows to consider
+        </th>
+      </tr>
+       <tr>
+         <th>
+           Cover
+         </th>
+         <th>
+           Title
+         </th>
+         <th>
+           Episodes
+         </th>
+         <th>
+           Episode Length
+         </th>
+         <th class="totallength">
+           Total Length
+         </th>
+         <th class="stillWatching">
+           Ongoing?
+         </th>
+         <th>
+           Votes
+         </th>
+       </tr>
+     </tbody>
   </table>
     <script>
       Renderer(series, document.getElementById('series'));
