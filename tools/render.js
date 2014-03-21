@@ -41,6 +41,7 @@ var Renderer = function(data, parent){
       cover.style.backgroundImage = 'url(' + chunk.poster + ')';
     } else if (chunk.imdb) {
       OMDBClient(chunk.imdb, function(data) {
+        console.log(chunk.title, data.episodeLength);
         if (data.poster) {
           cover.style.backgroundImage = 'url(' + data.poster + ')';
         }
