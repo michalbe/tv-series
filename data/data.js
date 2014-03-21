@@ -58,6 +58,7 @@ var series = [{
 },{
   "title": "Blok Ekipa",
   "episodes": 19,
+  "poster" : "http://i1.ytimg.com/vi/yk_4kQjgBJw/maxresdefault.jpg",
   "episodeLength": 5,
   "stillWatching": 1
 }, {
@@ -111,6 +112,7 @@ var series = [{
   "title": "Czterej pancerni i pies",
   "imdb": "tt0120948",
   "episodes": "21",
+  "poster" : "http://1.fwcdn.pl/po/51/55/35155/6924870.3.jpg",
   "episodeLength": 55,
   "stillWatching": 0
 },{
@@ -320,6 +322,7 @@ var series = [{
   "title": "Odwroceni",
   "imdb": "tt0998810",
   "episodes": "13",
+  "poster" : "http://1.fwcdn.pl/po/93/45/339345/7222269.3.jpg",
   "episodeLength": 45,
   "stillWatching": 0
 }, {
@@ -374,6 +377,7 @@ var series = [{
   "title": "Stawka większa niż życie",
   "imdb": "tt0065035",
   "episodes": "18",
+  "poster" : "http://1.fwcdn.pl/po/97/71/9771/6924861.3.jpg",
   "episodeLength": 60,
   "stillWatching": 0
 }, {
