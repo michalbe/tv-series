@@ -150,7 +150,7 @@ var series = [{
   "imdb": "tt0108778",
   "episodes": 238,
   "totalEpisodes": 239,
-  "stillWatching": 1
+  "stillWatching": 0
 }, {
   "title": "Futurama",
   "imdb": "tt0149460",
