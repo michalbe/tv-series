@@ -18,7 +18,6 @@ var series = [{
   "title": "American Horror Story",
   "imdb": "tt1844624",
   "episodes": "12",
-  "totalEpisodes": "25",
   "stillWatching": 0,
   'lastWatched': 'S02E13'
 }, {
@@ -66,7 +65,6 @@ var series = [{
   "title": "Boardwalk Empire",
   "imdb": "tt0979432",
   "episodes": "12",
-  "totalEpisodes": 36,
   "stillWatching": 0
 }, {
   "title": "Californication",
@@ -77,7 +75,6 @@ var series = [{
   "title": "Cleveland Show",
   "imdb": "tt1195935",
   "episodes": "65",
-  "totalEpisodes": "75",
   "stillWatching": 0,
   'wiki' : 'The Cleveland Show'
 }, {
@@ -90,7 +87,6 @@ var series = [{
   "title": "CSI: Crime Scene Investigation",
   "imdb": "tt0247082",
   "episodes": "121",
-  "totalEpisodes": "287",
   "stillWatching": 0
 }, {
   "title": "Czterej pancerni i pies",
@@ -148,8 +144,7 @@ var series = [{
 },{
   "title": "Friends",
   "imdb": "tt0108778",
-  "episodes": 238,
-  "totalEpisodes": 239,
+  "episodes": 239,
   "stillWatching": 0
 }, {
   "title": "Futurama",
@@ -173,7 +168,6 @@ var series = [{
   "title": "Heroes",
   "imdb": "tt0813715",
   "episodes": "59",
-  "totalEpisodes": "77",
   "stillWatching": 0
 }, {
   "title": "House",
@@ -226,7 +220,6 @@ var series = [{
   "title": "Kyle XY",
   "imdb": "tt0756509",
   "episodes": "10",
-  "totalEpisodes": "43",
   "stillWatching": 0
 }, {
   "title": "Last Resort",
@@ -253,7 +246,6 @@ var series = [{
   "title": "MacGyver",
   "imdb": "tt0088559",
   "episodes": 64,
-  "totalEpisodes": "139",
   "stillWatching": 0
 }, {
   "title": "Mentalist",
@@ -266,7 +258,6 @@ var series = [{
   "title": "Misfits",
   "imdb": "tt1548850",
   "episodes": 24,
-  "totalEpisodes": 29,
   "stillWatching": 1,
   'lastWatched': 'S04E03'
 }, {
@@ -320,7 +311,6 @@ var series = [{
   "title": "Simpsons",
   "imdb": "tt0096697",
   "episodes": 23,
-  "totalEpisodes": "523",
   "stillWatching": 0
 }, {
   "title": "Stawka większa niż życie",
