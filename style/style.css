@@ -133,7 +133,7 @@ table tr {
 	text-align: center;
 	padding-left:20px;
 }
-table td:first-child {
+table td:nth-child(2) {
 	text-align: left;
 	padding-left:20px;
 	border-left: 0;
