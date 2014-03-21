@@ -7,6 +7,10 @@ var Renderer = function(data, parent){
   var render = function(chunk) {
     var element = document.createElement('tr');
 
+    var cover = document.createElement('td');
+    cover.className = "cover";
+    element.appendChild(cover);
+
     var title = document.createElement('td');
     title.className = "title";
     element.appendChild(title);
@@ -34,7 +38,13 @@ var Renderer = function(data, parent){
     }
 
     if (chunk.imdb) {
-      title.innerHTML = "<a href=" + chunk.imdb + ">" + chunk.title + "</a>";
+      title.innerHTML = "<a href='http://www.imdb.com/title/" + chunk.imdb + "''>" + chunk.title + "</a>";
+      OMDBClient(chunk.imdb, function(data) {
+        if (data.poster) {
+          cover.style.backgroundImage = 'url(' + data.poster + ')';
+        }
+      });
+
     } else {
       title.innerHTML = chunk.title;
     }

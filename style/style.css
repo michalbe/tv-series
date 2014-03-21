@@ -213,3 +213,7 @@ img.voter {
 	margin-bottom: 2px;
 	vertical-align: middle;
 }
+
+td.cover {
+	background-size: cover !important;
+}
