@@ -1,0 +1,17 @@
+<body>
+</body>
+<script src="omdb_client.js"></script>
+<script>
+var tvShow = {
+  "title": "Suits",
+  "imdb": "tt1632701",
+  "episodes": 40,
+  //"episodeLength": 42,
+  "stillWatching": 1,
+  'lastWatched': 'S03E12',
+  'wiki' : 'Suits_(TV_series)'
+};
+  var client = OMDBClient(tvShow.imdb, function(response){
+    console.log(response)
+  });
+</script>
