@@ -76,10 +76,10 @@ var omdbAction = function(chunko, callback) {
   }
 
   console.log('Starting ', chunko.title);
-  if (chunko.imdb)
+  //if (chunko.imdb)
     omdbClient(chunko.imdb, omdbCallback);
-  else
-    callback();
+  //else
+    //callback();
 }
 
 module.exports = buildChunk;

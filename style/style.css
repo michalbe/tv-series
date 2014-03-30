@@ -177,7 +177,7 @@ table tr:hover td {
 }
 
 #to-consider .totallength,
-table ~ table > tr:last-child {
+#to-consider > tbody > tr:last-child {
 	display: none;
 }
 
