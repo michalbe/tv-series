@@ -1,18 +1,15 @@
-var OMDBClient = function(id, callback) {
+var request = require('request');
+
+module.exports = function(id, callback) {
+
     var url = 'http://www.omdbapi.com/?i=';
 
-    var xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function(){
-      if (xhr.readyState === 4) {
-        var response = JSON.parse(xhr.responseText);
+    request(url + id, function(err, req, data) {
+        var response = JSON.parse(data);
         var resp = {
           'episodeLength' : parseInt(response.Runtime, 10),
           'poster' : response.Poster
         }
         callback(resp, id);
-      }
-    }
-
-    xhr.open('GET', url + id, true);
-    xhr.send();
+    });
 };
