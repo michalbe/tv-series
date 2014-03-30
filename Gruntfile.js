@@ -1,14 +1,33 @@
-var fs = require('fs');
-var proposals = require('./data/proposals');
-var buildChunk = require('./tools/build_chunk');
 module.exports = function(grunt) {
 
-  grunt.registerTask('proposals', "Build proposals list", function() {
-    proposals.forEach(function(chunk) {
-      buildChunk(chunk);
-    });
-  });
+  grunt.initConfig({
+    exec: {
+      all: {
+        command : 'node ./tools/build.js all true'
+      },
+      "fullseries": {
+        command : 'node ./tools/build.js series true'
+      },
+      "fullproposals": {
+        command : 'node ./tools/build.js proposals true'
+      },
+      series: {
+        command : 'node ./tools/build.js series false'
+      },
+      "proposals": {
+        command : 'node ./tools/build.js proposals false'
+      },
+      "justdata": {
+        command : 'node ./tools/build.js all false'
+      },
+    }
+})
+  grunt.loadNpmTasks('grunt-exec');
 
-  grunt.registerTask('default', ['proposals']);
-
+  grunt.registerTask('default', ['exec:series']);
+  grunt.registerTask('all', ['exec:all']);
+  grunt.registerTask('full-series', ['exec:fullseries']);
+  grunt.registerTask('full-proposals', ['exec:fullproposals']);
+  grunt.registerTask('proposals', ['exec:proposals']);
+  grunt.registerTask('data', ['exec:justdata']);
 };

@@ -7,6 +7,8 @@ var async = require('async');
 var request = require('request');
 var download = require('download');
 
+var download_covers = true;
+
 var buildChunk = function(chunkb, callback) {
   async.parallel({
     github: async.apply(votesAction, chunkb),
@@ -44,7 +46,7 @@ var omdbAction = function(chunko, callback) {
       return callback(null);
     }
 
-    if (resp.poster && resp.poster !== "N/A") {
+    if (resp.poster && resp.poster !== "N/A" && download_covers) {
       var dw = download({
         url: resp.poster,
         name: chunko.title.toLowerCase().replace(/[^A-Za-z0-9]/gi, '-') + '.jpg'
@@ -82,4 +84,9 @@ var omdbAction = function(chunko, callback) {
     //callback();
 }
 
-module.exports = buildChunk;
+module.exports = {
+  build: buildChunk,
+  download: function(value) {
+    download_covers = value;
+  }
+}
