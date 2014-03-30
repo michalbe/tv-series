@@ -11,7 +11,7 @@ var GHClient = (function() {
         headers: { "user-agent" : "twoja-stara-lambadziara 10.7" }
       }, function(err, response, body) {
         //console.log(body);
-        callback((body && JSON.parse(body).avatar_url) || default_av, name);
+        callback(null, (body && JSON.parse(body).avatar_url) || default_av, name);
       }
     );
   }
