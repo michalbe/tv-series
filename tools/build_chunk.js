@@ -1,64 +1,45 @@
+var fs = require('fs');
+
 var ghClient = require('./gh_client');
 var omdbClient = require('./omdb_client');
 
+var async = require('async');
+var request = require('request');
 var download = require('download');
 
-var globalCb;
-
-var omdbResp = function(chunkr) {
-  if (chunkr.imdb && (!chunkr.poster || !chunkr.episodeLength)) {
-    console.log('Starting ', chunkr.title);
-    omdbAction(chunkr, globalCb);
-  } else {
-    console.log('Skipping', chunkr.title);
-  }
-}
-
 var buildChunk = function(chunkb, callback) {
-  globalCb = callback;
-  if (chunkb.votes) {
-    votesAction(chunkb, omdbResp);
-  } else {
-    console.log('NO VOTES');
-    omdbResp(chunkb);
-  }
+  async.parallel({
+    github: async.apply(votesAction, chunkb),
+    omdb: async.apply(omdbAction, chunkb)
+  }, callback);
 }
 
 var votesAction = function(chunkv, callback){
   var avatars = [];
   var votes = chunkv.votes;
-  var downloaded = 0;
-  var avatarCallback = function(avatar, name) {
-    avatars.push(
-      {
-        name: name + '.jpg',
-        url:  avatar
+
+  function getAvatar(user, next) {
+    ghClient(user, function(err, url, name) {
+      if (err) {
+        return next(err);
       }
-    );
 
-    if (avatars.length === votes.length) {
-      var dw = download(avatars, './data/build/assets/avatars');
-      dw.on('close', function(){
-        downloaded++;
-        if (downloaded === votes.length) {
-          //console.log('Avatars of voter for ' + chunk.title + ' downloaded');
-          callback(chunkv); //LOL, NOPE
-        }
-      });
+      request(url)
+        .pipe(fs.createWriteStream('./data/build/assets/avatars/' + user + '.jpg'))
+        .on('error', callback)
+        .on('end', callback);
+    });
+  }
 
-      dw.on('error', function(err) {
-        console.log('ERROR!', err);
-        callback(chunkv);
-      });
-    }
-  }
-  for (user in votes) {
-    ghClient(votes[user], avatarCallback);
-  }
+  async.each(chunkv.votes, getAvatar, callback);
 }
 
 var omdbAction = function(chunko, callback) {
-  var omdbCallback = function(resp) {
+  var omdbCallback = function(err, resp) {
+    if (err) {
+      return callback(null);
+    }
+
     if (resp.poster) {
       var dw = download({
         url: resp.poster,
@@ -66,18 +47,26 @@ var omdbAction = function(chunko, callback) {
       }, './data/build/assets/covers');
 
       dw.on('close', function() {
+        console.log('got', chunko.title);
         if (!chunko.episodeLength) {
           chunko.episodeLength = resp.episodeLength;
         }
-        callback(chunko);
+        callback();
       });
 
       dw.on('error', function(err) {
         console.log('ERROR!', err);
-        callback(chunko);
+        callback(null); // Ignore error for now
       });
     }
   }
+
+  if (!chunko.title) {
+    console.log('Skipping', chunko.title);
+    return callback();
+  }
+
+  console.log('Starting ', chunko.title);
   omdbClient(chunko.imdb, omdbCallback);
 }
 
