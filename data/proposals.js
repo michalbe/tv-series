@@ -166,7 +166,7 @@ var toConsider = [{
   "title": "Weeds",
   "imdb": "tt0439100",
   "stillWatching": 0,
-  "votes": ["tizianozonta", "ryanburgess"],
+  "votes": ["tizianozonta", "ryanburgess", "mmalecki"],
   'wiki' : 'Weeds_(TV_series)'
 }, {
   "title": "Wilfred",
