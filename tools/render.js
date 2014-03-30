@@ -39,26 +39,15 @@ var Renderer = function(data, parent) {
       element.appendChild(votes);
     }
 
-    if (chunk.imdb && !chunk.poster) {
-      OMDBClient(chunk.imdb, function(data) {
-        var length = chunk.episodeLength || data.episodeLength;
-        if (length) {
-          episodeLength.innerHTML = length + 'min';
-          var showTotalTime = length * chunk.episodes;
-          totalLength.innerHTML = minToH(showTotalTime);
-          if(!chunk.votes) {
-            incrementAll(showTotalTime);
-          }
 
-        }
-        if (data.poster) {
-          cover.style.backgroundImage = 'url(' + data.poster + ')';
-        }
-      });
+    if (chunk.title === 'TOTAL') {
+      episodes.innerHTML = chunk.episodes;
     }
 
     if (chunk.poster) {
       cover.style.backgroundImage = 'url(' + chunk.poster + ')';
+    } else {
+      cover.style.backgroundImage = 'url(data/build/assets/covers/' + chunk.title.toLowerCase().replace(/[^A-Za-z0-9]/gi, '-') + '.jpg)';
     }
 
     if (chunk.episodeLength) {
@@ -66,9 +55,9 @@ var Renderer = function(data, parent) {
       episodeLength.innerHTML = length + 'min';
       var showTotalTime = length * chunk.episodes;
       totalLength.innerHTML = minToH(showTotalTime);
-      if(!chunk.votes) {
-        incrementAll(showTotalTime);
-      }
+      // if(!chunk.votes) {
+      //   incrementAll(showTotalTime);
+      // }
     }
 
     if (chunk.imdb) {
@@ -97,8 +86,7 @@ var Renderer = function(data, parent) {
     }
 
     if (!chunk.totalTime) {
-      // Moved to the OMDB API call at the top
-      //episodeLength.innerHTML = chunk.episodeLength + "min";
+      episodeLength.innerHTML = chunk.episodeLength + "min";
       globalTotalEpisodes += parseInt(chunk.episodes, 10);
     }
 
@@ -111,21 +99,20 @@ var Renderer = function(data, parent) {
       globalTotalMinutes += totalMinutes;
     }
 
-    // Moved to the OMDB client call at the top
-    // totalLength.innerHTML = ~~( totalMinutes / 60) + "h " +
-    //   (totalMinutes%60 === 0 ? '' : totalMinutes%60 + "min");
+    totalLength.innerHTML = ~~( totalMinutes / 60) + "h " +
+        (totalMinutes%60 === 0 ? '' : totalMinutes%60 + "min");
 
     stillWatching.innerHTML = chunk.stillWatching ? "Yes" : "No";
 
-    var addVoter = function(voter, name) {
+    var addVoter = function(name) {
         votes.innerHTML += "<a href='https://github.com/" + name +
-          "'><img src='" + voter + "' title='"+ name +"' class='voter'></a> ";
+          "'><img src='data/build/assets/avatars/" + name + ".jpg' title='"+ name +"' class='voter'></a> ";
     }
 
     if (chunk.votes) {
       var votesContent = '';
       chunk.votes.forEach(function(voter) {
-        GHClient(voter, addVoter);
+        addVoter(voter);
       });
     }
 

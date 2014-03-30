@@ -24,7 +24,7 @@ var buildList = function(list, filename, variable, callback) {
   });
 }
 
-buildList(proposals, 'proposal.js', 'toConsider', function() {
+buildList(proposals, 'proposals.js', 'toConsider', function() {
   console.log('Proposals finished, goin\' fo da rest nigga');
   buildList(series, 'series.js', 'series', function() {
     console.log('LOL, DONE!');
