@@ -1,6 +1,6 @@
 var fs = require('fs');
-
 var each = require('async-each');
+
 var series = require('../data/data');
 var proposals = require('../data/proposals');
 var buildChunk = require('./build_chunk');
