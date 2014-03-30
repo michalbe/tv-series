@@ -26,8 +26,8 @@ var votesAction = function(chunkv, callback){
 
       request(url)
         .pipe(fs.createWriteStream('./data/build/assets/avatars/' + user + '.jpg'))
-        .on('error', callback)
-        .on('end', callback);
+        .on('error', next)
+        .on('end', next);
     });
   }
 
