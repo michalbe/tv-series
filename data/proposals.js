@@ -175,3 +175,5 @@ var toConsider = [{
   "votes": ["kamilogorek", "sirgregg"],
   'wiki' : 'Wilfred (U.S. TV series)'
 }]
+
+module.exports = toConsider;

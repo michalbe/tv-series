@@ -1,0 +1,11 @@
+{
+  "name": "tv-shows",
+  "version": "3.0.0",
+  "author": "Michal Budzynski<mb@bly.sk>",
+  "devDependencies": {
+    "grunt": "~0.4.4",
+    "download": "~0.1.10",
+    "request": "~2.34.0",
+    "async-each": "~0.1.4"
+  }
+}
