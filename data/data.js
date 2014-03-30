@@ -180,9 +180,9 @@ var series = [{
 }, {
   "title": "House of Cards",
   "imdb": "tt1856010",
-  "episodes": 14,
+  "episodes": 21,
   "stillWatching": 1,
-  'lastWatched': 'S01E14',
+  'lastWatched': 'S02E08',
   'wiki' : 'House_of_Cards_(U.S._TV_series)'
 }, {
   "title": "How I Met Your Mother",
