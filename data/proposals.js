@@ -39,7 +39,7 @@ var toConsider = [{
   "title": "Chuck",
   "imdb": "tt0934814",
   "stillWatching": 1,
-  "votes": ["kamilogorek", "sirgregg", "scryptonite"]
+  "votes": ["kamilogorek", "gstepniewski", "scryptonite"]
 }, {
   "title": "Continuum",
   "imdb": "tt1954347",
@@ -49,7 +49,7 @@ var toConsider = [{
   "title": "Community",
   "imdb": "tt1439629",
   "stillWatching": 1,
-  "votes": ["sirgregg"]
+  "votes": ["gstepniewski"]
 }, {
   "title": "Cowboy Bebop",
   "imdb": "tt0213338",
@@ -69,7 +69,7 @@ var toConsider = [{
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "tt0472954",
   "stillWatching": 1,
-  "votes": ["sirgregg", "ryanburgess"]
+  "votes": ["gstepniewski", "ryanburgess"]
 }, {
   "title": "Mad Men",
   "imdb": "tt0804503",
@@ -84,7 +84,7 @@ var toConsider = [{
   "title": "My Name Is Earl",
   "imdb": "tt0460091",
   "stillWatching": 0,
-  "votes": ["kamilogorek", "sirgregg"]
+  "votes": ["kamilogorek", "gstepniewski"]
 }, {
   "title": "Numb3rs",
   "imdb": "tt0433309",
@@ -100,7 +100,7 @@ var toConsider = [{
   "title": "Parks and Recreation",
   "imdb": "tt1266020",
   "stillWatching": 1,
-  "votes": ["kamilogorek", "sirgregg", "ryanburgess"]
+  "votes": ["kamilogorek", "gstepniewski", "ryanburgess"]
 }, {
   "title": "Person of Interest",
   "imdb": "tt1839578",
@@ -176,7 +176,7 @@ var toConsider = [{
   "title": "Wilfred",
   "imdb": "tt1703925",
   "stillWatching": 1,
-  "votes": ["kamilogorek", "sirgregg"],
+  "votes": ["kamilogorek", "gstepniewski"],
   'wiki' : 'Wilfred (U.S. TV series)'
 }]
 
