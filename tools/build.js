@@ -70,6 +70,7 @@ switch (process.argv[2]) {
         console.log('Building finished...');
       }
     );
+    break;
   default:
     console.log('Wrong parameters!');
 }
