@@ -27,8 +27,12 @@ var votesAction = function(chunkv, callback){
       request(url)
         .pipe(fs.createWriteStream('./data/build/assets/avatars/' + user + '.jpg'))
         .on('error', next)
-        .on('end', next);
+        .on('close', next);
     });
+  }
+
+  if (!chunkv.votes) {
+    return callback();
   }
 
   async.each(chunkv.votes, getAvatar, callback);
@@ -40,7 +44,7 @@ var omdbAction = function(chunko, callback) {
       return callback(null);
     }
 
-    if (resp.poster) {
+    if (resp.poster && resp.poster !== "N/A") {
       var dw = download({
         url: resp.poster,
         name: chunko.title.toLowerCase().replace(/[^A-Za-z0-9]/gi, '-') + '.jpg'
@@ -51,13 +55,18 @@ var omdbAction = function(chunko, callback) {
         if (!chunko.episodeLength) {
           chunko.episodeLength = resp.episodeLength;
         }
-        callback();
+        callback(null, chunko);
       });
 
       dw.on('error', function(err) {
         console.log('ERROR!', err);
         callback(null); // Ignore error for now
       });
+    } else {
+      if (!chunko.episodeLength) {
+        chunko.episodeLength = resp.episodeLength;
+      }
+      callback(null, chunko);
     }
   }
 
@@ -67,7 +76,10 @@ var omdbAction = function(chunko, callback) {
   }
 
   console.log('Starting ', chunko.title);
-  omdbClient(chunko.imdb, omdbCallback);
+  if (chunko.imdb)
+    omdbClient(chunko.imdb, omdbCallback);
+  else
+    callback();
 }
 
 module.exports = buildChunk;
