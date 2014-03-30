@@ -359,3 +359,5 @@ var series = [{
   "stillWatching": 0,
   'wiki' : 'The Wire'
 }];
+
+module.exports = series;
