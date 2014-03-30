@@ -1,18 +1,22 @@
-var OMDBClient = function(id, callback) {
-    var url = 'http://www.omdbapi.com/?i=';
+var request = require('request');
 
-    var xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function(){
-      if (xhr.readyState === 4) {
-        var response = JSON.parse(xhr.responseText);
-        var resp = {
-          'episodeLength' : parseInt(response.Runtime, 10),
-          'poster' : response.Poster
-        }
-        callback(resp, id);
-      }
+module.exports = function(id, callback) {
+  if (!id) {
+    return callback(null, {}, null);
+  }
+
+  var url = 'http://www.omdbapi.com/?i=';
+
+  request(url + id, function(err, req, data) {
+    if (err) {
+      return callback(err);
     }
 
-    xhr.open('GET', url + id, true);
-    xhr.send();
+    var response = JSON.parse(data);
+    var resp = {
+      'episodeLength' : parseInt(response.Runtime, 10),
+      'poster' : response.Poster
+    }
+    callback(null, resp, id);
+  });
 };

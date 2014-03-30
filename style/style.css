@@ -139,6 +139,7 @@ table td:nth-child(2) {
 	border-left: 0;
 }
 table td {
+	transition: padding 0.2s;
 	padding:18px;
 	border-top: 1px solid #ffffff;
 	border-bottom:1px solid #e0e0e0;
@@ -170,6 +171,7 @@ table tr:hover td {
 	background: #f2f2f2;
 	background: -webkit-gradient(linear, left top, left bottom, from(#f2f2f2), to(#f0f0f0));
 	background: -moz-linear-gradient(top,  #f2f2f2,  #f0f0f0);
+	padding: 10px 18px 40px 18px;
 }
 
 .last-watched {
@@ -177,7 +179,7 @@ table tr:hover td {
 }
 
 #to-consider .totallength,
-table ~ table > tr:last-child {
+#to-consider > tbody > tr:last-child {
 	display: none;
 }
 
