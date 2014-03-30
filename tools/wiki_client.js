@@ -33,22 +33,30 @@ var untrashData = function(data) {
 
 function parseResponse(response) {
   //console.log(response);
-  var pages = response.query.pages;
-  var page = Object.keys(pages);
-  var content = pages[page].revisions[0]['*'];
-  var index = content.indexOf('num_episodes');
-  var content = content.slice(index, index+300);
+  try {
+    var pages = response.query.pages;
+    var page = Object.keys(pages);
+    var content = pages[page].revisions[0]['*'];
+    var index = content.indexOf('num_episodes');
+    var content = content.slice(index, index+300);
 
-  content = untrashData(content);
-  //OMG it's so ugly that I don't actually believe it will work
-  content = content.split('|')[0].trim().split(' ').pop();
+    content = untrashData(content);
+    //OMG it's so ugly that I don't actually believe it will work
+    content = content.split('|')[0].trim().split(' ').pop();
 
-  //console.log(content);
+    //console.log(content);
 
-  parseWikiResponse({
-    id: response.requestid,
-    content: content
-  });
+    parseWikiResponse({
+      id: response.requestid,
+      content: content
+    });
+  } catch (e) {
+    // Polish TV Shows don't have proper page on
+    // English Wikipedia, so we will fill the data
+    // during the rendering part
+    //console.log(e);
+    //console.log(response);
+  }
 }
 
 function parseSimpsons(response) {

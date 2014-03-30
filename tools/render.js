@@ -135,7 +135,7 @@ var Renderer = function(data, parent) {
 var parseWikiResponse = function(data) {
 
   var id = data.id;
-  var content = data.content;
+  var content = parseInt(data.content, 10);
 
   var element = document.getElementById(id);
   var episodes = element.dataset.episodes;
@@ -143,7 +143,7 @@ var parseWikiResponse = function(data) {
 
   clearTimeout(element.dataset.timeout);
 
-  if (content === '' && failed.indexOf(element.dataset.name) === -1) {
+  if (isNaN(content) && failed.indexOf(element.dataset.name) === -1) {
     WikiClient(element.dataset.name + ' (TV series)', id);
     failed.push(element.dataset.name);
     return;

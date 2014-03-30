@@ -100,7 +100,8 @@ var series = [{
   "title": "Da Vinci's Demons",
   "imdb": "tt2094262",
   "episodes": 8,
-  "stillWatching": 1
+  "stillWatching": 1,
+  "lastWatched" : "S01E08"
 },{
   "title": "Dexter",
   "imdb": "tt0773262",
@@ -151,7 +152,8 @@ var series = [{
   "title": "Futurama",
   "imdb": "tt0149460",
   "episodes": 131,
-  "stillWatching": 1
+  "stillWatching": 1,
+  "lastWatched": "S07E17"
 }, {
   "title": "Game of Thrones",
   "imdb": "tt0944947",
