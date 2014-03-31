@@ -22,7 +22,7 @@ var update = function(title) {
     console.log('TV Show ' + title + ' not found!');
   } else {
     console.log('Writing file');
-    fs.writeFile("./data/data.js", "module.exports = " + JSON.stringify(series), function(err) {
+    fs.writeFile("./data/data.js", "module.exports = " + JSON.stringify(series, null, 2), function(err) {
       if(err) {
         console.log('Error while saving file, try again: ');
         console.log(err);
