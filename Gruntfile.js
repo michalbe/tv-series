@@ -20,8 +20,12 @@ module.exports = function(grunt) {
       "justdata": {
         command : 'node ./tools/build.js all false'
       },
+      "update" : {
+        command : 'node ./tools/update.js ' + grunt.option('title')
+      }
     }
-})
+  });
+
   grunt.loadNpmTasks('grunt-exec');
 
   grunt.registerTask('default', ['exec:series']);
@@ -30,4 +34,6 @@ module.exports = function(grunt) {
   grunt.registerTask('full-proposals', ['exec:fullproposals']);
   grunt.registerTask('proposals', ['exec:proposals']);
   grunt.registerTask('data', ['exec:justdata']);
-};
+  grunt.registerTask('update', ['exec:update', 'exec:series']);
+
+}
