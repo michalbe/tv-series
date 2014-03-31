@@ -325,9 +325,9 @@ var series = [{
 }, {
   "title": "Suits",
   "imdb": "tt1632701",
-  "episodes": 40,
+  "episodes": 42,
   "stillWatching": 1,
-  'lastWatched': 'S03E12',
+  'lastWatched': 'S03E14',
   'wiki' : 'Suits_(TV_series)'
 }, {
   "title": "That '70s Show",

@@ -163,10 +163,12 @@ var parseWikiResponse = function(data) {
 
     if (element.dataset.stillWatching == 1 && episodes < content) {
       // watching, not up to date
+
+      var howManyLeft = content-episodes-1;
       element.parentNode.classList.add('red');
-      element.previousSibling.innerHTML = '<a href="http://www.filestube.to/query.html?q=' +
-        element.dataset.name + ' ' + incrementLastWatched(element.dataset.lastWatched) +
-        '"><img src="style/dwnld.png" class="download-icon"></a>' +
+      element.previousSibling.innerHTML = '<a href="http://127.0.0.1:1337/' +
+        element.dataset.name.replace(/\s/gi, '+') + '+' + createSearchURL(element.dataset.lastWatched) +
+        '/' + howManyLeft + '"><img src="style/dwnld.png" class="download-icon"></a>' +
         element.previousSibling.innerHTML;
 
     } else if (element.dataset.stillWatching == 1 && episodes >= content) {
@@ -216,11 +218,11 @@ var renderEpisodes = function(element, data, defaultValue) {
   })(element.id), timeout);
 }
 
-var incrementLastWatched = function(value) {
+var createSearchURL = function(value) {
   var lw = value.split('E');
   lw[1] = parseInt(lw[1], 10);
   lw[1]++;
-  return lw.join('E');
+  return lw.join('E/');
 }
 
 var minToH = function(min) {
