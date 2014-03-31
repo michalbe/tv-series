@@ -123,9 +123,9 @@ var series = [{
 }, {
   "title": "Family Guy",
   "imdb": "tt0182576",
-  "episodes": 223,
+  "episodes": 224,
   "stillWatching": 1,
-  'lastWatched': 'S12E13'
+  'lastWatched': 'S12E14'
 }, {
   "title": "FlashForward",
   "imdb": "tt1441135",
