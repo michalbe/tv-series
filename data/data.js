@@ -253,9 +253,9 @@ var series = [{
 }, {
   "title": "Mentalist",
   "imdb": "tt1196946",
-  "episodes": 130,
+  "episodes": 131,
   "stillWatching": 1,
-  'lastWatched': 'S06E14',
+  'lastWatched': 'S06E15',
   'wiki' : 'The_Mentalist'
 }, {
   "title": "Misfits",
