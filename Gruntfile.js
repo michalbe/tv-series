@@ -1,5 +1,9 @@
 module.exports = function(grunt) {
 
+  var title = grunt.option('title');
+  if (title)
+    title = title.replace(/ /gi, '+') || '';
+
   grunt.initConfig({
     exec: {
       all: {
@@ -21,7 +25,7 @@ module.exports = function(grunt) {
         command : 'node ./tools/build.js all false'
       },
       "update" : {
-        command : 'node ./tools/update.js ' + grunt.option('title')
+        command : 'node ./tools/update.js ' + title
       }
     }
   });
@@ -34,6 +38,6 @@ module.exports = function(grunt) {
   grunt.registerTask('full-proposals', ['exec:fullproposals']);
   grunt.registerTask('proposals', ['exec:proposals']);
   grunt.registerTask('data', ['exec:justdata']);
-  grunt.registerTask('update', ['exec:update', 'exec:series']);
+  grunt.registerTask('update', ['exec:update']);
 
 }

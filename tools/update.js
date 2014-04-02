@@ -2,6 +2,7 @@ var series = require('../data/data');
 var fs = require('fs');
 
 var update = function(title) {
+  title = title.replace(/\+/gi, ' ');
   var match = false;
   for (var i in series) {
     if (series[i].title === title) {
