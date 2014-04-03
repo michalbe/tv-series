@@ -219,9 +219,9 @@ module.exports = [
   {
     "title": "How I Met Your Mother",
     "imdb": "tt0460649",
-    "episodes": 206,
+    "episodes": 208,
     "stillWatching": 1,
-    "lastWatched": "S09E22"
+    "lastWatched": "S09E24"
   },
   {
     "title": "I, Claudius",
