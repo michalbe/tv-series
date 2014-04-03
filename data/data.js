@@ -352,9 +352,9 @@ module.exports = [
   {
     "title": "Shameless US",
     "imdb": "tt1586680",
-    "episodes": 45,
+    "episodes": 46,
     "stillWatching": 1,
-    "lastWatched": "S04E09",
+    "lastWatched": "S04E10",
     "wiki": "Shameless (U.S. TV series)"
   },
   {
