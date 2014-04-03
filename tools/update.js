@@ -38,6 +38,9 @@ var incrementLastWatched = function(value) {
   var lw = value.split('E');
   lw[1] = parseInt(lw[1], 10);
   lw[1]++;
+  if (lw[1] < 10) {
+    lw[1] = '0' + lw[1];
+  }
   return lw.join('E');
 }
 
