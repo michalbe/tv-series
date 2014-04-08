@@ -16,6 +16,8 @@ div.cover:hover {
   100% { background-position: 0 0; }
 }
 
-div.no-padding {
+div.show-widget {
   padding: 0;
+  margin-bottom: 5px;
+  border-color: #999;
 }
