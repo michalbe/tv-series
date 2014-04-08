@@ -15,3 +15,7 @@ div.cover:hover {
   50% { background-position: 0 100%; }
   100% { background-position: 0 0; }
 }
+
+div.no-padding {
+  padding: 0;
+}
