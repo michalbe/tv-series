@@ -113,11 +113,6 @@ var toConsider = [{
   "votes": ["shorang", "scryptonite"],
   'wiki' : 'Person of Interest (TV series)'
 }, {
-  "title": "Silicon Valley",
-  "imdb": "tt2575988",
-  "stillWatching": 1,
-  "votes": ["mmalecki"]
-}, {
   "title": "Sons of Anarchy",
   "imdb": "tt1124373",
   "stillWatching": 1,
