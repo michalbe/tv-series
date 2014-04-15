@@ -4,6 +4,7 @@ div.cover {
   background-size: cover;
   background-repeat: no-repeat;
   transition: background-position 3s;
+  background-position: 0 100%;
 }
 
 div.cover:hover {
@@ -11,9 +12,9 @@ div.cover:hover {
 }
 
 @keyframes movebackground {
-  0%  { background-position: 0 0; }
-  50% { background-position: 0 100%; }
-  100% { background-position: 0 0; }
+  0%  { background-position: 0 100%; }
+  50% { background-position: 0 0; }
+  100% { background-position: 0 100%; }
 }
 
 div.show-widget {
