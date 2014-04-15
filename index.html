@@ -21,24 +21,24 @@
 
   </head>
   <body>
-    <div class="container">
+    <div class="container" ng-controller="ListController as list">
       <div class="row">
-        <div class="panel panel-default col-md-3 show-widget">
+        <div class="panel panel-default col-md-3 show-widget" ng-repeat="show in list.shows">
         <!-- Default panel contents -->
         <div class="panel-heading">
-          Brooklyn Nine-nine
+          {{show.title}}
           <span class="glyphicon glyphicon-download-alt" style="float:right"></span>
         </div>
         <div style="background-image: url(data/covers/brooklyn-nine-nine.jpg)" class="cover">
         </div>
         <div class="col-md-4">
-          <span class="glyphicon glyphicon-film"></span> 22/24
+          <span class="glyphicon glyphicon-film"></span> {{show.episodes}}
         </div>
         <div class="col-md-4">
-          <span class="glyphicon glyphicon-time"></span> 23min (8h 26min)
+          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}min ({{show.episodeLength * show.episodes | min2hours }})
         </div>
         <div class="col-md-4">
-          <span class="glyphicon glyphicon-eye-open"></span> Yes
+          <span class="glyphicon glyphicon-eye-open"></span> {{show.stillWatching ? 'Yes' : 'No'}}
         </div>
       </div>
     </div>
