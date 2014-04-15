@@ -27,18 +27,18 @@
         <div class="panel panel-default col-md-3 show-widget" ng-repeat="show in list.shows">
         <!-- Default panel contents -->
         <div class="panel-heading">
-          {{$index}}. {{show.title}}
+          {{show.title}}
           <span class="glyphicon glyphicon-download-alt" style="float:right"></span>
         </div>
         <div style="background-image: url({{show.poster || 'data/covers/' + (show.title | slug) + '.jpg'}})" class="cover">
         </div>
-        <div class="col-md-4">
-          <span class="glyphicon glyphicon-film"></span> {{show.episodes}}
+        <div class="col-md-4 small">
+          <span class="glyphicon glyphicon-film"></span> {{show.episodes}} / {{show.episodes}}
         </div>
         <div class="col-md-4">
-          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}min ({{show.episodeLength * show.episodes | min2hours }})
+          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}m <small>({{show.episodeLength * show.episodes | min2hours }})</small>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 small">
           <span class="glyphicon glyphicon-eye-open"></span> {{show.stillWatching ? 'Yes' : 'No'}}
         </div>
       </div>
