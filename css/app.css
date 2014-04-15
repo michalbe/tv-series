@@ -22,3 +22,7 @@ div.show-widget {
   margin-bottom: 5px;
   border-color: #999;
 }
+
+div.elo {
+  border: red solid 3px;
+}
