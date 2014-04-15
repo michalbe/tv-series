@@ -17,6 +17,7 @@
     <script defer src="js/angular.min.js"></script>
 
     <!-- App related scripts -->
+    <script defer src="data/series.js"></script>
     <script defer src="js/app.js"></script>
 
   </head>
@@ -26,10 +27,10 @@
         <div class="panel panel-default col-md-3 show-widget" ng-repeat="show in list.shows">
         <!-- Default panel contents -->
         <div class="panel-heading">
-          {{show.title}}
+          {{$index}}. {{show.title}}
           <span class="glyphicon glyphicon-download-alt" style="float:right"></span>
         </div>
-        <div style="background-image: url(data/covers/brooklyn-nine-nine.jpg)" class="cover">
+        <div style="background-image: url({{show.poster || 'data/covers/' + (show.title | slug) + '.jpg'}})" class="cover">
         </div>
         <div class="col-md-4">
           <span class="glyphicon glyphicon-film"></span> {{show.episodes}}
