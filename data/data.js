@@ -192,9 +192,9 @@ module.exports = [
   {
     "title": "Hannibal",
     "imdb": "tt2243973",
-    "episodes": 19,
+    "episodes": 20,
     "stillWatching": 1,
-    "lastWatched": "S02E06"
+    "lastWatched": "S02E07"
   },
   {
     "title": "Heroes",
