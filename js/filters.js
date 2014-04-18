@@ -1,4 +1,7 @@
-(function(){
+(function() {
+
+  var app = angular.module('filters', []);
+
   app.filter('min2hours', function() {
     return function(min) {
       return ~~( min / 60) + "h" +
