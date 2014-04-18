@@ -13,16 +13,12 @@ app.filter('slug', function() {
   }
 });
 
-// var shows = [{
-//   "title" : "Anger Management",
-//   "imdb":"tt1986770",
-//   "episodes": 69,
-//   "stillWatching": 1,
-//   "lastWatched":"S02E59",
-//   "wiki":"Anger_Management_(TV_series)",
-//   "episodeLength": 21
-// }];
+app.controller('ListController', [ '$http', function($http) {
+  var list = this;
+  list.shows = [];
 
-app.controller('ListController', function() {
-  this.shows = series;
-});
+  $http.get('data/series.js').success(function(data) {
+    list.shows = data;
+  })
+
+}]);
