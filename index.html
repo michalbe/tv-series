@@ -35,8 +35,9 @@
         <div class="col-md-4 small">
           <span class="glyphicon glyphicon-film"></span> {{show.episodes}} / {{show.episodes}}
         </div>
-        <div class="col-md-4">
-          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}m <small>({{show.episodeLength * show.episodes | min2hours }})</small>
+        <div class="col-md-4 small">
+          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}m
+          <span style="display:block">({{show.episodeLength * show.episodes | min2hours }})</span>
         </div>
         <div class="col-md-4 small">
           <span class="glyphicon glyphicon-eye-open"></span> {{show.stillWatching ? 'Yes' : 'No'}}
