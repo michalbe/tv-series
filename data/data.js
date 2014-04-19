@@ -369,8 +369,8 @@ module.exports = [
     "title": "Silicon Valley",
     "imdb": "tt2575988",
     "stillWatching": 1,
-    "episodes": 1,
-    "lastWatched": "S01E01"
+    "episodes": 2,
+    "lastWatched": "S01E02"
   },
   {
     "title": "Simpsons",
