@@ -12,7 +12,10 @@ var update = function(title) {
       console.log('Last watched: ' + series[i].lastWatched);
       console.log('Updating ------- ');
       series[i].episodes++;
-      series[i].lastWatched = incrementLastWatched(series[i].lastWatched);
+      if (series[i].lastWatched) {
+        series[i].lastWatched = incrementLastWatched(series[i].lastWatched);
+      }
+      
       console.log('Current episodes numer: ' + series[i].episodes);
       console.log('Last watched: ' + series[i].lastWatched);
       break;
