@@ -76,11 +76,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["gstepniewski", "ryanburgess"]
 }, {
-  "title": "Mad Men",
-  "imdb": "tt0804503",
-  "stillWatching": 1,
-  "votes": ["kamilogorek", "datrio", "ryanburgess"]
-}, {
   "title": "Modern Family",
   "imdb": "tt1442437",
   "stillWatching": 1,

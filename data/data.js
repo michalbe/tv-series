@@ -296,6 +296,18 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "Mad Men",
+    "imdb": "tt0804503",
+    "stillWatching": 1,
+    "episodes": 1,
+    "lastWatched": "S01E01",
+    "oldvotes": [
+      "kamilogorek",
+      "datrio",
+      "ryanburgess"
+    ]
+  },
+  {
     "title": "Mentalist",
     "imdb": "tt1196946",
     "episodes": 133,
