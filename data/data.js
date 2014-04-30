@@ -299,8 +299,8 @@ module.exports = [
     "title": "Mad Men",
     "imdb": "tt0804503",
     "stillWatching": 1,
-    "episodes": 16,
-    "lastWatched": "S02E03",
+    "episodes": 17,
+    "lastWatched": "S02E04",
     "oldvotes": [
       "kamilogorek",
       "datrio",
