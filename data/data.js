@@ -146,9 +146,9 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 227,
+    "episodes": 228,
     "stillWatching": 1,
-    "lastWatched": "S12E17"
+    "lastWatched": "S12E18"
   },
   {
     "title": "FlashForward",
@@ -299,8 +299,8 @@ module.exports = [
     "title": "Mad Men",
     "imdb": "tt0804503",
     "stillWatching": 1,
-    "episodes": 15,
-    "lastWatched": "S02E02",
+    "episodes": 17,
+    "lastWatched": "S02E04",
     "oldvotes": [
       "kamilogorek",
       "datrio",
@@ -381,8 +381,8 @@ module.exports = [
     "title": "Silicon Valley",
     "imdb": "tt2575988",
     "stillWatching": 1,
-    "episodes": 3,
-    "lastWatched": "S01E03"
+    "episodes": 4,
+    "lastWatched": "S01E04"
   },
   {
     "title": "Simpsons",
