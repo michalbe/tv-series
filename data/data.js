@@ -310,9 +310,9 @@ module.exports = [
   {
     "title": "Mentalist",
     "imdb": "tt1196946",
-    "episodes": 134,
+    "episodes": 135,
     "stillWatching": 1,
-    "lastWatched": "S06E18",
+    "lastWatched": "S06E19",
     "wiki": "The_Mentalist"
   },
   {
