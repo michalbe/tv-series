@@ -118,9 +118,9 @@ module.exports = [
   {
     "title": "Da Vinci's Demons",
     "imdb": "tt2094262",
-    "episodes": 13,
+    "episodes": 14,
     "stillWatching": 1,
-    "lastWatched": "S02E05"
+    "lastWatched": "S02E06"
   },
   {
     "title": "Dexter",
