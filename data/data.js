@@ -50,9 +50,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 157,
+    "episodes": 158,
     "stillWatching": 1,
-    "lastWatched": "S07E22",
+    "lastWatched": "S07E23",
     "wiki": "The_Big_Bang_Theory"
   },
   {
