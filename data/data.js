@@ -17,7 +17,6 @@ module.exports = [
     "episodes": 162,
     "stillWatching": 1,
     "lastWatched": "S10E10"
-    //"poster": "http://images4.fanpop.com/image/photos/16000000/-American-Dad-Poster-american-dad-16068693-1036-1500.jpg"
   },
   {
     "title": "American Horror Story",
@@ -310,9 +309,9 @@ module.exports = [
   {
     "title": "Mentalist",
     "imdb": "tt1196946",
-    "episodes": 136,
+    "episodes": 137,
     "stillWatching": 1,
-    "lastWatched": "S06E20",
+    "lastWatched": "S06E21",
     "wiki": "The_Mentalist"
   },
   {
