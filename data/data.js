@@ -117,9 +117,9 @@ module.exports = [
   {
     "title": "Da Vinci's Demons",
     "imdb": "tt2094262",
-    "episodes": 14,
+    "episodes": 15,
     "stillWatching": 1,
-    "lastWatched": "S02E06"
+    "lastWatched": "S02E07"
   },
   {
     "title": "Dexter",
@@ -145,9 +145,9 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 229,
+    "episodes": 230,
     "stillWatching": 1,
-    "lastWatched": "S12E19"
+    "lastWatched": "S12E20"
   },
   {
     "title": "FlashForward",
