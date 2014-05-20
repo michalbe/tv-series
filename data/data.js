@@ -145,9 +145,9 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 230,
+    "episodes": 231,
     "stillWatching": 1,
-    "lastWatched": "S12E20"
+    "lastWatched": "S12E21"
   },
   {
     "title": "FlashForward",
