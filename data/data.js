@@ -72,6 +72,13 @@ module.exports = [
     "imdb": "tt0903747",
     "episodes": 62,
     "stillWatching": 0
+  },{
+    "title": "Brooklyn Nine-Nine",
+    "imdb": "tt2467372",
+    "stillWatching": 1,
+    "episodes": 0,
+    "lastWatched": "S01E00",
+    "votes": ["michalbe"]
   },
   {
     "title": "Boardwalk Empire",
