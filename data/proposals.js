@@ -30,11 +30,6 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tizianozonta"],
   'wiki' : 'Black Mirror (TV series)'
-},{
-  "title": "Brooklyn Nine-Nine",
-  "imdb": "tt2467372",
-  "stillWatching": 1,
-  "votes": ["michalbe"]
 }, {
   "title": "Burn Notice",
   "imdb": "tt0810788",
