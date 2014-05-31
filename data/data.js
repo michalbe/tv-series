@@ -77,8 +77,7 @@ module.exports = [
     "imdb": "tt2467372",
     "stillWatching": 1,
     "episodes": 0,
-    "lastWatched": "S01E00",
-    "votes": ["michalbe"]
+    "lastWatched": "S01E00"
   },
   {
     "title": "Boardwalk Empire",
