@@ -77,8 +77,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 1,
-    "lastWatched": "S01E01"
+    "episodes": 10,
+    "lastWatched": "S01E10"
   },
   {
     "title": "Boardwalk Empire",
@@ -305,8 +305,8 @@ module.exports = [
     "title": "Mad Men",
     "imdb": "tt0804503",
     "stillWatching": 1,
-    "episodes": 21,
-    "lastWatched": "S02E08",
+    "episodes": 22,
+    "lastWatched": "S02E09",
     "oldvotes": [
       "kamilogorek",
       "datrio",
