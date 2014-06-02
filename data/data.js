@@ -77,8 +77,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 17,
-    "lastWatched": "S01E17"
+    "episodes": 18,
+    "lastWatched": "S01E18"
   },
   {
     "title": "Boardwalk Empire",
