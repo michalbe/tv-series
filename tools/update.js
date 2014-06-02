@@ -2,12 +2,19 @@ var series = require('../data/data');
 var fs = require('fs');
 
 var update = function(title) {
-  title = title.replace(/\+/gi, ' ');
+  title = title.replace(/\+/gi, ' ').toLowerCase();
   var match = false;
+  var abbr;
   for (var i in series) {
-    if (series[i].title === title) {
+    abbr = series[i].title.replace(/(\w)\w*\W*/g, function (_, i) {
+      return i.toLowerCase();
+    });
+
+    if (abbr === title) title = series[i].title.toLowerCase();
+
+    if (series[i].title.toLowerCase() === title) {
       match = true;
-      console.log('Found show: ' + title);
+      console.log('Found show: ' + series[i].title);
       console.log('Current episodes numer: ' + series[i].episodes);
       console.log('Last watched: ' + series[i].lastWatched);
       console.log('Updating ------- ');
@@ -15,7 +22,7 @@ var update = function(title) {
       if (series[i].lastWatched) {
         series[i].lastWatched = incrementLastWatched(series[i].lastWatched);
       }
-      
+
       console.log('Current episodes numer: ' + series[i].episodes);
       console.log('Last watched: ' + series[i].lastWatched);
       break;
