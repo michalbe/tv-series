@@ -47,6 +47,7 @@ function parseResponse(response) {
     //console.log(content);
 
     parseWikiResponse({
+    //console.log({
       id: response.requestid,
       content: content
     });
