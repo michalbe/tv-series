@@ -356,6 +356,13 @@ module.exports = [
     "lastWatched": "S02E22"
   },
   {
+    "title": "Rick and Morty",
+    "imdb": "tt2861424",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "Scrubs",
     "imdb": "tt0285403",
     "episodes": "182",
