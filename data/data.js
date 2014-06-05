@@ -359,9 +359,9 @@ module.exports = [
   {
     "title": "Rick and Morty",
     "imdb": "tt2861424",
-    "episodes": 9,
+    "episodes": 10,
     "stillWatching": 1,
-    "lastWatched": "S01E09"
+    "lastWatched": "S01E10"
   },
   {
     "title": "Scrubs",
