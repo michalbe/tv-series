@@ -330,6 +330,14 @@ module.exports = [
     "lastWatched": "S04E03"
   },
   {
+    "title": "Modern Family",
+    "imdb": "tt1442437",
+    "lastWatched": "S01E00",
+    "episodes": 0,
+    "stillWatching": 1,
+    "oldvotes": ["afronski", "kamilogorek", "ryanburgess"]
+  },
+  {
     "title": "My Wife and Kids",
     "imdb": "tt0273855",
     "episodes": "122",
