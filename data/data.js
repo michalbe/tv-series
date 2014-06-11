@@ -89,8 +89,8 @@ module.exports = [
   {
     "title": "Californication",
     "imdb": "tt0904208",
-    "episodes": 79,
-    "lastWatched": "S07E07",
+    "episodes": 80,
+    "lastWatched": "S07E08",
     "stillWatching": 1
   },
   {
