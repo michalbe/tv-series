@@ -332,8 +332,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S02E01",
-    "episodes": 25,
+    "lastWatched": "S02E03",
+    "episodes": 27,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -427,9 +427,9 @@ module.exports = [
   {
     "title": "Suits",
     "imdb": "tt1632701",
-    "episodes": 44,
+    "episodes": 45,
     "stillWatching": 1,
-    "lastWatched": "S03E16",
+    "lastWatched": "S04E01",
     "wiki": "Suits_(TV_series)"
   },
   {
