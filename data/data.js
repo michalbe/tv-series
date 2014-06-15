@@ -332,8 +332,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S03E11",
-    "episodes": 59,
+    "lastWatched": "S03E12",
+    "episodes": 60,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
