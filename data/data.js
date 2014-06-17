@@ -365,7 +365,7 @@ module.exports = [
     "title": "Revenge",
     "imdb": "tt1837642",
     "episodes": 44,
-    "stillWatching": 1,
+    "stillWatching": 0,
     "lastWatched": "S02E22"
   },
   {
