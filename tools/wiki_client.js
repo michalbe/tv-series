@@ -45,6 +45,13 @@ function parseResponse(response) {
     content = content.split('|')[0].trim().split(' ').pop();
 
     //console.log(content);
+    var name = document.getElementById(response.requestid).dataset.name;
+
+    if (name === 'Doctor Who') {
+      // There are almost 700 episodes of Classic Dr Who. It shares Wiki
+      // page with the series form 2005, so numbers are not correct.
+      content -= 697;
+    }
 
     parseWikiResponse({
     //console.log({
