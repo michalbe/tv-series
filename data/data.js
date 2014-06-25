@@ -282,7 +282,8 @@ module.exports = [
     "imdb": "tt2400391",
     "episodes": 1,
     "stillWatching": 1,
-    "lastWatched": "S01E01"
+    "lastWatched": "S01E01",
+    "wiki": "Legit_(2013_TV_series)"
   },
   {
     "title": "Lie to Me",
