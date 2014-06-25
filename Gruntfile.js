@@ -4,6 +4,8 @@ module.exports = function(grunt) {
   if (title)
     title = title.replace(/ /gi, '+') || '';
 
+  var id = grunt.option('id');
+
   grunt.initConfig({
     exec: {
       all: {
@@ -26,6 +28,9 @@ module.exports = function(grunt) {
       },
       "update" : {
         command : 'node ./tools/update.js ' + title
+      },
+      "add" : {
+        command : 'node ./tools/add.js ' + id
       }
     }
   });
@@ -39,5 +44,6 @@ module.exports = function(grunt) {
   grunt.registerTask('proposals', ['exec:proposals']);
   grunt.registerTask('data', ['exec:justdata']);
   grunt.registerTask('update', ['exec:update']);
+  grunt.registerTask('add', ['exec:add']);
 
 }

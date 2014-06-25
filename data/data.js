@@ -62,6 +62,12 @@ module.exports = [
     "stillWatching": 1
   },
   {
+    "title": "Boardwalk Empire",
+    "imdb": "tt0979432",
+    "episodes": "12",
+    "stillWatching": 0
+  },
+  {
     "title": "Boston Public",
     "imdb": "tt0247081",
     "episodes": "81",
@@ -81,9 +87,9 @@ module.exports = [
     "lastWatched": "S01E22"
   },
   {
-    "title": "Boardwalk Empire",
-    "imdb": "tt0979432",
-    "episodes": "12",
+    "title": "CSI: Crime Scene Investigation",
+    "imdb": "tt0247082",
+    "episodes": "121",
     "stillWatching": 0
   },
   {
@@ -106,12 +112,6 @@ module.exports = [
     "episodes": "12",
     "stillWatching": 0,
     "wiki": "Common_Law_(2012_TV_series)"
-  },
-  {
-    "title": "CSI: Crime Scene Investigation",
-    "imdb": "tt0247082",
-    "episodes": "121",
-    "stillWatching": 0
   },
   {
     "title": "Czterej pancerni i pies",
@@ -171,15 +171,15 @@ module.exports = [
     "wiki": "Franklin_%26_Bash"
   },
   {
-    "title": "Fringe",
-    "imdb": "tt1119644",
-    "episodes": "100",
-    "stillWatching": 0
-  },
-  {
     "title": "Friends",
     "imdb": "tt0108778",
     "episodes": 239,
+    "stillWatching": 0
+  },
+  {
+    "title": "Fringe",
+    "imdb": "tt1119644",
+    "episodes": "100",
     "stillWatching": 0
   },
   {
@@ -276,6 +276,13 @@ module.exports = [
     "episodes": "13",
     "stillWatching": 0,
     "wiki": "Last Resort (U.S. TV series)"
+  },
+  {
+    "title": "Legit",
+    "imdb": "tt2400391",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
   },
   {
     "title": "Lie to Me",
