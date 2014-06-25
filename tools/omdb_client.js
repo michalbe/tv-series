@@ -15,7 +15,8 @@ module.exports = function(id, callback) {
     var response = JSON.parse(data);
     var resp = {
       'episodeLength' : parseInt(response.Runtime, 10),
-      'poster' : response.Poster
+      'poster' : response.Poster,
+      'title': response.Title
     }
     callback(null, resp, id);
   });
