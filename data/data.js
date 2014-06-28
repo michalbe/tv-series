@@ -448,7 +448,7 @@ module.exports = [
     "stillWatching": 0
   },
   {
-    "title": "Flash, The",
+    "title": "Flash",
     "imdb": "tt3107288",
     "episodes": 1,
     "stillWatching": 1,
@@ -479,7 +479,7 @@ module.exports = [
     "wiki": "White Collar (TV series)"
   },
   {
-    "title": "Wire, The",
+    "title": "Wire",
     "imdb": "tt0306414",
     "episodes": "60",
     "stillWatching": 0,
