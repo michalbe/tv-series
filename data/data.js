@@ -453,7 +453,8 @@ module.exports = [
     "episodes": 1,
     "stillWatching": 1,
     "episodeLength": 46,
-    "lastWatched": "S01E01"
+    "lastWatched": "S01E01",
+    "wiki" : "The_Flash_(2014_TV_series)"
   },
   {
     "title": "True Detective",
