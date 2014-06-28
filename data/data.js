@@ -450,10 +450,10 @@ module.exports = [
   {
     "title": "Flash, The",
     "imdb": "tt3107288",
-    "episodes": 0,
+    "episodes": 1,
     "stillWatching": 1,
     "episodeLength": 46,
-    "lastWatched": "S01E00"
+    "lastWatched": "S01E01"
   },
   {
     "title": "True Detective",
