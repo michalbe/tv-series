@@ -448,6 +448,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "The Flash",
+    "imdb": "tt3107288",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "True Detective",
     "imdb": "tt2356777",
     "episodes": 8,
