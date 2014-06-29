@@ -340,8 +340,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S05E18",
-    "episodes": 114,
+    "lastWatched": "S05E24",
+    "episodes": 120,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -454,7 +454,7 @@ module.exports = [
     "stillWatching": 1,
     "episodeLength": 46,
     "lastWatched": "S01E01",
-    "wiki" : "The_Flash_(2014_TV_series)"
+    "wiki": "The_Flash_(2014_TV_series)"
   },
   {
     "title": "True Detective",
