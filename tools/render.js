@@ -66,6 +66,13 @@ var Renderer = function(data, parent) {
       title.innerHTML = chunk.title;
     }
 
+    if (chunk.votes) {
+      // Donwload pilot of a new TV show
+      title.innerHTML = '<a href="http://127.0.0.1:1337/' +
+        chunk.title.replace(/\s/gi, '+') + '+S01E/1/0"><img src="style/dwnld.png" class="download-icon"></a>' +
+        title.innerHTML;
+    }
+
     if (chunk.title === 'TOTAL') {
 
       episodes.innerHTML = chunk.episodes;
