@@ -97,7 +97,7 @@ module.exports = [
     "imdb": "tt0904208",
     "episodes": 84,
     "lastWatched": "S07E12",
-    "stillWatching": 1
+    "stillWatching": 0
   },
   {
     "title": "Cleveland Show",
