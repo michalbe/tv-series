@@ -216,6 +216,11 @@ img.voter {
 	vertical-align: middle;
 }
 
+#to-consider .download-icon {
+	width: 10px;
+	height: 10px;
+}
+
 td.cover {
 	background-size: cover !important;
 }
