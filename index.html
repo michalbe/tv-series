@@ -1,84 +1,47 @@
 <!DOCTYPE html>
-<html>
+<html lang="en" ng-app="tvshows">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> TV Series </title>
 
-    <script src="data/build/data/series.js"></script>
-    <script src="data/build/data/proposals.js"></script>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
 
-    <script src="tools/wiki_client.js"></script>
+    <!-- App related styles -->
+    <link rel="stylesheet" href="css/app.css">
 
-    <script src="tools/render.js"></script>
-    <title>tv-series</title>
-    <link rel="stylesheet" href="style/style.css">
+    <!-- Angular -->
+    <script defer src="js/angular.min.js"></script>
+
+    <!-- App related scripts -->
+    <script defer src="data/series.js"></script>
+    <script defer src="js/app.js"></script>
+
   </head>
-<body>
-    <a href="https://github.com/michalbe/tv-series"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_left_green_007200.png" alt="Fork me on GitHub"></a>
-  <table id="series">
-    <tbody>
-      <tr>
-        <th colspan=5 style="text-align:center">
-          My List
-        </th>
-      </tr>
-      <tr>
-        <th>
-          Cover
-        </th>
-        <th>
-          Title
-        </th>
-        <th>
-          Episodes
-        </th>
-        <th>
-          Episode Length
-        </th>
-        <th>
-          Total Length
-        </th>
-        <th>
-          Still watching?
-        </th>
-      </tr>
-    </tbody>
-  </table>
-
-  <table id="to-consider">
-    <tbody>
-      <tr>
-        <th colspan=5 style="text-align:center">
-          Shows to consider
-        </th>
-      </tr>
-       <tr>
-         <th>
-           Cover
-         </th>
-         <th>
-           Title
-         </th>
-         <th>
-           Episodes
-         </th>
-         <th>
-           Episode Length
-         </th>
-         <th class="totallength">
-           Total Length
-         </th>
-         <th class="stillWatching">
-           Ongoing?
-         </th>
-         <th>
-           Votes
-         </th>
-       </tr>
-     </tbody>
-  </table>
-    <script>
-      Renderer(series, document.getElementById('series'));
-      Renderer(toConsider, document.getElementById('to-consider'));
-    </script>
-</body>
+  <body>
+    <div class="container" ng-controller="ListController as list">
+      <div class="row">
+        <div class="panel panel-default col-md-3 show-widget" ng-repeat="show in list.shows">
+        <!-- Default panel contents -->
+        <div class="panel-heading">
+          {{$index}}. {{show.title}}
+          <span class="glyphicon glyphicon-download-alt" style="float:right"></span>
+        </div>
+        <div style="background-image: url({{show.poster || 'data/covers/' + (show.title | slug) + '.jpg'}})" class="cover">
+        </div>
+        <div class="col-md-4">
+          <span class="glyphicon glyphicon-film"></span> {{show.episodes}}
+        </div>
+        <div class="col-md-4">
+          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}min ({{show.episodeLength * show.episodes | min2hours }})
+        </div>
+        <div class="col-md-4">
+          <span class="glyphicon glyphicon-eye-open"></span> {{show.stillWatching ? 'Yes' : 'No'}}
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
