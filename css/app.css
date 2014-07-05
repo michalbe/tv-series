@@ -26,3 +26,9 @@ div.show-widget {
 div.elo {
   border: red solid 3px;
 }
+
+@media (min-width:768px) {
+  .total-time {
+    display: block;
+  }
+}

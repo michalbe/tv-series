@@ -17,7 +17,6 @@
     <script defer src="js/angular.min.js"></script>
 
     <!-- App related scripts -->
-    <script defer src="data/series.js"></script>
     <script defer src="js/app.js"></script>
 
   </head>
@@ -35,8 +34,9 @@
         <div class="col-md-4 small">
           <span class="glyphicon glyphicon-film"></span> {{show.episodes}} / {{show.episodes}}
         </div>
-        <div class="col-md-4">
-          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}m <small>({{show.episodeLength * show.episodes | min2hours }})</small>
+        <div class="col-md-4 small">
+          <span class="glyphicon glyphicon-time"></span> {{show.episodeLength}}m
+          <span class="total-time">({{show.episodeLength * show.episodes | min2hours }})</span>
         </div>
         <div class="col-md-4 small">
           <span class="glyphicon glyphicon-eye-open"></span> {{show.stillWatching ? 'Yes' : 'No'}}
