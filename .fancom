@@ -8,7 +8,7 @@
 # https://github.com/michalbe/fancom
 
 # Name of the repository, default: name of the current repo
-#reponame="reponame"
+reponame="tv-series"
 
 # Suffix added to the temporary created, developer's branch, default: 'temp'
 #devsuffix="temp"
