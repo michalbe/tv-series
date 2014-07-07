@@ -280,9 +280,9 @@ module.exports = [
   {
     "title": "Legit",
     "imdb": "tt2400391",
-    "episodes": 9,
+    "episodes": 13,
     "stillWatching": 1,
-    "lastWatched": "S01E09",
+    "lastWatched": "S02E00",
     "wiki": "Legit_(2013_TV_series)"
   },
   {

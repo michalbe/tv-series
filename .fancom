@@ -8,7 +8,7 @@
 # https://github.com/michalbe/fancom
 
 # Name of the repository, default: name of the current repo
-reponame="tv-series"
+reponame="tvseries"
 
 # Suffix added to the temporary created, developer's branch, default: 'temp'
 #devsuffix="temp"
@@ -20,7 +20,7 @@ emoji=1
 addall=1
 
 # Prefix added to the commit message, default: [REPONAME]
-#prefix="Shit's on fire yo"
+prefix="tv"
 
 # Add branch name to the prefix of the commit, default: no
 #branchincommit=1
