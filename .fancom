@@ -29,7 +29,7 @@ addall=1
 prefix="tv"
 
 # Add branch name to the prefix of the commit, default: no
-#branchincommit=1
+branchincommit=0
 
 # Skip the prefix in the commit message, default: no
 #noprefix=1
