@@ -334,7 +334,7 @@ module.exports = [
     "title": "Misfits",
     "imdb": "tt1548850",
     "episodes": 24,
-    "stillWatching": 1,
+    "stillWatching": 0,
     "lastWatched": "S04E03"
   },
   {
