@@ -4,8 +4,18 @@
 
   app.filter('min2hours', function() {
     return function(min) {
-      return ~~( min / 60) + "h" +
-      (min%60 === 0 ? '' : ' ' + min%60 + "m");
+      var hours = ~~(min/60);
+      var minutes = min%60;
+
+      if (hours < 10) {
+        hours = '0' + hours.toString();
+      }
+
+      if (minutes < 10) {
+        minutes = '0' + minutes.toString();
+      }
+
+      return hours + 'h ' + minutes + 'm';
     };
   });
 
