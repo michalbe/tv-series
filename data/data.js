@@ -157,6 +157,15 @@ module.exports = [
     "lastWatched": "S12E21"
   },
   {
+    "title": "Flash",
+    "imdb": "tt3107288",
+    "episodes": 1,
+    "stillWatching": 1,
+    "episodeLength": 46,
+    "lastWatched": "S01E01",
+    "wiki": "The_Flash_(2014_TV_series)"
+  },
+  {
     "title": "FlashForward",
     "imdb": "tt1441135",
     "episodes": "22",
@@ -448,13 +457,11 @@ module.exports = [
     "stillWatching": 0
   },
   {
-    "title": "Flash",
-    "imdb": "tt3107288",
-    "episodes": 1,
+    "title": "The Sopranos",
+    "imdb": "tt0141842",
+    "episodes": 0,
     "stillWatching": 1,
-    "episodeLength": 46,
-    "lastWatched": "S01E01",
-    "wiki": "The_Flash_(2014_TV_series)"
+    "lastWatched": "S01E00"
   },
   {
     "title": "True Detective",
