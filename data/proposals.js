@@ -136,11 +136,6 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tobytailor"]
 }, {
-  "title": "The Sopranos",
-  "imdb": "tt0141842",
-  "stillWatching": 0,
-  "votes": ["tobytailor", "ryanburgess"]
-}, {
   "title": "The Walking Dead",
   "imdb": "tt1520211",
   "stillWatching": 1,
