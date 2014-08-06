@@ -459,9 +459,9 @@ module.exports = [
   {
     "title": "The Sopranos",
     "imdb": "tt0141842",
-    "episodes": 24,
+    "episodes": 25,
     "stillWatching": 1,
-    "lastWatched": "S02E11"
+    "lastWatched": "S02E12"
   },
   {
     "title": "True Detective",
