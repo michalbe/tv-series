@@ -136,10 +136,15 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tobytailor"]
 }, {
+  "title": "The Strain",
+  "imdb": "tt2654620",
+  "stillWatching": 0,
+  "votes": ["chemikpil"]
+}, {
   "title": "The Walking Dead",
   "imdb": "tt1520211",
   "stillWatching": 1,
-  "votes": ["datrio", "afronski", "tobytailor", "shorang", "ryanburgess", "scryptonite"],
+  "votes": ["datrio", "afronski", "tobytailor", "shorang", "ryanburgess", "scryptonite", "chemikpil"],
   'wiki' : 'The Walking Dead (TV series)'
 }, {
   "title": "The West Wing",
