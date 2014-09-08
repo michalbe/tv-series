@@ -100,7 +100,7 @@ var toConsider = [{
 }, {
   "title": "Robot Chicken",
   "imdb": "tt0437745",
-  "stillWatching": 0,
+  "stillWatching": 1,
   "votes": ["stasm"]
 }, {
   "title": "Sons of Anarchy",
