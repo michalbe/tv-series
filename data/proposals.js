@@ -23,12 +23,12 @@ var toConsider = [{
   "title": "Band of Brothers",
   "imdb": "tt0185906",
   "stillWatching": 0,
-  "votes": ["tobytailor"]
+  "votes": ["tobytailor", "stasm"]
 }, {
   "title": "Black Mirror",
   "imdb": "tt2085059",
   "stillWatching": 0,
-  "votes": ["tizianozonta"],
+  "votes": ["tizianozonta", "stasm"],
   'wiki' : 'Black Mirror (TV series)'
 }, {
   "title": "Burn Notice",
@@ -54,7 +54,7 @@ var toConsider = [{
   "title": "Cowboy Bebop",
   "imdb": "tt0213338",
   "stillWatching": 0,
-  "votes": ["datrio", "kamilogorek"]
+  "votes": ["datrio", "kamilogorek", "stasm", "stasm"]
 }, {
   "title": "Dollhouse",
   "imdb": "tt1135300",
@@ -97,6 +97,11 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["shorang", "scryptonite"],
   'wiki' : 'Person of Interest (TV series)'
+}, {
+  "title": "Robot Chicken",
+  "imdb": "tt0437745",
+  "stillWatching": 0,
+  "votes": ["stasm"]
 }, {
   "title": "Sons of Anarchy",
   "imdb": "tt1124373",
