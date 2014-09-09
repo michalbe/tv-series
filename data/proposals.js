@@ -25,6 +25,16 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tobytailor", "stasm"]
 }, {
+  "title": "Battlestar Galactica (TV miniseries)",
+  "imdb": "tt0314979",
+  "stillWatching": 0,
+  "votes": ["stasm"]
+}, {
+  "title": "Battlestar Galactica (2004_TV_series)",
+  "imdb": "tt0407362",
+  "stillWatching": 0,
+  "votes": ["stasm"]
+}, {
   "title": "Black Mirror",
   "imdb": "tt2085059",
   "stillWatching": 0,
@@ -60,6 +70,11 @@ var toConsider = [{
   "imdb": "tt1135300",
   "stillWatching": 0,
   "votes": ["igorw"]
+}, {
+  "title": "Firefly",
+  "imdb": "tt0303461",
+  "stillWatching": 0,
+  "votes": ["stasm"]
 }, {
   "title": "Homeland",
   "imdb": "tt1796960",
@@ -100,7 +115,7 @@ var toConsider = [{
 }, {
   "title": "Robot Chicken",
   "imdb": "tt0437745",
-  "stillWatching": 0,
+  "stillWatching": 1,
   "votes": ["stasm"]
 }, {
   "title": "Sons of Anarchy",
