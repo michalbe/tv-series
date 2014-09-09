@@ -61,6 +61,11 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["igorw"]
 }, {
+  "title": "Firefly",
+  "imdb": "tt0303461",
+  "stillWatching": 0,
+  "votes": ["stasm"]
+}, {
   "title": "Homeland",
   "imdb": "tt1796960",
   "stillWatching": 1,
