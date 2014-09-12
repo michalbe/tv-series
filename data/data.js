@@ -28,9 +28,9 @@ module.exports = [
   {
     "title": "Anger Management",
     "imdb": "tt1986770",
-    "episodes": 76,
+    "episodes": 77,
     "stillWatching": 1,
-    "lastWatched": "S02E66",
+    "lastWatched": "S02E67",
     "wiki": "Anger_Management_(TV_series)"
   },
   {
