@@ -174,9 +174,9 @@ module.exports = [
   {
     "title": "Franklin & Bash",
     "imdb": "tt1600199",
-    "episodes": 30,
+    "episodes": 31,
     "stillWatching": 1,
-    "lastWatched": "S3E10",
+    "lastWatched": "S04E01",
     "wiki": "Franklin_%26_Bash"
   },
   {
