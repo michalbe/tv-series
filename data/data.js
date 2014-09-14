@@ -174,9 +174,9 @@ module.exports = [
   {
     "title": "Franklin & Bash",
     "imdb": "tt1600199",
-    "episodes": 31,
+    "episodes": 33,
     "stillWatching": 1,
-    "lastWatched": "S04E01",
+    "lastWatched": "S04E03",
     "wiki": "Franklin_%26_Bash"
   },
   {
@@ -459,9 +459,9 @@ module.exports = [
   {
     "title": "The Sopranos",
     "imdb": "tt0141842",
-    "episodes": 62,
+    "episodes": 66,
     "stillWatching": 1,
-    "lastWatched": "S05E10"
+    "lastWatched": "S06E01"
   },
   {
     "title": "True Detective",
