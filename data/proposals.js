@@ -113,6 +113,11 @@ var toConsider = [{
   "votes": ["shorang", "scryptonite"],
   'wiki' : 'Person of Interest (TV series)'
 }, {
+  "title": "Ray Donovan",
+  "imdb": "tt2249007",
+  "stillWatching": 1,
+  "votes": ["ziolek666"]
+}, {  
   "title": "Robot Chicken",
   "imdb": "tt0437745",
   "stillWatching": 1,
