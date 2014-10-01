@@ -44,13 +44,11 @@ var votesAction = function(chunkv, callback){
     next();
   }, function() {
     var uniqueVoters = [];
-    allVoters.forEach(function(name){
+    allVoters.forEach(function(name) {
       if (uniqueVoters.indexOf(name) === -1) {
         uniqueVoters.push(name);
       }
     });
-
-    console.log(uniqueVoters);
   });
 }
 
