@@ -205,6 +205,12 @@ var toConsider = [{
   "stillWatching":0,
   "votes":["guamaso"],
   "wiki":"Transformers:_Prime",
+}, {
+  "title":"Avatar: The Last Airbender",
+  "imdb":"tt0417299",
+  "stillWatching":0,
+  "votes":["guamaso"],
+  "wiki":"Avatar:_The_Last_Airbender",
 }]
 
 module.exports = toConsider;
