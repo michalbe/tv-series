@@ -8,6 +8,7 @@ var request = require('request');
 var download = require('download');
 
 var download_covers = true;
+var allVoters = [];
 
 var buildChunk = function(chunkb, callback) {
   async.parallel({
@@ -37,7 +38,20 @@ var votesAction = function(chunkv, callback){
     return callback();
   }
 
-  async.each(chunkv.votes, getAvatar, callback);
+  //async.each(chunkv.votes, getAvatar, callback);
+  async.each(chunkv.votes, function(user, next){
+    allVoters.push(user);
+    next();
+  }, function() {
+    var uniqueVoters = [];
+    allVoters.forEach(function(name){
+      if (uniqueVoters.indexOf(name) === -1) {
+        uniqueVoters.push(name);
+      }
+    });
+
+    console.log(uniqueVoters);
+  });
 }
 
 var omdbAction = function(chunko, callback) {
