@@ -198,19 +198,19 @@ var toConsider = [{
   "imdb":"tt1812523",
   "stillWatching":0,
   "votes":["guamaso"],
-  "wiki":"Tron:_Uprising",
+  "wiki":"Tron:_Uprising"
 }, {
   "title":"Transformers: Prime",
   "imdb":"tt1659175",
   "stillWatching":0,
   "votes":["guamaso"],
-  "wiki":"Transformers:_Prime",
+  "wiki":"Transformers:_Prime"
 }, {
   "title":"Avatar: The Last Airbender",
   "imdb":"tt0417299",
   "stillWatching":0,
   "votes":["guamaso"],
-  "wiki":"Avatar:_The_Last_Airbender",
+  "wiki":"Avatar:_The_Last_Airbender"
 }]
 
 module.exports = toConsider;
