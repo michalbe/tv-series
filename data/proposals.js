@@ -64,17 +64,17 @@ var toConsider = [{
   "title": "Cowboy Bebop",
   "imdb": "tt0213338",
   "stillWatching": 0,
-  "votes": ["datrio", "kamilogorek", "stasm", "stasm"]
+  "votes": ["datrio", "kamilogorek", "stasm", "stasm","guamaso"]
 }, {
   "title": "Dollhouse",
   "imdb": "tt1135300",
   "stillWatching": 0,
-  "votes": ["igorw"]
+  "votes": ["igorw","guamaso"]
 }, {
   "title": "Firefly",
   "imdb": "tt0303461",
   "stillWatching": 0,
-  "votes": ["stasm"]
+  "votes": ["stasm","guamaso"]
 }, {
   "title": "Homeland",
   "imdb": "tt1796960",
@@ -117,7 +117,7 @@ var toConsider = [{
   "imdb": "tt2249007",
   "stillWatching": 1,
   "votes": ["ziolek666"]
-}, {  
+}, {
   "title": "Robot Chicken",
   "imdb": "tt0437745",
   "stillWatching": 1,
@@ -193,6 +193,24 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "gstepniewski"],
   'wiki' : 'Wilfred (U.S. TV series)'
+}, {
+  "title":"Tron: Uprising",
+  "imdb":"tt1812523",
+  "stillWatching":0,
+  "votes":["guamaso"],
+  "wiki":"Tron:_Uprising"
+}, {
+  "title":"Transformers: Prime",
+  "imdb":"tt1659175",
+  "stillWatching":0,
+  "votes":["guamaso"],
+  "wiki":"Transformers:_Prime"
+}, {
+  "title":"Avatar: The Last Airbender",
+  "imdb":"tt0417299",
+  "stillWatching":0,
+  "votes":["guamaso"],
+  "wiki":"Avatar:_The_Last_Airbender"
 }]
 
 module.exports = toConsider;
