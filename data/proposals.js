@@ -19,6 +19,12 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["autonome"],
   'wiki' : 'Arrested_Development_(TV_series)'
+}, {
+  "title":"Avatar: The Last Airbender",
+  "imdb":"tt0417299",
+  "stillWatching":0,
+  "votes":["guamaso"],
+  "wiki":"Avatar:_The_Last_Airbender"
 },{
   "title": "Band of Brothers",
   "imdb": "tt0185906",
@@ -177,6 +183,18 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["datrio"]
 }, {
+  "title":"Transformers: Prime",
+  "imdb":"tt1659175",
+  "stillWatching":0,
+  "votes":["guamaso"],
+  "wiki":"Transformers:_Prime"
+}, {
+  "title":"Tron: Uprising",
+  "imdb":"tt1812523",
+  "stillWatching":0,
+  "votes":["guamaso"],
+  "wiki":"Tron:_Uprising"
+}, {
   "title": "Warehouse 13",
   "imdb": "tt1132290",
   "stillWatching": 0,
@@ -193,24 +211,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "gstepniewski"],
   'wiki' : 'Wilfred (U.S. TV series)'
-}, {
-  "title":"Tron: Uprising",
-  "imdb":"tt1812523",
-  "stillWatching":0,
-  "votes":["guamaso"],
-  "wiki":"Tron:_Uprising"
-}, {
-  "title":"Transformers: Prime",
-  "imdb":"tt1659175",
-  "stillWatching":0,
-  "votes":["guamaso"],
-  "wiki":"Transformers:_Prime"
-}, {
-  "title":"Avatar: The Last Airbender",
-  "imdb":"tt0417299",
-  "stillWatching":0,
-  "votes":["guamaso"],
-  "wiki":"Avatar:_The_Last_Airbender"
 }]
 
 module.exports = toConsider;
