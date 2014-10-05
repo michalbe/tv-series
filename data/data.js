@@ -84,7 +84,7 @@ module.exports = [
     "imdb": "tt2467372",
     "stillWatching": 1,
     "episodes": 22,
-    "lastWatched": "S01E22"
+    "lastWatched": "S02E00"
   },
   {
     "title": "CSI: Crime Scene Investigation",
@@ -154,7 +154,7 @@ module.exports = [
     "imdb": "tt0182576",
     "episodes": 231,
     "stillWatching": 1,
-    "lastWatched": "S12E21"
+    "lastWatched": "S13E00"
   },
   {
     "title": "Flash",
@@ -349,7 +349,7 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S05E24",
+    "lastWatched": "S06E0",
     "episodes": 120,
     "stillWatching": 1,
     "oldvotes": [
