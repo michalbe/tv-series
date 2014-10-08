@@ -152,9 +152,9 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 231,
+    "episodes": 232,
     "stillWatching": 1,
-    "lastWatched": "S13E00"
+    "lastWatched": "S13E01"
   },
   {
     "title": "Flash",
@@ -174,9 +174,9 @@ module.exports = [
   {
     "title": "Franklin & Bash",
     "imdb": "tt1600199",
-    "episodes": 33,
+    "episodes": 37,
     "stillWatching": 1,
-    "lastWatched": "S04E03",
+    "lastWatched": "S04E07",
     "wiki": "Franklin_%26_Bash"
   },
   {
