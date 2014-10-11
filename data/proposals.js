@@ -14,12 +14,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["mmalecki"]
 }, {
-  "title": "Arrested development",
-  "imdb": "tt0367279",
-  "stillWatching": 0,
-  "votes": ["autonome"],
-  'wiki' : 'Arrested_Development_(TV_series)'
-}, {
   "title":"Avatar: The Last Airbender",
   "imdb":"tt0417299",
   "stillWatching":0,
