@@ -205,6 +205,11 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "gstepniewski"],
   'wiki' : 'Wilfred (U.S. TV series)'
+}, {
+  "title": "Twin Peaks",
+  "imdb": "tt0098936",
+  "stillWatching": 0,
+  "votes": ["zigomir"]
 }]
 
 module.exports = toConsider;
