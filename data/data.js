@@ -438,7 +438,7 @@ module.exports = [
   {
     "title": "Simpsons",
     "imdb": "tt0096697",
-    "episodes": 23,
+    "episodes": 24,
     "stillWatching": 0
   },
   {
