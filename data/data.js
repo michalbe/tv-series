@@ -367,6 +367,13 @@ module.exports = [
     ]
   },
   {
+    "title": "Mr. Pickles",
+    "imdb": "tt2950342",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "My Wife and Kids",
     "imdb": "tt0273855",
     "episodes": "122",
