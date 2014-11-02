@@ -12,13 +12,14 @@ var WikiClient = function(showName, elementId){
 }
 
 var trash = [
-  '([[Doctor Who missing episodes|97 missing]]) <!--As of 23 October 2013. Does not count "The Infinite Quest" or \'\'Dreamland\'\' or other spin-offs. Do not report fewer than 97 missing episodes until this has been reliably confirmed.-->',
+  '([[Doctor Who missing episodes|97 missing]])',
   '([[List of MacGyver episodes|List of episodes]])<br />2 tv [[List of MacGyver episodes#TV Movies|films]]',
   '+ [[Burn Notice: The Fall of Sam Axe|1 movie]]',
   '+ original pilot<ref>{{cite web |url=http://www.eonline.com/news/117929/will-fox-air-dollhouse-s-final-episode-or-not |title=Will Fox Air Dollhouse\'s Final Episode or Not? |date=April 9, 2009 |accessdate=January 14, 2013',
   '+ (82 aired)',
   '<ref>This includes the special episodes "Documentary Special" and "Isaac and Ishmael".</ref>',
-  '([[List of The Pacific episodes|List of episodes]])'
+  '([[List of The Pacific episodes|List of episodes]])',
+  '(and 1 pilot)'
 ];
 
 var untrashData = function(data) {
@@ -28,7 +29,7 @@ var untrashData = function(data) {
 
   data = data.replace(/<!--(.*?)-->/gm, "");
 
-  return data.replace('=', '');
+  return data.replace(/( ?)=( ?)/gmi, ' ');
 }
 
 function parseResponse(response) {
@@ -39,12 +40,9 @@ function parseResponse(response) {
     var content = pages[page].revisions[0]['*'];
     var index = content.indexOf('num_episodes');
     var content = content.slice(index, index+300);
-
     content = untrashData(content);
     //OMG it's so ugly that I don't actually believe it will work
     content = content.split('|')[0].trim().split(' ').pop();
-
-    //console.log(content);
     var name = document.getElementById(response.requestid).dataset.name;
 
     if (name === 'Doctor Who') {
