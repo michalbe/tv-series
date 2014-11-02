@@ -44,9 +44,9 @@ module.exports = [
   {
     "title": "Arrow",
     "imdb": "tt2193021",
-    "episodes": 50,
+    "episodes": 49,
     "stillWatching": 1,
-    "lastWatched": "S03E04"
+    "lastWatched": "S03E03"
   },
   {
     "title": "Banshee",
@@ -148,7 +148,7 @@ module.exports = [
     "episodes": 103,
     "episodeLength": 45,
     "stillWatching": 1,
-    "lastWatched": "Christmas Special Season 7"
+    "lastWatched": "S08E00"
   },
   {
     "title": "Elementary",
