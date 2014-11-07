@@ -167,9 +167,9 @@ module.exports = [
   {
     "title": "Fargo",
     "imdb": "tt2802850",
-    "episodes": 0,
+    "episodes": 2,
     "stillWatching": 1,
-    "lastWatched": "S01E00"
+    "lastWatched": "S01E02"
   },
   {
     "title": "Flash",
