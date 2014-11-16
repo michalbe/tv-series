@@ -28,9 +28,9 @@ module.exports = [
   {
     "title": "Anger Management",
     "imdb": "tt1986770",
-    "episodes": 86,
+    "episodes": 88,
     "stillWatching": 1,
-    "lastWatched": "S02E76",
+    "lastWatched": "S02E78",
     "wiki": "Anger_Management_(TV_series)"
   },
   {
@@ -91,8 +91,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 27,
-    "lastWatched": "S02E05"
+    "episodes": 28,
+    "lastWatched": "S02E06"
   },
   {
     "title": "CSI: Crime Scene Investigation",
