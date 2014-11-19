@@ -91,8 +91,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 28,
-    "lastWatched": "S02E06"
+    "episodes": 29,
+    "lastWatched": "S02E07"
   },
   {
     "title": "CSI: Crime Scene Investigation",
