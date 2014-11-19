@@ -88,6 +88,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "Brickleberry",
+    "imdb": "tt2022713",
+    "episodes": 1,
+    "stillWatching": 1,
+    "lastWatched": "S01E01"
+  },
+  {
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
@@ -376,9 +383,9 @@ module.exports = [
   {
     "title": "Mr. Pickles",
     "imdb": "tt2950342",
-    "episodes": 7,
+    "episodes": 9,
     "stillWatching": 1,
-    "lastWatched": "S01E07"
+    "lastWatched": "S01E09"
   },
   {
     "title": "My Wife and Kids",
