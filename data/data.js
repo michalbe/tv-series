@@ -152,10 +152,10 @@ module.exports = [
   {
     "title": "Doctor Who",
     "imdb": "tt0436992",
-    "episodes": 111,
+    "episodes": 115,
     "episodeLength": 45,
     "stillWatching": 1,
-    "lastWatched": "S08E08"
+    "lastWatched": "S08E12"
   },
   {
     "title": "Elementary",
