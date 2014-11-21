@@ -28,9 +28,9 @@ module.exports = [
   {
     "title": "Anger Management",
     "imdb": "tt1986770",
-    "episodes": 88,
+    "episodes": 90,
     "stillWatching": 1,
-    "lastWatched": "S02E78",
+    "lastWatched": "S02E80",
     "wiki": "Anger_Management_(TV_series)"
   },
   {
@@ -371,8 +371,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S06E07",
-    "episodes": 127,
+    "lastWatched": "S06E08",
+    "episodes": 128,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
