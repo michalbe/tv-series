@@ -44,9 +44,9 @@ module.exports = [
   {
     "title": "Arrow",
     "imdb": "tt2193021",
-    "episodes": 52,
+    "episodes": 53,
     "stillWatching": 1,
-    "lastWatched": "S03E06"
+    "lastWatched": "S03E07"
   },
   {
     "title": "Banshee",
