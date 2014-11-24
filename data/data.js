@@ -16,7 +16,7 @@ module.exports = [
     "imdb": "tt0397306",
     "episodes": 162,
     "stillWatching": 1,
-    "lastWatched": "S10E10"
+    "lastWatched": "S09E10"
   },
   {
     "title": "American Horror Story",
