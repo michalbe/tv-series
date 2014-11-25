@@ -90,9 +90,9 @@ module.exports = [
   {
     "title": "Brickleberry",
     "imdb": "tt2022713",
-    "episodes": 32,
+    "episodes": 33,
     "stillWatching": 1,
-    "lastWatched": "S03E09"
+    "lastWatched": "S03E10"
   },
   {
     "title": "Brooklyn Nine-Nine",
