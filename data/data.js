@@ -64,7 +64,7 @@ module.exports = [
   },
   {
     "title": "Blok Ekipa",
-    "episodes": 35,
+    "episodes": 38,
     "poster": "http://i1.ytimg.com/vi/yk_4kQjgBJw/maxresdefault.jpg",
     "episodeLength": 5,
     "stillWatching": 1
