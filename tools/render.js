@@ -104,6 +104,9 @@ var Renderer = function(data, parent) {
     } else {
       totalMinutes = chunk.episodes * chunk.episodeLength;
       globalTotalMinutes += totalMinutes;
+      if (totalMinutes > 5999) {
+        cover.classList.add('over-one-hundred');
+      }
     }
 
     totalLength.innerHTML = ~~( totalMinutes / 60) + "h " +
