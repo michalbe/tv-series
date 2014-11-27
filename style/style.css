@@ -224,3 +224,7 @@ img.voter {
 td.cover {
 	background-size: cover !important;
 }
+
+.over-one-hundred {
+	border: yellow 2px solid;
+}
