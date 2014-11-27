@@ -169,6 +169,7 @@ module.exports = [
     "imdb": "tt0182576",
     "episodes": 236,
     "stillWatching": 1,
+    "episodeLength": 22,
     "lastWatched": "S13E05"
   },
   {
@@ -286,6 +287,7 @@ module.exports = [
     "title": "Joey",
     "imdb": "tt0375355",
     "episodes": 17,
+    "episodeLength": 22,
     "stillWatching": 0
   },
   {
