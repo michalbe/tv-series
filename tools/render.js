@@ -174,7 +174,7 @@ var parseWikiResponse = function(data) {
     if (element.dataset.stillWatching == 1 && episodes < content) {
       // watching, not up to date
 
-      var howManyLeft = content-episodes-1;
+      var howManyLeft = content-episodes;
       element.parentNode.classList.add('red');
       element.previousSibling.innerHTML = '<a href="http://127.0.0.1:1337/' +
         element.dataset.name.replace(/\s/gi, '+') + '+' + createSearchURL(element.dataset.lastWatched) +
