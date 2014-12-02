@@ -69,7 +69,7 @@ var Renderer = function(data, parent) {
     if (chunk.votes) {
       // Donwload pilot of a new TV show
       title.innerHTML = '<a href="http://127.0.0.1:1337/' +
-        chunk.title.replace(/\s/gi, '+') + '+S01E/1/0"><img src="style/dwnld.png" class="download-icon"></a>' +
+        chunk.title.replace(/\s/gi, '+') + '+/1/1/1"><img src="style/dwnld.png" class="download-icon"></a>' +
         title.innerHTML;
     }
 
@@ -177,7 +177,7 @@ var parseWikiResponse = function(data) {
       var howManyLeft = content-episodes;
       element.parentNode.classList.add('red');
       element.previousSibling.innerHTML = '<a href="http://127.0.0.1:1337/' +
-        element.dataset.name.replace(/\s/gi, '+') + '+' + createSearchURL(element.dataset.lastWatched) +
+        element.dataset.name.replace(/\s/gi, '+') + createSearchURL(element.dataset.lastWatched) +
         '/' + howManyLeft + '"><img src="style/dwnld.png" class="download-icon"></a>' +
         element.previousSibling.innerHTML;
 
@@ -230,9 +230,10 @@ var renderEpisodes = function(element, data, defaultValue) {
 
 var createSearchURL = function(value) {
   var lw = value.split('E');
+  lw[0] = lw[0].replace('S', '');
   lw[1] = parseInt(lw[1], 10);
   lw[1]++;
-  return lw.join('E/');
+  return '/'+ lw.join('/');
 }
 
 var minToH = function(min) {
