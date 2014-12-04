@@ -160,9 +160,9 @@ module.exports = [
   {
     "title": "Drawn Together",
     "imdb": "tt0386180",
-    "episodes": 4,
+    "episodes": 6,
     "stillWatching": 1,
-    "lastWatched": "S01E04"
+    "lastWatched": "S01E06"
   },
   {
     "title": "Elementary",
@@ -365,9 +365,9 @@ module.exports = [
   {
     "title": "Mentalist",
     "imdb": "tt1196946",
-    "episodes": 138,
+    "episodes": 139,
     "stillWatching": 1,
-    "lastWatched": "S06E22",
+    "lastWatched": "S06E23",
     "wiki": "The_Mentalist"
   },
   {
