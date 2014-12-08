@@ -98,8 +98,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 30,
-    "lastWatched": "S02E08"
+    "episodes": 31,
+    "lastWatched": "S02E09"
   },
   {
     "title": "CSI: Crime Scene Investigation",
@@ -160,9 +160,9 @@ module.exports = [
   {
     "title": "Drawn Together",
     "imdb": "tt0386180",
-    "episodes": 6,
+    "episodes": 7,
     "stillWatching": 1,
-    "lastWatched": "S01E06"
+    "lastWatched": "S01E07"
   },
   {
     "title": "Elementary",
@@ -380,8 +380,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S06E08",
-    "episodes": 128,
+    "lastWatched": "S06E09",
+    "episodes": 129,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -512,9 +512,9 @@ module.exports = [
   {
     "title": "Two and a Half Men",
     "imdb": "tt0369179",
-    "episodes": 251,
+    "episodes": 252,
     "stillWatching": 1,
-    "lastWatched": "S12E05"
+    "lastWatched": "S12E06"
   },
   {
     "title": "White Collar",
