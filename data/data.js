@@ -246,7 +246,8 @@ module.exports = [
     "title": "Heroes",
     "imdb": "tt0813715",
     "episodes": "59",
-    "stillWatching": 0
+    "stillWatching": 0,
+    "episodeLength": 42
   },
   {
     "title": "House",
