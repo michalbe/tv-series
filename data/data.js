@@ -308,7 +308,8 @@ module.exports = [
     "title": "Kyle XY",
     "imdb": "tt0756509",
     "episodes": "10",
-    "stillWatching": 0
+    "stillWatching": 0,
+    "episodeLength": 44
   },
   {
     "title": "Last Resort",
