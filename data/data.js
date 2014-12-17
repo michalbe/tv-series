@@ -14,9 +14,9 @@ module.exports = [
   {
     "title": "American Dad!",
     "imdb": "tt0397306",
-    "episodes": 172,
+    "episodes": 173,
     "stillWatching": 1,
-    "lastWatched": "S10E00"
+    "lastWatched": "S10E01"
   },
   {
     "title": "American Horror Story",
