@@ -14,9 +14,9 @@ module.exports = [
   {
     "title": "American Dad!",
     "imdb": "tt0397306",
-    "episodes": 172,
+    "episodes": 173,
     "stillWatching": 1,
-    "lastWatched": "S10E00"
+    "lastWatched": "S10E01"
   },
   {
     "title": "American Horror Story",
@@ -28,9 +28,9 @@ module.exports = [
   {
     "title": "Anger Management",
     "imdb": "tt1986770",
-    "episodes": 96,
+    "episodes": 98,
     "stillWatching": 1,
-    "lastWatched": "S02E86",
+    "lastWatched": "S02E88",
     "wiki": "Anger_Management_(TV_series)"
   },
   {
@@ -160,9 +160,9 @@ module.exports = [
   {
     "title": "Drawn Together",
     "imdb": "tt0386180",
-    "episodes": 9,
+    "episodes": 10,
     "stillWatching": 1,
-    "lastWatched": "S02E02"
+    "lastWatched": "S02E03"
   },
   {
     "title": "Elementary",
