@@ -29,6 +29,9 @@ module.exports = function(grunt) {
       "update" : {
         command : 'node ./tools/update.js ' + title
       },
+      "season" : {
+        command : 'node ./tools/season-inc.js ' + title
+      },
       "add" : {
         command : 'node ./tools/add.js ' + id
       }
@@ -44,6 +47,7 @@ module.exports = function(grunt) {
   grunt.registerTask('proposals', ['exec:proposals']);
   grunt.registerTask('data', ['exec:justdata']);
   grunt.registerTask('update', ['exec:update']);
+  grunt.registerTask('season', ['exec:season']);
   grunt.registerTask('add', ['exec:add']);
 
 }
