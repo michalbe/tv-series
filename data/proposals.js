@@ -76,11 +76,6 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["stasm","guamaso"]
 }, {
-  "title": "Homeland",
-  "imdb": "tt1796960",
-  "stillWatching": 1,
-  "votes": ["tobytailor", "shorang", "ryanburgess"]
-}, {
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "tt0472954",
   "stillWatching": 1,
