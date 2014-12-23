@@ -160,9 +160,9 @@ module.exports = [
   {
     "title": "Drawn Together",
     "imdb": "tt0386180",
-    "episodes": 10,
+    "episodes": 11,
     "stillWatching": 1,
-    "lastWatched": "S02E03"
+    "lastWatched": "S02E04"
   },
   {
     "title": "Elementary",
