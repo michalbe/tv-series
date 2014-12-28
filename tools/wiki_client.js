@@ -13,13 +13,14 @@ var WikiClient = function(showName, elementId){
 
 var trash = [
   '([[Doctor Who missing episodes|97 missing]])',
-  '([[List of MacGyver episodes|List of episodes]])<br />2 tv [[List of MacGyver episodes#TV Movies|films]]',
+  '([[List of MacGyver episodes|List of episodes]])<br />2 TV [[List of MacGyver episodes#TV Movies|films]]',
   '+ [[Burn Notice: The Fall of Sam Axe|1 movie]]',
   '+ original pilot<ref>{{cite web |url=http://www.eonline.com/news/117929/will-fox-air-dollhouse-s-final-episode-or-not |title=Will Fox Air Dollhouse\'s Final Episode or Not? |date=April 9, 2009 |accessdate=January 14, 2013',
   '+ (82 aired)',
   '<ref>This includes the special episodes "Documentary Special" and "Isaac and Ishmael".</ref>',
   '([[List of The Pacific episodes|List of episodes]])',
-  '(and 1 pilot)'
+  '(and 1 pilot)',
+  '(and 9 specials)'
 ];
 
 var untrashData = function(data) {
