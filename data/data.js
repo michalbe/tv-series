@@ -442,9 +442,9 @@ module.exports = [
   {
     "title": "Robot Chicken",
     "imdb": "tt0437745",
-    "episodes": 4,
+    "episodes": 7,
     "stillWatching": 1,
-    "lastWatched": "S01E04"
+    "lastWatched": "S01E07"
   },
   {
     "title": "Scrubs",
