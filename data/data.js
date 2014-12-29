@@ -440,6 +440,13 @@ module.exports = [
     "lastWatched": "S01E11"
   },
   {
+    "title": "Robot Chicken",
+    "imdb": "tt0437745",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "Scrubs",
     "imdb": "tt0285403",
     "episodes": "182",
