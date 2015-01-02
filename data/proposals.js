@@ -17,7 +17,7 @@ var toConsider = [{
   "title":"Avatar: The Last Airbender",
   "imdb":"tt0417299",
   "stillWatching":0,
-  "votes":["guamaso"],
+  "votes":["guamaso", "alexpnt"],
   "wiki":"Avatar:_The_Last_Airbender"
 },{
   "title": "Band of Brothers",
@@ -61,6 +61,11 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["gstepniewski"]
 }, {
+  "title": "Cosmos",
+  "imdb": "tt0081846",
+  "stillWatching": 0,
+  "votes": ["alexpnt"]
+}, {
   "title": "Cowboy Bebop",
   "imdb": "tt0213338",
   "stillWatching": 0,
@@ -74,7 +79,7 @@ var toConsider = [{
   "title": "Firefly",
   "imdb": "tt0303461",
   "stillWatching": 0,
-  "votes": ["stasm","guamaso"]
+  "votes": ["stasm","guamaso", "alexpnt"]
 }, {
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "tt0472954",
@@ -128,6 +133,16 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "datrio", "afronski", "tobytailor"]
 }, {
+  "title": "Smallville",
+  "imdb": "tt0279600",
+  "stillWatching": 0,
+  "votes": ["alexpnt"]
+}, {
+  "title": "The Elegant Universe",
+  "imdb": "tt0377171",
+  "stillWatching": 0,
+  "votes": ["alexpnt"]
+}, {
   "title": "The Following",
   "imdb": "tt2071645",
   "stillWatching": 0,
@@ -164,13 +179,18 @@ var toConsider = [{
   "title": "The Walking Dead",
   "imdb": "tt1520211",
   "stillWatching": 1,
-  "votes": ["datrio", "afronski", "tobytailor", "shorang", "ryanburgess", "scryptonite", "chemikpil"],
+  "votes": ["datrio", "afronski", "tobytailor", "shorang", "ryanburgess", "scryptonite", "chemikpil", "alexpnt"],
   'wiki' : 'The Walking Dead (TV series)'
 }, {
   "title": "The West Wing",
   "imdb": "tt0200276",
   "stillWatching": 0,
   "votes": ["datrio"]
+}, {
+  "title": "Touch",
+  "imdb": "tt1821681",
+  "stillWatching": 0,
+  "votes": ["alexpnt"]
 }, {
   "title":"Transformers: Prime",
   "imdb":"tt1659175",
