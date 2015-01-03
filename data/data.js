@@ -36,9 +36,9 @@ module.exports = [
   {
     "title": "Arrested Development",
     "imdb": "tt0367279",
-    "episodes": 1,
+    "episodes": 3,
     "stillWatching": 1,
-    "lastWatched": "S01E01",
+    "lastWatched": "S01E03",
     "wiki": "Arrested_Development_(TV_series)"
   },
   {
