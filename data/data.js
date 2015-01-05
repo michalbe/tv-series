@@ -36,9 +36,9 @@ module.exports = [
   {
     "title": "Arrested Development",
     "imdb": "tt0367279",
-    "episodes": 40,
+    "episodes": 59,
     "stillWatching": 1,
-    "lastWatched": "S03E00",
+    "lastWatched": "S04E06",
     "wiki": "Arrested_Development_(TV_series)"
   },
   {
@@ -57,14 +57,14 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 170,
+    "episodes": 171,
     "stillWatching": 1,
-    "lastWatched": "S08E11",
+    "lastWatched": "S08E12",
     "wiki": "The_Big_Bang_Theory"
   },
   {
     "title": "Blok Ekipa",
-    "episodes": 40,
+    "episodes": 41,
     "poster": "http://i1.ytimg.com/vi/yk_4kQjgBJw/maxresdefault.jpg",
     "episodeLength": 5,
     "stillWatching": 1
@@ -528,9 +528,9 @@ module.exports = [
   {
     "title": "Two and a Half Men",
     "imdb": "tt0369179",
-    "episodes": 254,
+    "episodes": 255,
     "stillWatching": 1,
-    "lastWatched": "S12E08"
+    "lastWatched": "S12E09"
   },
   {
     "title": "White Collar",
