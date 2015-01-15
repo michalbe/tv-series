@@ -28,12 +28,12 @@ var toConsider = [{
   "title": "Battlestar Galactica (TV miniseries)",
   "imdb": "tt0314979",
   "stillWatching": 0,
-  "votes": ["stasm"]
+  "votes": ["stasm", "doogi"]
 }, {
   "title": "Battlestar Galactica (2004_TV_series)",
   "imdb": "tt0407362",
   "stillWatching": 0,
-  "votes": ["stasm"]
+  "votes": ["stasm", "doogi"]
 }, {
   "title": "Black Mirror",
   "imdb": "tt2085059",
@@ -74,12 +74,12 @@ var toConsider = [{
   "title": "Dollhouse",
   "imdb": "tt1135300",
   "stillWatching": 0,
-  "votes": ["igorw","guamaso"]
+  "votes": ["igorw", "guamaso", "doogi"]
 }, {
   "title": "Firefly",
   "imdb": "tt0303461",
   "stillWatching": 0,
-  "votes": ["stasm","guamaso", "alexpnt"]
+  "votes": ["stasm","guamaso", "alexpnt", "doogi"]
 }, {
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "tt0472954",
@@ -179,7 +179,7 @@ var toConsider = [{
   "title": "The Walking Dead",
   "imdb": "tt1520211",
   "stillWatching": 1,
-  "votes": ["datrio", "afronski", "tobytailor", "shorang", "ryanburgess", "scryptonite", "chemikpil", "alexpnt"],
+  "votes": ["datrio", "afronski", "tobytailor", "shorang", "ryanburgess", "scryptonite", "chemikpil", "alexpnt", "doogi"],
   'wiki' : 'The Walking Dead (TV series)'
 }, {
   "title": "The West Wing",
