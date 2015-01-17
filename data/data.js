@@ -174,10 +174,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 238,
+    "episodes": 239,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S13E07"
+    "lastWatched": "S13E08"
   },
   {
     "title": "Fargo",
