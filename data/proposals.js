@@ -12,7 +12,7 @@ var toConsider = [{
   "title": "Archer",
   "imdb": "tt1486217",
   "stillWatching": 1,
-  "votes": ["mmalecki"]
+  "votes": ["mmalecki", "stkrzysiak"]
 }, {
   "title":"Avatar: The Last Airbender",
   "imdb":"tt0417299",
@@ -84,12 +84,12 @@ var toConsider = [{
   "title": "It's Always Sunny in Philadelphia",
   "imdb": "tt0472954",
   "stillWatching": 1,
-  "votes": ["gstepniewski", "ryanburgess"]
+  "votes": ["gstepniewski", "ryanburgess", "stkrzysiak"]
 }, {
   "title": "My Name Is Earl",
   "imdb": "tt0460091",
   "stillWatching": 0,
-  "votes": ["kamilogorek", "gstepniewski"]
+  "votes": ["kamilogorek", "gstepniewski", "stkrzysiak"]
 }, {
   "title": "Numb3rs",
   "imdb": "tt0433309",
@@ -100,12 +100,18 @@ var toConsider = [{
   "title": "Oz",
   "imdb": "tt0118421",
   "stillWatching": 0,
-  "votes": ["kamilogorek"]
+  "votes": ["kamilogorek", "stkrzysiak"]
 }, {
   "title": "Parks and Recreation",
   "imdb": "tt1266020",
   "stillWatching": 1,
   "votes": ["kamilogorek", "gstepniewski", "ryanburgess"]
+}, {
+  "title": "Peaky Blinders",
+  "imdb": "tt2442560",
+  "stillWatching": 0,
+  "votes": ["stkrzysiak"],
+  'wiki' : 'Peaky_Blinders_(TV_series)'
 }, {
   "title": "Person of Interest",
   "imdb": "tt1839578",
@@ -126,7 +132,7 @@ var toConsider = [{
   "title": "Sons of Anarchy",
   "imdb": "tt1124373",
   "stillWatching": 1,
-  "votes": ["kamilogorek", "tobytailor","tizianozonta", "ryanburgess"]
+  "votes": ["kamilogorek", "tobytailor","tizianozonta", "ryanburgess", "stkrzysiak"]
 }, {
   "title": "Spartacus",
   "imdb": "tt1442449",
@@ -217,7 +223,7 @@ var toConsider = [{
   "title": "Weeds",
   "imdb": "tt0439100",
   "stillWatching": 0,
-  "votes": ["tizianozonta", "ryanburgess", "mmalecki"],
+  "votes": ["tizianozonta", "ryanburgess", "mmalecki", "stkrzysiak"],
   'wiki' : 'Weeds_(TV_series)'
 }, {
   "title": "Wilfred",
