@@ -389,7 +389,7 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S06E10",
+    "lastWatched": "S07E00",
     "episodes": 130,
     "stillWatching": 1,
     "oldvotes": [
@@ -530,7 +530,7 @@ module.exports = [
     "imdb": "tt0369179",
     "episodes": 255,
     "stillWatching": 1,
-    "lastWatched": "S12E09"
+    "lastWatched": "S13E00"
   },
   {
     "title": "White Collar",
