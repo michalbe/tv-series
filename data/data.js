@@ -187,7 +187,7 @@ module.exports = [
     "lastWatched": "S01E10"
   },
   {
-    "title": "h",
+    "title": "Flash",
     "imdb": "tt3107288",
     "episodes": 10,
     "stillWatching": 1,
