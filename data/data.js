@@ -187,12 +187,12 @@ module.exports = [
     "lastWatched": "S01E10"
   },
   {
-    "title": "Flash",
+    "title": "h",
     "imdb": "tt3107288",
-    "episodes": 9,
+    "episodes": 10,
     "stillWatching": 1,
     "episodeLength": 46,
-    "lastWatched": "S01E09",
+    "lastWatched": "S01E10",
     "wiki": "The_Flash_(2014_TV_series)"
   },
   {
@@ -389,8 +389,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S07E00",
-    "episodes": 130,
+    "lastWatched": "S06E11",
+    "episodes": 131,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -528,9 +528,9 @@ module.exports = [
   {
     "title": "Two and a Half Men",
     "imdb": "tt0369179",
-    "episodes": 255,
+    "episodes": 256,
     "stillWatching": 1,
-    "lastWatched": "S13E00"
+    "lastWatched": "S12E10"
   },
   {
     "title": "White Collar",
