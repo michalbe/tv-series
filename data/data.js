@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 171,
+    "episodes": 172,
     "stillWatching": 1,
-    "lastWatched": "S08E12",
+    "lastWatched": "S08E13",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -254,7 +254,7 @@ module.exports = [
     "imdb": "tt1796960",
     "episodes": 36,
     "stillWatching": 1,
-    "lastWatched": "S03E12"
+    "lastWatched": "S04E00"
   },
   {
     "title": "House",
@@ -528,9 +528,9 @@ module.exports = [
   {
     "title": "Two and a Half Men",
     "imdb": "tt0369179",
-    "episodes": 256,
+    "episodes": 258,
     "stillWatching": 1,
-    "lastWatched": "S12E10"
+    "lastWatched": "S12E12"
   },
   {
     "title": "White Collar",
