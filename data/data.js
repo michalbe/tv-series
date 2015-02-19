@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 172,
+    "episodes": 173,
     "stillWatching": 1,
-    "lastWatched": "S08E13",
+    "lastWatched": "S08E14",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -174,10 +174,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 239,
+    "episodes": 240,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S13E08"
+    "lastWatched": "S13E09"
   },
   {
     "title": "Fargo",
