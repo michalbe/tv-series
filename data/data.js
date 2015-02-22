@@ -528,9 +528,9 @@ module.exports = [
   {
     "title": "Two and a Half Men",
     "imdb": "tt0369179",
-    "episodes": 258,
+    "episodes": 262,
     "stillWatching": 1,
-    "lastWatched": "S12E12"
+    "lastWatched": "S12E16"
   },
   {
     "title": "White Collar",
