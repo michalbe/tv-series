@@ -529,7 +529,7 @@ module.exports = [
     "title": "Two and a Half Men",
     "imdb": "tt0369179",
     "episodes": 262,
-    "stillWatching": 1,
+    "stillWatching": 0,
     "lastWatched": "S12E16"
   },
   {
