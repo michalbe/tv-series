@@ -267,7 +267,7 @@ module.exports = [
     "imdb": "tt1856010",
     "episodes": 26,
     "stillWatching": 1,
-    "lastWatched": "S02E13",
+    "lastWatched": "S03E00",
     "wiki": "House_of_Cards_(U.S._TV_series)"
   },
   {
