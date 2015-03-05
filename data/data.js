@@ -265,9 +265,9 @@ module.exports = [
   {
     "title": "House of Cards",
     "imdb": "tt1856010",
-    "episodes": 26,
+    "episodes": 28,
     "stillWatching": 1,
-    "lastWatched": "S03E00",
+    "lastWatched": "S03E02",
     "wiki": "House_of_Cards_(U.S._TV_series)"
   },
   {
