@@ -174,10 +174,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 243,
+    "episodes": 244,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S13E12"
+    "lastWatched": "S13E13"
   },
   {
     "title": "Fargo",
@@ -265,9 +265,9 @@ module.exports = [
   {
     "title": "House of Cards",
     "imdb": "tt1856010",
-    "episodes": 38,
+    "episodes": 39,
     "stillWatching": 1,
-    "lastWatched": "S03E12",
+    "lastWatched": "S03E13",
     "wiki": "House_of_Cards_(U.S._TV_series)"
   },
   {
