@@ -506,9 +506,9 @@ module.exports = [
   {
     "title": "Suits",
     "imdb": "tt1632701",
-    "episodes": 54,
+    "episodes": 55,
     "stillWatching": 1,
-    "lastWatched": "S04E10",
+    "lastWatched": "S04E11",
     "wiki": "Suits_(TV_series)"
   },
   {
