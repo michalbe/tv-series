@@ -63,6 +63,13 @@ module.exports = [
     "wiki": "The_Big_Bang_Theory"
   },
   {
+    "title": "Black Mirror",
+    "imdb": "tt2085059",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "Blok Ekipa",
     "episodes": 45,
     "poster": "http://i1.ytimg.com/vi/yk_4kQjgBJw/maxresdefault.jpg",
