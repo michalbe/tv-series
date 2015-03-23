@@ -65,9 +65,9 @@ module.exports = [
   {
     "title": "Black Mirror",
     "imdb": "tt2085059",
-    "episodes": 0,
+    "episodes": 3,
     "stillWatching": 1,
-    "lastWatched": "S01E00"
+    "lastWatched": "S01E03"
   },
   {
     "title": "Blok Ekipa",
