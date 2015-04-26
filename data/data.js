@@ -196,10 +196,10 @@ module.exports = [
   {
     "title": "Flash",
     "imdb": "tt3107288",
-    "episodes": 17,
+    "episodes": 19,
     "stillWatching": 1,
     "episodeLength": 46,
-    "lastWatched": "S01E17",
+    "lastWatched": "S01E19",
     "wiki": "The_Flash_(2014_TV_series)"
   },
   {
