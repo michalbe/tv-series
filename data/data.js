@@ -484,10 +484,10 @@ module.exports = [
   {
     "title": "Siberia",
     "imdb": "tt2935974",
-    "episodes": 2,
+    "episodes": 9,
     "episodeLength": 41,
     "stillWatching": 1,
-    "lastWatched": "S01E02"
+    "lastWatched": "S01E09"
   },
   {
     "title": "Silicon Valley",
