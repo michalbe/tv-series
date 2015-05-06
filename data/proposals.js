@@ -33,12 +33,12 @@ var toConsider = [{
   "title": "Battlestar Galactica (2004_TV_series)",
   "imdb": "tt0407362",
   "stillWatching": 0,
-  "votes": ["stasm", "doogi"]
+  "votes": ["stasm", "doogi", "matisnape"]
 }, {
   "title": "Black Mirror",
   "imdb": "tt2085059",
   "stillWatching": 0,
-  "votes": ["tizianozonta", "stasm"],
+  "votes": ["tizianozonta", "stasm", "matisnape"],
   'wiki' : 'Black Mirror (TV series)'
 }, {
   "title": "Burn Notice",
@@ -110,7 +110,7 @@ var toConsider = [{
   "title": "Peaky Blinders",
   "imdb": "tt2442560",
   "stillWatching": 0,
-  "votes": ["stkrzysiak"],
+  "votes": ["stkrzysiak", "matisnape"],
   'wiki' : 'Peaky_Blinders_(TV_series)'
 }, {
   "title": "Person of Interest",
