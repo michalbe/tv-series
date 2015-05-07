@@ -487,7 +487,7 @@ module.exports = [
     "episodes": 9,
     "episodeLength": 41,
     "stillWatching": 1,
-    "lastWatched": "S01E09"
+    "lastWatched": "S02E00"
   },
   {
     "title": "Silicon Valley",
