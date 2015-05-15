@@ -196,10 +196,10 @@ module.exports = [
   {
     "title": "Flash",
     "imdb": "tt3107288",
-    "episodes": 21,
+    "episodes": 22,
     "stillWatching": 1,
     "episodeLength": 46,
-    "lastWatched": "S01E21",
+    "lastWatched": "S01E22",
     "wiki": "The_Flash_(2014_TV_series)"
   },
   {
@@ -396,8 +396,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S06E22",
-    "episodes": 142,
+    "lastWatched": "S06E23",
+    "episodes": 143,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
