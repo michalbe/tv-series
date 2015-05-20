@@ -41,6 +41,11 @@ var toConsider = [{
   "votes": ["tizianozonta", "stasm", "matisnape"],
   'wiki' : 'Black Mirror (TV series)'
 }, {
+  "title": "Broadchurch",
+  "imdb": "tt2249364",
+  "stillWatching": 0,
+  "votes": ["matisnape"]
+}, {
   "title": "Burn Notice",
   "imdb": "tt0810788",
   "stillWatching": 0,
@@ -214,6 +219,11 @@ var toConsider = [{
   "imdb": "tt0098936",
   "stillWatching": 0,
   "votes": ["zigomir"]
+}, {
+  "title": "Utopia",
+  "imdb": "tt2384811",
+  "stillWatching": 0,
+  "votes": ["matisnape"]
 }, {
   "title": "Warehouse 13",
   "imdb": "tt1132290",
