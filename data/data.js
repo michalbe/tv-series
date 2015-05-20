@@ -396,8 +396,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S06E23",
-    "episodes": 143,
+    "lastWatched": "S06E24",
+    "episodes": 144,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -425,6 +425,13 @@ module.exports = [
     "poster": "http://1.fwcdn.pl/po/93/45/339345/7222269.3.jpg",
     "episodeLength": 45,
     "stillWatching": 0
+  },
+  {
+    "title": "Peaky Blinders",
+    "imdb": "tt2442560",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
   },
   {
     "title": "Prison Break",
