@@ -429,9 +429,9 @@ module.exports = [
   {
     "title": "Peaky Blinders",
     "imdb": "tt2442560",
-    "episodes": 0,
+    "episodes": 3,
     "stillWatching": 1,
-    "lastWatched": "S01E00"
+    "lastWatched": "S01E03"
   },
   {
     "title": "Prison Break",
