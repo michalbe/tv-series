@@ -143,6 +143,11 @@ var toConsider = [{
   "imdb": "tt0279600",
   "stillWatching": 0,
   "votes": ["alexpnt"]
+},{
+  "title": "Supernatural",
+  "imdb": "tt0460681",
+  "stillWatching": 0,
+  "votes": ["matisnape"]
 }, {
   "title": "The Elegant Universe",
   "imdb": "tt0377171",
