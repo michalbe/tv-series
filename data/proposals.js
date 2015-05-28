@@ -159,6 +159,11 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["shorang", "ryanburgess"]
 }, {
+  "title": "The Lost Room", 
+  "imdb": "tt0830361",
+  "stillWatching": 0,
+  "votes": ["matisnape"],
+},{
   "title": "The Newsroom",
   "imdb": "tt1870479",
   "stillWatching": 1,
