@@ -46,6 +46,12 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["matisnape"]
 }, {
+  "title": "Bron/Broen",
+  "imdb": "tt1733785",
+  "stillWatching": 0,
+  "votes": ["kasprownik"],
+  'wiki' : 'The Bridge (Danish/Swedish TV series)'
+}, {
   "title": "Burn Notice",
   "imdb": "tt0810788",
   "stillWatching": 0,
@@ -251,12 +257,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "gstepniewski"],
   'wiki' : 'Wilfred (U.S. TV series)'
-}, {
-  "title": "Bron/Broen",
-  "imdb": "tt1733785",
-  "stillWatching": 0,
-  "votes": ["kasprownik"],
-  'wiki' : 'The Bridge (Danish/Swedish TV series)'
 }];
 
 module.exports = toConsider;
