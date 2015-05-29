@@ -23,7 +23,7 @@ var toConsider = [{
   "title": "Band of Brothers",
   "imdb": "tt0185906",
   "stillWatching": 0,
-  "votes": ["tobytailor", "stasm"]
+  "votes": ["tobytailor", "stasm", "kasprownik"]
 }, {
   "title": "Battlestar Galactica (TV miniseries)",
   "imdb": "tt0314979",
@@ -172,7 +172,7 @@ var toConsider = [{
   "title": "The Newsroom",
   "imdb": "tt1870479",
   "stillWatching": 1,
-  "votes": ["tobytailor"],
+  "votes": ["tobytailor", "kasprownik"],
   'wiki' : 'The Newsroom (U.S. TV series)'
 }, {
   "title": "The Office",
@@ -195,7 +195,7 @@ var toConsider = [{
   "title": "The Strain",
   "imdb": "tt2654620",
   "stillWatching": 0,
-  "votes": ["chemikpil"]
+  "votes": ["chemikpil", "kasprownik"]
 }, {
   "title": "The Walking Dead",
   "imdb": "tt1520211",
@@ -233,7 +233,7 @@ var toConsider = [{
   "title": "Utopia",
   "imdb": "tt2384811",
   "stillWatching": 0,
-  "votes": ["matisnape"]
+  "votes": ["matisnape", "kasprownik"]
 }, {
   "title": "Warehouse 13",
   "imdb": "tt1132290",
