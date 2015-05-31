@@ -23,7 +23,7 @@ var toConsider = [{
   "title": "Band of Brothers",
   "imdb": "tt0185906",
   "stillWatching": 0,
-  "votes": ["tobytailor", "stasm"]
+  "votes": ["tobytailor", "stasm", "kasprownik"]
 }, {
   "title": "Battlestar Galactica (TV miniseries)",
   "imdb": "tt0314979",
@@ -40,6 +40,17 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["tizianozonta", "stasm", "matisnape"],
   'wiki' : 'Black Mirror (TV series)'
+}, {
+  "title": "Broadchurch",
+  "imdb": "tt2249364",
+  "stillWatching": 0,
+  "votes": ["matisnape"]
+}, {
+  "title": "Bron/Broen",
+  "imdb": "tt1733785",
+  "stillWatching": 0,
+  "votes": ["kasprownik"],
+  'wiki' : 'The Bridge (Danish/Swedish TV series)'
 }, {
   "title": "Burn Notice",
   "imdb": "tt0810788",
@@ -143,6 +154,11 @@ var toConsider = [{
   "imdb": "tt0279600",
   "stillWatching": 0,
   "votes": ["alexpnt"]
+},{
+  "title": "Supernatural",
+  "imdb": "tt0460681",
+  "stillWatching": 0,
+  "votes": ["matisnape"]
 }, {
   "title": "The Elegant Universe",
   "imdb": "tt0377171",
@@ -154,10 +170,15 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["shorang", "ryanburgess"]
 }, {
+  "title": "The Lost Room", 
+  "imdb": "tt0830361",
+  "stillWatching": 0,
+  "votes": ["matisnape"],
+},{
   "title": "The Newsroom",
   "imdb": "tt1870479",
   "stillWatching": 1,
-  "votes": ["tobytailor"],
+  "votes": ["tobytailor", "kasprownik"],
   'wiki' : 'The Newsroom (U.S. TV series)'
 }, {
   "title": "The Office",
@@ -180,7 +201,7 @@ var toConsider = [{
   "title": "The Strain",
   "imdb": "tt2654620",
   "stillWatching": 0,
-  "votes": ["chemikpil"]
+  "votes": ["chemikpil", "kasprownik"]
 }, {
   "title": "The Walking Dead",
   "imdb": "tt1520211",
@@ -215,6 +236,11 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["zigomir"]
 }, {
+  "title": "Utopia",
+  "imdb": "tt2384811",
+  "stillWatching": 0,
+  "votes": ["matisnape", "kasprownik"]
+}, {
   "title": "Warehouse 13",
   "imdb": "tt1132290",
   "stillWatching": 0,
@@ -231,6 +257,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "gstepniewski"],
   'wiki' : 'Wilfred (U.S. TV series)'
-}]
+}];
 
 module.exports = toConsider;
