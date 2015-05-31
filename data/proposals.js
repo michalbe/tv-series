@@ -35,12 +35,6 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["stasm", "doogi", "matisnape"]
 }, {
-  "title": "Black Mirror",
-  "imdb": "tt2085059",
-  "stillWatching": 0,
-  "votes": ["tizianozonta", "stasm", "matisnape"],
-  'wiki' : 'Black Mirror (TV series)'
-}, {
   "title": "Broadchurch",
   "imdb": "tt2249364",
   "stillWatching": 0,
@@ -118,12 +112,6 @@ var toConsider = [{
   "stillWatching": 1,
   "votes": ["kamilogorek", "gstepniewski", "ryanburgess"]
 }, {
-  "title": "Peaky Blinders",
-  "imdb": "tt2442560",
-  "stillWatching": 0,
-  "votes": ["stkrzysiak", "matisnape"],
-  'wiki' : 'Peaky_Blinders_(TV_series)'
-}, {
   "title": "Person of Interest",
   "imdb": "tt1839578",
   "stillWatching": 0,
@@ -170,7 +158,7 @@ var toConsider = [{
   "stillWatching": 0,
   "votes": ["shorang", "ryanburgess"]
 }, {
-  "title": "The Lost Room", 
+  "title": "The Lost Room",
   "imdb": "tt0830361",
   "stillWatching": 0,
   "votes": ["matisnape"],
