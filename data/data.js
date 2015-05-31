@@ -533,6 +533,13 @@ module.exports = [
     "wiki": "Suits_(TV_series)"
   },
   {
+    "title": "Supergirl",
+    "imdb": "tt4016454",
+    "episodes": 1,
+    "stillWatching": 1,
+    "lastWatched": "S01E01"
+  },
+  {
     "title": "That '70s Show",
     "imdb": "tt0165598",
     "episodes": 200,
