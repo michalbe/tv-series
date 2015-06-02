@@ -153,9 +153,9 @@ module.exports = [
   {
     "title": "Daredevil",
     "imdb": "tt3322312",
-    "episodes": 5,
+    "episodes": 6,
     "stillWatching": 1,
-    "lastWatched": "S01E05"
+    "lastWatched": "S01E06"
   },
   {
     "title": "Dexter",
