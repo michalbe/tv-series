@@ -558,7 +558,7 @@ module.exports = [
     "imdb": "tt2356777",
     "episodes": 8,
     "stillWatching": 1,
-    "lastWatched": "S01E08",
+    "lastWatched": "S02E00",
     "wiki": "True Detective (TV series)"
   },
   {
