@@ -254,7 +254,8 @@ module.exports = [
     "imdb": "tt2049116",
     "episodes": 1,
     "stillWatching": 1,
-    "lastWatched": "S01E01"
+    "lastWatched": "S01E01",
+    "wiki": "Gomorrah_(TV_series)"
   },
   {
     "title": "Hannibal",
