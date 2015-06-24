@@ -36,16 +36,19 @@ var untrashData = function(data) {
 function parseResponse(response) {
   //console.log(response);
   try {
+    var name = document.getElementById(response.requestid).dataset.name;
     var pages = response.query.pages;
     var page = Object.keys(pages);
     var content = pages[page].revisions[0]['*'];
     var index = content.indexOf('num_episodes');
-    var content = content.slice(index, index+300);
-    content = untrashData(content);
-    //OMG it's so ugly that I don't actually believe it will work
-    content = content.split('|')[0].trim().split(' ').pop();
-    var name = document.getElementById(response.requestid).dataset.name;
+    var content = content.slice(index, index+ (name === "Gomorrah" ? 30 : 300));
 
+    content = untrashData(content);
+
+    //OMG it's so ugly that I don't actually believe it will work
+    content = parseInt(content.split('|')[0].trim().split(' ').pop(), 10);
+
+    // console.log('a', content);
     if (name === 'Doctor Who') {
       // There are almost 700 episodes of Classic Dr Who. It shares Wiki
       // page with the series form 2005, so numbers are not correct.
@@ -53,7 +56,7 @@ function parseResponse(response) {
     }
 
     parseWikiResponse({
-    //console.log({
+    // console.log({
       id: response.requestid,
       content: content
     });
@@ -61,8 +64,8 @@ function parseResponse(response) {
     // Polish TV Shows don't have proper page on
     // English Wikipedia, so we will fill the data
     // during the rendering part
-    //console.log(e);
-    //console.log(response);
+    console.log(e);
+    console.log(response);
   }
 }
 
