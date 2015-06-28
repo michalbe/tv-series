@@ -555,6 +555,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "The Last Man on Earth",
+    "imdb": "tt3230454",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "The Sopranos",
     "imdb": "tt0141842",
     "episodes": 86,
