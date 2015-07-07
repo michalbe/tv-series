@@ -597,5 +597,12 @@ module.exports = [
     "episodes": "60",
     "stillWatching": 0,
     "wiki": "The Wire"
+  },
+  {
+    "title": "iZombie",
+    "imdb": "tt3501584",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
   }
 ]
