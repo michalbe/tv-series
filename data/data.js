@@ -601,8 +601,8 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 2,
+    "episodes": 3,
     "stillWatching": 1,
-    "lastWatched": "S01E02"
+    "lastWatched": "S01E03"
   }
 ]
