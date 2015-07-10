@@ -314,6 +314,13 @@ module.exports = [
     "wiki": "The IT Crowd"
   },
   {
+    "title": "iZombie",
+    "imdb": "tt3501584",
+    "episodes": 4,
+    "stillWatching": 1,
+    "lastWatched": "S01E04"
+  },
+  {
     "title": "Jericho",
     "imdb": "tt0805663",
     "episodes": "29",
@@ -597,12 +604,5 @@ module.exports = [
     "episodes": "60",
     "stillWatching": 0,
     "wiki": "The Wire"
-  },
-  {
-    "title": "iZombie",
-    "imdb": "tt3501584",
-    "episodes": 4,
-    "stillWatching": 1,
-    "lastWatched": "S01E04"
   }
 ]
