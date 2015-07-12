@@ -52,5 +52,6 @@ module.exports = function(grunt) {
   grunt.registerTask('update', ['exec:update']);
   grunt.registerTask('season', ['exec:season']);
   grunt.registerTask('add', ['exec:add']);
+  grunt.registerTask('proposal', ['exec:prop']);
 
 }

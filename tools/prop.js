@@ -12,7 +12,8 @@ omdb(id, function(err, data, id) {
       "title": data.title,
       "imdb": id,
       "episodes": 0,
-      "stillWatching": 1
+      "stillWatching": 1,
+      "votes": ["michalbe"]
     };
 
     showList.push(newShow);
