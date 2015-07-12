@@ -34,6 +34,9 @@ module.exports = function(grunt) {
       },
       "add" : {
         command : 'node ./tools/add.js ' + id
+      },
+      "prop" : {
+        command : 'node ./tools/prop.js ' + id
       }
     }
   });
