@@ -430,9 +430,9 @@ module.exports = [
   {
     "title": "Mr. Robot",
     "imdb": "tt4158110",
-    "episodes": 0,
+    "episodes": 2,
     "stillWatching": 1,
-    "lastWatched": "S01E00"
+    "lastWatched": "S01E02"
   },
   {
     "title": "My Wife and Kids",
