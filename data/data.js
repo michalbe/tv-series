@@ -314,13 +314,6 @@ module.exports = [
     "wiki": "The IT Crowd"
   },
   {
-    "title": "iZombie",
-    "imdb": "tt3501584",
-    "episodes": 13,
-    "stillWatching": 1,
-    "lastWatched": "S01E13"
-  },
-  {
     "title": "Jericho",
     "imdb": "tt0805663",
     "episodes": "29",
@@ -433,6 +426,13 @@ module.exports = [
     "episodes": 10,
     "stillWatching": 1,
     "lastWatched": "S01E10"
+  },
+  {
+    "title": "Mr. Robot",
+    "imdb": "tt4158110",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
   },
   {
     "title": "My Wife and Kids",
@@ -604,5 +604,12 @@ module.exports = [
     "episodes": "60",
     "stillWatching": 0,
     "wiki": "The Wire"
+  },
+  {
+    "title": "iZombie",
+    "imdb": "tt3501584",
+    "episodes": 13,
+    "stillWatching": 1,
+    "lastWatched": "S01E13"
   }
 ]
