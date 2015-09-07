@@ -185,15 +185,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Mr. Robot",
-    "imdb": "tt4158110",
-    "episodes": 0,
-    "stillWatching": 1,
-    "votes": [
-      "michalbe"
-    ]
-  },
-  {
     "title": "My Name Is Earl",
     "imdb": "tt0460091",
     "stillWatching": 0,
