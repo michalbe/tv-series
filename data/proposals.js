@@ -474,4 +474,4 @@ module.exports = [
     ],
     "wiki": "Wilfred (U.S. TV series)"
   }
-]
+];
