@@ -267,9 +267,9 @@ module.exports = [
   {
     "title": "Happy Endings",
     "imdb": "tt1587678",
-    "episodes": 16,
+    "episodes": 31,
     "stillWatching": 1,
-    "lastWatched": "S02E03"
+    "lastWatched": "S02E18"
   },
   {
     "title": "Heroes",
