@@ -106,7 +106,7 @@ module.exports = [
     "imdb": "tt2467372",
     "stillWatching": 1,
     "episodes": 45,
-    "lastWatched": "S02E23"
+    "lastWatched": "S03E00"
   },
   {
     "title": "CSI: Crime Scene Investigation",
