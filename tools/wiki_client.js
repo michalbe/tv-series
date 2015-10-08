@@ -34,19 +34,20 @@ var untrashData = function(data) {
 }
 
 function parseResponse(response) {
-  //console.log(response);
+  // console.log(response);
   try {
     var name = document.getElementById(response.requestid).dataset.name;
     var pages = response.query.pages;
     var page = Object.keys(pages);
     var content = pages[page].revisions[0]['*'];
     var index = content.indexOf('num_episodes');
-    var content = content.slice(index, index+ (name === "Gomorrah" ? 30 : 300));
+    content = content.slice(index, index+ (name === "Gomorrah" ? 30 : 300));
 
     content = untrashData(content);
 
     //OMG it's so ugly that I don't actually believe it will work
-    content = parseInt(content.split('|')[0].trim().split(' ').pop(), 10);
+    //console.log('a', content.split('|')[0].trim().split(' ').pop().replace(/<\/?[^>]+(>|$)/g, ""));
+    content = parseInt(content.split('|')[0].trim().split(' ').pop().replace(/<\/?[^>]+(>|$)/g, ""), 10);
 
     // console.log('a', content);
     if (name === 'Doctor Who') {

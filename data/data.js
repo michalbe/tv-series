@@ -624,6 +624,7 @@ module.exports = [
     "imdb": "tt3501584",
     "episodes": 13,
     "stillWatching": 1,
-    "lastWatched": "S01E13"
+    "lastWatched": "S01E13",
+    "wiki": "IZombie_(TV_series)"
   }
 ]
