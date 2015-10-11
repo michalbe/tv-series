@@ -99,8 +99,15 @@
         var totalCovers = x*y;
 
         var result = 0;
+        var generated = [];
         while (result < totalCovers) {
-          var show = series[~~(Math.random()*series.length)];
+          var id = ~~(Math.random()*series.length);
+          while (generated.indexOf(id) > -1) {
+            id = ~~(Math.random()*series.length);
+          }
+
+          generated.push(id);
+          var show = series[id];
           if (show.style.backgroundImage) {
             result++;
             var el = document.createElement('div');
