@@ -70,7 +70,7 @@
          <th class="stillWatching">
            Ongoing?
          </th>
-         <th>
+         <th id="egg2">
            Votes
          </th>
        </tr>
@@ -87,8 +87,10 @@
           document.body.removeChild(elements[0]);
         }
       };
-      document.getElementById('egg').addEventListener('click', function(){
-        var series = document.querySelectorAll('#series .cover');
+
+      var generateWallpaper = function(evt){
+        var parent = evt.target.parentNode.parentNode.parentNode;
+        var series = parent.querySelectorAll('.cover');
         var x = 6;
         var y = 3;
         var sizeX = 1200;
@@ -129,7 +131,9 @@
             }
           }
         }
-      });
+      };
+      document.getElementById('egg').addEventListener('click', generateWallpaper);
+      document.getElementById('egg2').addEventListener('click', generateWallpaper);
     </script>
 </body>
 </html>
