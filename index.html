@@ -37,7 +37,7 @@
         <th>
           Total Length
         </th>
-        <th>
+        <th id="egg">
           Still watching?
         </th>
       </tr>
@@ -79,6 +79,50 @@
     <script>
       Renderer(series, document.getElementById('series'));
       Renderer(toConsider, document.getElementById('to-consider'));
+    </script>
+    <script>
+      var removeWp = function(){
+        var elements = document.getElementsByClassName('wp');
+        while (elements.length) {
+          document.body.removeChild(elements[0]);
+        }
+      };
+      document.getElementById('egg').addEventListener('click', function(){
+        var series = document.querySelectorAll('#series .cover');
+        var x = 6;
+        var y = 3;
+        var sizeX = 1200;
+        var sizeY = 800;
+        var topPos = 0;
+        var leftPos = 0;
+
+        var totalCovers = x*y;
+
+        var result = 0;
+        while (result < totalCovers) {
+          var show = series[~~(Math.random()*series.length)];
+          if (show.style.backgroundImage) {
+            result++;
+            var el = document.createElement('div');
+            el.classList.add('wp');
+            el.style.backgroundImage = show.style.backgroundImage;
+            el.style.width = sizeX/x + 'px';
+            el.style.height = sizeY/y + 'px';
+            el.style.backgroundSize = 'cover';
+            el.style.position = 'absolute';
+            el.style.top = topPos + 'px';
+            el.style.left = leftPos + 'px';
+            el.addEventListener('click', removeWp);
+            document.body.appendChild(el);
+            if (result%x === 0) {
+              topPos += sizeY/y;
+              leftPos = 0;
+            } else {
+              leftPos += sizeX/x;
+            }
+          }
+        }
+      });
     </script>
 </body>
 </html>
