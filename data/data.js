@@ -372,9 +372,9 @@ module.exports = [
   {
     "title": "Limitless",
     "imdb": "tt4422836",
-    "episodes": 2,
+    "episodes": 3,
     "stillWatching": 1,
-    "lastWatched": "S01E02"
+    "lastWatched": "S01E03"
   },
   {
     "title": "Lost",
