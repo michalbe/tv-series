@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 186,
+    "episodes": 188,
     "stillWatching": 1,
-    "lastWatched": "S09E03",
+    "lastWatched": "S09E05",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -267,9 +267,9 @@ module.exports = [
   {
     "title": "Happy Endings",
     "imdb": "tt1587678",
-    "episodes": 42,
+    "episodes": 50,
     "stillWatching": 1,
-    "lastWatched": "S03E08"
+    "lastWatched": "S03E16"
   },
   {
     "title": "Heroes",
@@ -281,9 +281,9 @@ module.exports = [
   {
     "title": "Homeland",
     "imdb": "tt1796960",
-    "episodes": 50,
+    "episodes": 51,
     "stillWatching": 1,
-    "lastWatched": "S05E02"
+    "lastWatched": "S05E03"
   },
   {
     "title": "House",
