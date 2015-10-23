@@ -105,8 +105,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 47,
-    "lastWatched": "S03E02"
+    "episodes": 48,
+    "lastWatched": "S03E03"
   },
   {
     "title": "CSI: Crime Scene Investigation",
@@ -166,10 +166,10 @@ module.exports = [
   {
     "title": "Doctor Who",
     "imdb": "tt0436992",
-    "episodes": 117,
+    "episodes": 121,
     "episodeLength": 45,
     "stillWatching": 1,
-    "lastWatched": "S09E01"
+    "lastWatched": "S09E05"
   },
   {
     "title": "Drawn Together",
@@ -425,8 +425,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S07E01",
-    "episodes": 145,
+    "lastWatched": "S07E03",
+    "episodes": 147,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -622,9 +622,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 14,
+    "episodes": 15,
     "stillWatching": 1,
-    "lastWatched": "S02E01",
+    "lastWatched": "S02E02",
     "wiki": "IZombie_(TV_series)"
   }
 ]
