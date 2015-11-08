@@ -622,9 +622,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 17,
+    "episodes": 18,
     "stillWatching": 1,
-    "lastWatched": "S02E04",
+    "lastWatched": "S02E05",
     "wiki": "IZombie_(TV_series)"
   }
 ]
