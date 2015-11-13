@@ -105,7 +105,8 @@ module.exports = [
     "votes": [
       "kamilogorek",
       "gstepniewski",
-      "scryptonite"
+      "scryptonite",
+      "tiagomachado"
     ]
   },
   {
@@ -293,7 +294,8 @@ module.exports = [
     "imdb": "tt0460681",
     "stillWatching": 0,
     "votes": [
-      "matisnape"
+      "matisnape",
+      "tiagomachado"
     ]
   },
   {
@@ -337,7 +339,8 @@ module.exports = [
     "stillWatching": 0,
     "votes": [
       "kamilogorek",
-      "ryanburgess"
+      "ryanburgess",
+      "tiagomachado"
     ],
     "wiki": "The Office (U.S. TV series)"
   },
@@ -380,7 +383,8 @@ module.exports = [
       "scryptonite",
       "chemikpil",
       "alexpnt",
-      "doogi"
+      "doogi",
+      "tiagomachado"
     ],
     "wiki": "The Walking Dead (TV series)"
   },
