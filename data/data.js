@@ -465,9 +465,9 @@ module.exports = [
   {
     "title": "Orange Is the New Black",
     "imdb": "tt2372162",
-    "episodes": 24,
+    "episodes": 26,
     "stillWatching": 1,
-    "lastWatched": "S02E12"
+    "lastWatched": "S03E01"
   },
   {
     "title": "Peaky Blinders",
