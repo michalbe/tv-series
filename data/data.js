@@ -372,9 +372,9 @@ module.exports = [
   {
     "title": "Limitless",
     "imdb": "tt4422836",
-    "episodes": 7,
+    "episodes": 8,
     "stillWatching": 1,
-    "lastWatched": "S01E07"
+    "lastWatched": "S01E08"
   },
   {
     "title": "Lost",
@@ -465,9 +465,9 @@ module.exports = [
   {
     "title": "Orange Is the New Black",
     "imdb": "tt2372162",
-    "episodes": 24,
+    "episodes": 26,
     "stillWatching": 1,
-    "lastWatched": "S02E12"
+    "lastWatched": "S03E01"
   },
   {
     "title": "Peaky Blinders",
