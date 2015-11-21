@@ -105,7 +105,8 @@ module.exports = [
     "votes": [
       "kamilogorek",
       "gstepniewski",
-      "scryptonite"
+      "scryptonite",
+      "tiagomachado"
     ]
   },
   {
@@ -204,15 +205,6 @@ module.exports = [
     "wiki": "Numbers (TV series)"
   },
   {
-    "title": "Orange Is the New Black",
-    "imdb": "tt2372162",
-    "episodes": 0,
-    "stillWatching": 1,
-    "votes": [
-      "michalbe"
-    ]
-  },
-  {
     "title": "Oz",
     "imdb": "tt0118421",
     "stillWatching": 0,
@@ -293,7 +285,8 @@ module.exports = [
     "imdb": "tt0460681",
     "stillWatching": 0,
     "votes": [
-      "matisnape"
+      "matisnape",
+      "tiagomachado"
     ]
   },
   {
@@ -337,7 +330,8 @@ module.exports = [
     "stillWatching": 0,
     "votes": [
       "kamilogorek",
-      "ryanburgess"
+      "ryanburgess",
+      "tiagomachado"
     ],
     "wiki": "The Office (U.S. TV series)"
   },
@@ -380,7 +374,8 @@ module.exports = [
       "scryptonite",
       "chemikpil",
       "alexpnt",
-      "doogi"
+      "doogi",
+      "tiagomachado"
     ],
     "wiki": "The Walking Dead (TV series)"
   },
