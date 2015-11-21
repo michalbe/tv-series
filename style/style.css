@@ -207,8 +207,7 @@ img.voter {
 	margin: 1px;
 }
 
-.download-icon,
-img.voter {
+.download-icon {
 	width: 20px;
 	height: 20px;
 	margin-right: 3px;
@@ -227,4 +226,22 @@ td.cover {
 
 .over-one-hundred {
 	border: yellow 2px solid;
+}
+
+img.voter {
+	width: 10px;
+	height: 10px;
+	transition: width 0.2s, height 0.2s;
+	margin: 0;
+	vertical-align: middle
+}
+
+td.votes:hover {
+	padding: 5px;
+	vertical-align: top;
+}
+
+td:hover img.voter {
+	width: 30px;
+	height: 30px;
 }
