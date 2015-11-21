@@ -205,15 +205,6 @@ module.exports = [
     "wiki": "Numbers (TV series)"
   },
   {
-    "title": "Orange Is the New Black",
-    "imdb": "tt2372162",
-    "episodes": 0,
-    "stillWatching": 1,
-    "votes": [
-      "michalbe"
-    ]
-  },
-  {
     "title": "Oz",
     "imdb": "tt0118421",
     "stillWatching": 0,
