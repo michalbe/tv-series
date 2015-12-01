@@ -281,9 +281,9 @@ module.exports = [
   {
     "title": "Homeland",
     "imdb": "tt1796960",
-    "episodes": 56,
+    "episodes": 57,
     "stillWatching": 1,
-    "lastWatched": "S05E08"
+    "lastWatched": "S05E09"
   },
   {
     "title": "House",
@@ -465,9 +465,9 @@ module.exports = [
   {
     "title": "Orange Is the New Black",
     "imdb": "tt2372162",
-    "episodes": 35,
+    "episodes": 36,
     "stillWatching": 1,
-    "lastWatched": "S03E10"
+    "lastWatched": "S03E11"
   },
   {
     "title": "Peaky Blinders",
