@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 190,
+    "episodes": 191,
     "stillWatching": 1,
-    "lastWatched": "S09E07",
+    "lastWatched": "S09E08",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -188,10 +188,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 253,
+    "episodes": 254,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S14E04"
+    "lastWatched": "S14E05"
   },
   {
     "title": "Fargo",
@@ -281,9 +281,9 @@ module.exports = [
   {
     "title": "Homeland",
     "imdb": "tt1796960",
-    "episodes": 54,
+    "episodes": 58,
     "stillWatching": 1,
-    "lastWatched": "S05E06"
+    "lastWatched": "S05E10"
   },
   {
     "title": "House",
@@ -372,9 +372,9 @@ module.exports = [
   {
     "title": "Limitless",
     "imdb": "tt4422836",
-    "episodes": 8,
+    "episodes": 10,
     "stillWatching": 1,
-    "lastWatched": "S01E08"
+    "lastWatched": "S01E10"
   },
   {
     "title": "Lost",
@@ -465,9 +465,9 @@ module.exports = [
   {
     "title": "Orange Is the New Black",
     "imdb": "tt2372162",
-    "episodes": 29,
+    "episodes": 39,
     "stillWatching": 1,
-    "lastWatched": "S03E04"
+    "lastWatched": "S03E14"
   },
   {
     "title": "Peaky Blinders",
@@ -629,9 +629,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 18,
+    "episodes": 19,
     "stillWatching": 1,
-    "lastWatched": "S02E05",
+    "lastWatched": "S02E06",
     "wiki": "IZombie_(TV_series)"
   }
 ]
