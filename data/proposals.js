@@ -468,5 +468,29 @@ module.exports = [
       "gstepniewski"
     ],
     "wiki": "Wilfred (U.S. TV series)"
+  },
+  {
+    "title": "Jessica Jones",
+    "imdb": "http://www.imdb.com/title/tt2357547/",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
+  },
+  {
+    "title": "Narcos",
+    "imdb": "http://www.imdb.com/title/tt2707408/",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
+  },
+  {
+    "title": "Master of None",
+    "imdb": "http://www.imdb.com/title/tt4635276/",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
+  },
+  {
+    "title": "Unbreakable Kimmy Schmidt",
+    "imdb": "http://www.imdb.com/title/tt4635276/",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
   }
 ];
