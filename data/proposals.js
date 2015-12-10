@@ -470,14 +470,6 @@ module.exports = [
     "wiki": "Wilfred (U.S. TV series)"
   }, 
   {
-    "title": "Daredevil",
-    "imdb": "http://www.imdb.com/title/tt3322312/",
-    "episodes": "",
-    "episodeLength": ,
-    "stillWatching": 1,
-    "votes": ["ryanburgess"]
-  }, 
-  {
     "title": "Jessica Jones",
     "imdb": "http://www.imdb.com/title/tt2357547/",
     "episodes": "13",
