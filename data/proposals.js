@@ -186,6 +186,18 @@ module.exports = [
     ]
   },
   {
+    "title": "Jessica Jones",
+    "imdb": "tt2357547",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
+  },
+  {
+    "title": "Master of None",
+    "imdb": "tt4635276",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
+  },
+  {
     "title": "My Name Is Earl",
     "imdb": "tt0460091",
     "stillWatching": 0,
@@ -194,6 +206,12 @@ module.exports = [
       "gstepniewski",
       "stkrzysiak"
     ]
+  },
+  {
+    "title": "Narcos",
+    "imdb": "tt2707408",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
   },
   {
     "title": "Numb3rs",
@@ -422,6 +440,12 @@ module.exports = [
     ]
   },
   {
+    "title": "Unbreakable Kimmy Schmidt",
+    "imdb": "tt4635276",
+    "stillWatching": 1,
+    "votes": ["ryanburgess"]
+  },
+  {
     "title": "Utopia",
     "imdb": "tt2384811",
     "stillWatching": 0,
@@ -468,29 +492,5 @@ module.exports = [
       "gstepniewski"
     ],
     "wiki": "Wilfred (U.S. TV series)"
-  },
-  {
-    "title": "Jessica Jones",
-    "imdb": "http://www.imdb.com/title/tt2357547/",
-    "stillWatching": 1,
-    "votes": ["ryanburgess"]
-  },
-  {
-    "title": "Narcos",
-    "imdb": "http://www.imdb.com/title/tt2707408/",
-    "stillWatching": 1,
-    "votes": ["ryanburgess"]
-  },
-  {
-    "title": "Master of None",
-    "imdb": "http://www.imdb.com/title/tt4635276/",
-    "stillWatching": 1,
-    "votes": ["ryanburgess"]
-  },
-  {
-    "title": "Unbreakable Kimmy Schmidt",
-    "imdb": "http://www.imdb.com/title/tt4635276/",
-    "stillWatching": 1,
-    "votes": ["ryanburgess"]
   }
 ];
