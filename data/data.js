@@ -188,10 +188,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 256,
+    "episodes": 258,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S14E07"
+    "lastWatched": "S14E09"
   },
   {
     "title": "Fargo",
@@ -372,9 +372,9 @@ module.exports = [
   {
     "title": "Limitless",
     "imdb": "tt4422836",
-    "episodes": 10,
+    "episodes": 11,
     "stillWatching": 1,
-    "lastWatched": "S01E10"
+    "lastWatched": "S01E11"
   },
   {
     "title": "Lost",
