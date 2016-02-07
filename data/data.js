@@ -425,8 +425,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S07E03",
-    "episodes": 147,
+    "lastWatched": "S07E11",
+    "episodes": 155,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -629,9 +629,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 23,
+    "episodes": 24,
     "stillWatching": 1,
-    "lastWatched": "S02E10",
+    "lastWatched": "S02E11",
     "wiki": "IZombie_(TV_series)"
   }
 ]
