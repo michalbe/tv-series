@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 194,
+    "episodes": 196,
     "stillWatching": 1,
-    "lastWatched": "S09E11",
+    "lastWatched": "S09E13",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -188,10 +188,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 259,
+    "episodes": 261,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S14E10"
+    "lastWatched": "S14E12"
   },
   {
     "title": "Fargo",
@@ -372,9 +372,9 @@ module.exports = [
   {
     "title": "Limitless",
     "imdb": "tt4422836",
-    "episodes": 12,
+    "episodes": 13,
     "stillWatching": 1,
-    "lastWatched": "S01E12"
+    "lastWatched": "S01E13"
   },
   {
     "title": "Lost",
@@ -629,9 +629,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 22,
+    "episodes": 24,
     "stillWatching": 1,
-    "lastWatched": "S02E09",
+    "lastWatched": "S02E11",
     "wiki": "IZombie_(TV_series)"
   }
 ]
