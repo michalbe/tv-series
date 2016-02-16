@@ -17,12 +17,21 @@ module.exports = [
     ]
   },
   {
+    "title": "Angie Tribeca",
+    "imdb": "tt3597790",
+    "stillWatching": 0,
+    "votes": [
+      "siemiatj"
+    ]
+  },
+  {
     "title": "Archer",
     "imdb": "tt1486217",
     "stillWatching": 1,
     "votes": [
       "mmalecki",
-      "stkrzysiak"
+      "stkrzysiak",
+      "siemiatj"
     ]
   },
   {
@@ -42,7 +51,8 @@ module.exports = [
     "votes": [
       "tobytailor",
       "stasm",
-      "kasprownik"
+      "kasprownik",
+      "siemiatj"
     ]
   },
   {
@@ -110,6 +120,14 @@ module.exports = [
     ]
   },
   {
+    "title": "Childrens Hospital",
+    "imdb": "tt1325113",
+    "stillWatching": 0,
+    "votes": [
+      "siemiatj"
+    ]
+  },
+  {
     "title": "Community",
     "imdb": "tt1439629",
     "stillWatching": 1,
@@ -142,7 +160,8 @@ module.exports = [
       "kamilogorek",
       "stasm",
       "stasm",
-      "guamaso"
+      "guamaso",
+      "siemiatj"
     ]
   },
   {
