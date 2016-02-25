@@ -105,8 +105,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 60,
-    "lastWatched": "S03E15"
+    "episodes": 62,
+    "lastWatched": "S03E17"
   },
   {
     "title": "CSI: Crime Scene Investigation",
@@ -629,9 +629,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 26,
+    "episodes": 27,
     "stillWatching": 1,
-    "lastWatched": "S02E13",
+    "lastWatched": "S02E14",
     "wiki": "IZombie_(TV_series)"
   }
 ]
