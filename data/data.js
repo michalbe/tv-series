@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 198,
+    "episodes": 199,
     "stillWatching": 1,
-    "lastWatched": "S09E15",
+    "lastWatched": "S09E16",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -105,8 +105,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 62,
-    "lastWatched": "S03E17"
+    "episodes": 63,
+    "lastWatched": "S03E18"
   },
   {
     "title": "CSI: Crime Scene Investigation",
