@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 199,
+    "episodes": 200,
     "stillWatching": 1,
-    "lastWatched": "S09E16",
+    "lastWatched": "S09E17",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -294,9 +294,9 @@ module.exports = [
   {
     "title": "House of Cards",
     "imdb": "tt1856010",
-    "episodes": 39,
+    "episodes": 40,
     "stillWatching": 1,
-    "lastWatched": "S03E13",
+    "lastWatched": "S04E01",
     "wiki": "House_of_Cards_(U.S._TV_series)"
   },
   {
@@ -425,8 +425,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S07E14",
-    "episodes": 158,
+    "lastWatched": "S07E15",
+    "episodes": 159,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
