@@ -195,6 +195,15 @@ module.exports = [
     ]
   },
   {
+    "title": "High Profits",
+    "imdb": "tt4468340",
+    "episodes": 8,
+    "stillWatching": 0,
+    "votes": [
+      "egweeks"
+    ]
+  },
+  {
     "title": "It's Always Sunny in Philadelphia",
     "imdb": "tt0472954",
     "stillWatching": 1,
@@ -247,7 +256,8 @@ module.exports = [
     "stillWatching": 0,
     "votes": [
       "kamilogorek",
-      "stkrzysiak"
+      "stkrzysiak",
+      "egweeks"
     ]
   },
   {
@@ -257,7 +267,8 @@ module.exports = [
     "votes": [
       "kamilogorek",
       "gstepniewski",
-      "ryanburgess"
+      "ryanburgess",
+      "egweeks"
     ]
   },
   {
@@ -266,7 +277,8 @@ module.exports = [
     "stillWatching": 0,
     "votes": [
       "shorang",
-      "scryptonite"
+      "scryptonite",
+      "egweeks"
     ],
     "wiki": "Person of Interest (TV series)"
   },
@@ -368,7 +380,8 @@ module.exports = [
     "votes": [
       "kamilogorek",
       "ryanburgess",
-      "tiagomachado"
+      "tiagomachado",
+      "egweeks"
     ],
     "wiki": "The Office (U.S. TV series)"
   },
@@ -412,7 +425,8 @@ module.exports = [
       "chemikpil",
       "alexpnt",
       "doogi",
-      "tiagomachado"
+      "tiagomachado",
+      "egweeks"
     ],
     "wiki": "The Walking Dead (TV series)"
   },
