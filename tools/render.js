@@ -7,6 +7,10 @@ var Renderer = function(data, parent) {
   var globalTotalEpisodes = 0;
 
   var render = function(chunk) {
+    if (chunk === null) {
+      console.log('No Data...');
+      return;
+    }
     var element = document.createElement('tr');
 
     var cover = document.createElement('td');
