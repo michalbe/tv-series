@@ -109,12 +109,6 @@ module.exports = [
     "lastWatched": "S03E19"
   },
   {
-    "title": "CSI: Crime Scene Investigation",
-    "imdb": "tt0247082",
-    "episodes": "121",
-    "stillWatching": 0
-  },
-  {
     "title": "Californication",
     "imdb": "tt0904208",
     "episodes": 84,
@@ -134,6 +128,12 @@ module.exports = [
     "episodes": "12",
     "stillWatching": 0,
     "wiki": "Common_Law_(2012_TV_series)"
+  },
+  {
+    "title": "CSI: Crime Scene Investigation",
+    "imdb": "tt0247082",
+    "episodes": "121",
+    "stillWatching": 0
   },
   {
     "title": "Czterej pancerni i pies",
@@ -321,6 +321,14 @@ module.exports = [
     "wiki": "The IT Crowd"
   },
   {
+    "title": "iZombie",
+    "imdb": "tt3501584",
+    "episodes": 28,
+    "stillWatching": 1,
+    "lastWatched": "S02E15",
+    "wiki": "IZombie_(TV_series)"
+  },
+  {
     "title": "Jericho",
     "imdb": "tt0805663",
     "episodes": "29",
@@ -354,6 +362,13 @@ module.exports = [
     "episodes": "13",
     "stillWatching": 0,
     "wiki": "Last Resort (U.S. TV series)"
+  },
+  {
+    "title": "Legends of Tomorrow",
+    "imdb": "tt4532368",
+    "episodes": 6,
+    "stillWatching": 1,
+    "lastWatched": "S01E06"
   },
   {
     "title": "Legit",
@@ -625,13 +640,5 @@ module.exports = [
     "episodes": "60",
     "stillWatching": 0,
     "wiki": "The Wire"
-  },
-  {
-    "title": "iZombie",
-    "imdb": "tt3501584",
-    "episodes": 28,
-    "stillWatching": 1,
-    "lastWatched": "S02E15",
-    "wiki": "IZombie_(TV_series)"
   }
 ]
