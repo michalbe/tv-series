@@ -366,9 +366,9 @@ module.exports = [
   {
     "title": "Legends of Tomorrow",
     "imdb": "tt4532368",
-    "episodes": 8,
+    "episodes": 9,
     "stillWatching": 1,
-    "lastWatched": "S01E08"
+    "lastWatched": "S01E09"
   },
   {
     "title": "Legit",
