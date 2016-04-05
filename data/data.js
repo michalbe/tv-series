@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 201,
+    "episodes": 202,
     "stillWatching": 1,
-    "lastWatched": "S09E18",
+    "lastWatched": "S09E19",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -105,8 +105,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 64,
-    "lastWatched": "S03E19"
+    "episodes": 65,
+    "lastWatched": "S03E20"
   },
   {
     "title": "Californication",
@@ -323,9 +323,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 28,
+    "episodes": 29,
     "stillWatching": 1,
-    "lastWatched": "S02E15",
+    "lastWatched": "S02E16",
     "wiki": "IZombie_(TV_series)"
   },
   {
@@ -578,9 +578,9 @@ module.exports = [
   {
     "title": "Suits",
     "imdb": "tt1632701",
-    "episodes": 75,
+    "episodes": 76,
     "stillWatching": 1,
-    "lastWatched": "S05E15",
+    "lastWatched": "S05E16",
     "wiki": "Suits_(TV_series)"
   },
   {
