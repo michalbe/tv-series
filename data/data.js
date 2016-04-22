@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 202,
+    "episodes": 203,
     "stillWatching": 1,
-    "lastWatched": "S09E19",
+    "lastWatched": "S09E20",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -105,8 +105,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 67,
-    "lastWatched": "S03E22"
+    "episodes": 68,
+    "lastWatched": "S03E23"
   },
   {
     "title": "Californication",
@@ -387,9 +387,9 @@ module.exports = [
   {
     "title": "Limitless",
     "imdb": "tt4422836",
-    "episodes": 20,
+    "episodes": 21,
     "stillWatching": 1,
-    "lastWatched": "S01E20"
+    "lastWatched": "S01E21"
   },
   {
     "title": "Lost",
