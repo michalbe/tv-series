@@ -568,6 +568,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "Star Wars: The Clone Wars",
+    "imdb": "tt0458290",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "Stawka większa niż życie",
     "imdb": "tt0065035",
     "episodes": "18",
