@@ -570,9 +570,10 @@ module.exports = [
   {
     "title": "Star Wars: The Clone Wars",
     "imdb": "tt0458290",
-    "episodes": 0,
+    "episodes": 1,
     "stillWatching": 1,
-    "lastWatched": "S01E00"
+    "lastWatched": "S01E01",
+    "wiki": "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(2008_TV_series)"
   },
   {
     "title": "Stawka większa niż życie",
