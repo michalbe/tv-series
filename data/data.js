@@ -573,7 +573,7 @@ module.exports = [
     "episodes": 1,
     "stillWatching": 1,
     "lastWatched": "S01E01",
-    "wiki": "https://en.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(2008_TV_series)"
+    "wiki": "Star_Wars:_The_Clone_Wars_(2008_TV_series)"
   },
   {
     "title": "Stawka większa niż życie",
