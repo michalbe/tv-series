@@ -570,9 +570,9 @@ module.exports = [
   {
     "title": "Star Wars: The Clone Wars",
     "imdb": "tt0458290",
-    "episodes": 5,
+    "episodes": 7,
     "stillWatching": 1,
-    "lastWatched": "S01E05",
+    "lastWatched": "S01E07",
     "wiki": "Star_Wars:_The_Clone_Wars_(2008_TV_series)"
   },
   {
