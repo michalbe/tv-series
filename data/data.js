@@ -245,9 +245,9 @@ module.exports = [
   {
     "title": "Game of Thrones",
     "imdb": "tt0944947",
-    "episodes": 51,
+    "episodes": 52,
     "stillWatching": 1,
-    "lastWatched": "S06E01"
+    "lastWatched": "S06E02"
   },
   {
     "title": "Gomorrah",
@@ -570,9 +570,9 @@ module.exports = [
   {
     "title": "Star Wars: The Clone Wars",
     "imdb": "tt0458290",
-    "episodes": 16,
+    "episodes": 18,
     "stillWatching": 1,
-    "lastWatched": "S01E16",
+    "lastWatched": "S01E18",
     "wiki": "Star_Wars:_The_Clone_Wars_(2008_TV_series)"
   },
   {
