@@ -470,6 +470,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "Narcos",
+    "imdb": "tt2707408",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "Odwroceni",
     "imdb": "tt0998810",
     "episodes": "13",
@@ -480,9 +487,9 @@ module.exports = [
   {
     "title": "Orange Is the New Black",
     "imdb": "tt2372162",
-    "episodes": 51,
+    "episodes": 52,
     "stillWatching": 1,
-    "lastWatched": "S04E12"
+    "lastWatched": "S04E13"
   },
   {
     "title": "Peaky Blinders",
