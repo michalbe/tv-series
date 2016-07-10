@@ -492,6 +492,13 @@ module.exports = [
     "lastWatched": "S04E13"
   },
   {
+    "title": "Parks and Recreation",
+    "imdb": "tt1266020",
+    "episodes": 6,
+    "stillWatching": 1,
+    "lastWatched": "S02E00"
+  },
+  {
     "title": "Peaky Blinders",
     "imdb": "tt2442560",
     "episodes": 14,
@@ -640,6 +647,13 @@ module.exports = [
     "episodes": 262,
     "stillWatching": 0,
     "lastWatched": "S12E16"
+  },
+  {
+    "title": "Veep",
+    "imdb": "tt1759761",
+    "episodes": 1,
+    "stillWatching": 1,
+    "lastWatched": "S01E01"
   },
   {
     "title": "White Collar",
