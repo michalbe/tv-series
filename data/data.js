@@ -479,9 +479,9 @@ module.exports = [
   {
     "title": "Narcos",
     "imdb": "tt2707408",
-    "episodes": 3,
+    "episodes": 4,
     "stillWatching": 1,
-    "lastWatched": "S01E03"
+    "lastWatched": "S01E04"
   },
   {
     "title": "Odwroceni",
