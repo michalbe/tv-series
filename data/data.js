@@ -48,6 +48,13 @@ module.exports = [
     "wiki": "Anger_Management_(TV_series)"
   },
   {
+    "title": "Archer",
+    "imdb": "tt1486217",
+    "episodes": 0,
+    "stillWatching": 1,
+    "lastWatched": "S01E00"
+  },
+  {
     "title": "Arrested Development",
     "imdb": "tt0367279",
     "episodes": 68,
