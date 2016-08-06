@@ -2,9 +2,9 @@ module.exports = [
   {
     "title": "30 Rock",
     "imdb": "tt0496424",
-    "episodes": 76,
-    "stillWatching": 1,
-    "lastWatched": "S04E18"
+    "episodes": 138,
+    "stillWatching": 0,
+    "lastWatched": "S07E12"
   },
   {
     "title": "According to Jim",
@@ -479,9 +479,9 @@ module.exports = [
   {
     "title": "Narcos",
     "imdb": "tt2707408",
-    "episodes": 7,
+    "episodes": 8,
     "stillWatching": 1,
-    "lastWatched": "S01E07"
+    "lastWatched": "S01E08"
   },
   {
     "title": "Odwroceni",
