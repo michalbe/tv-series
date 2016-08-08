@@ -265,6 +265,13 @@ module.exports = [
     "wiki": "Gomorrah_(TV_series)"
   },
   {
+    "title": "Gravity Falls",
+    "imdb": "tt1865718",
+    "episodes": 2,
+    "stillWatching": 1,
+    "lastWatched": "S01E02"
+  },
+  {
     "title": "Hannibal",
     "imdb": "tt2243973",
     "episodes": 26,
