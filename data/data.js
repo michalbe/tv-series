@@ -267,9 +267,9 @@ module.exports = [
   {
     "title": "Gravity Falls",
     "imdb": "tt1865718",
-    "episodes": 17,
+    "episodes": 20,
     "stillWatching": 1,
-    "lastWatched": "S01E17"
+    "lastWatched": "S01E20"
   },
   {
     "title": "Hannibal",
