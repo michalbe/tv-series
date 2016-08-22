@@ -612,6 +612,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "Stranger Things",
+    "imdb": "tt4574334",
+    "episodes": 6,
+    "stillWatching": 1,
+    "lastWatched": "S01E06"
+  },
+  {
     "title": "Suits",
     "imdb": "tt1632701",
     "episodes": 76,
