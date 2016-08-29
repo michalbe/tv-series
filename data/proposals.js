@@ -235,12 +235,12 @@ module.exports = [
       "stkrzysiak"
     ]
   },
-  {
-    "title": "Narcos",
-    "imdb": "tt2707408",
-    "stillWatching": 1,
-    "votes": ["ryanburgess"]
-  },
+  // {
+  //   "title": "Narcos",
+  //   "imdb": "tt2707408",
+  //   "stillWatching": 1,
+  //   "votes": ["ryanburgess"]
+  // },
   {
     "title": "Numb3rs",
     "imdb": "tt0433309",
@@ -260,17 +260,17 @@ module.exports = [
       "egweeks"
     ]
   },
-  {
-    "title": "Parks and Recreation",
-    "imdb": "tt1266020",
-    "stillWatching": 1,
-    "votes": [
-      "kamilogorek",
-      "gstepniewski",
-      "ryanburgess",
-      "egweeks"
-    ]
-  },
+  // {
+  //   "title": "Parks and Recreation",
+  //   "imdb": "tt1266020",
+  //   "stillWatching": 1,
+  //   "votes": [
+  //     "kamilogorek",
+  //     "gstepniewski",
+  //     "ryanburgess",
+  //     "egweeks"
+  //   ]
+  // },
   {
     "title": "Person of Interest",
     "imdb": "tt1839578",
@@ -290,14 +290,14 @@ module.exports = [
       "ziolek666"
     ]
   },
-  {
-    "title": "Robot Chicken",
-    "imdb": "tt0437745",
-    "stillWatching": 1,
-    "votes": [
-      "stasm"
-    ]
-  },
+  // {
+  //   "title": "Robot Chicken",
+  //   "imdb": "tt0437745",
+  //   "stillWatching": 1,
+  //   "votes": [
+  //     "stasm"
+  //   ]
+  // },
   {
     "title": "Smallville",
     "imdb": "tt0279600",
@@ -472,12 +472,12 @@ module.exports = [
       "zigomir"
     ]
   },
-  {
-    "title": "Unbreakable Kimmy Schmidt",
-    "imdb": "tt3339966",
-    "stillWatching": 1,
-    "votes": ["ryanburgess"]
-  },
+  // {
+  //   "title": "Unbreakable Kimmy Schmidt",
+  //   "imdb": "tt3339966",
+  //   "stillWatching": 1,
+  //   "votes": ["ryanburgess"]
+  // },
   {
     "title": "Utopia",
     "imdb": "tt2384811",
