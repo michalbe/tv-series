@@ -1,5 +1,12 @@
 module.exports = [
   {
+    "title": "11.22.63",
+    "imdb": "tt2879552",
+    "episodes": 1,
+    "stillWatching": 1,
+    "lastWatched": "S01E01"
+  },
+  {
     "title": "30 Rock",
     "imdb": "tt0496424",
     "episodes": 138,
