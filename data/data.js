@@ -670,6 +670,13 @@ module.exports = [
     "lastWatched": "S12E16"
   },
   {
+    "title": "Unbreakable Kimmy Schmidt",
+    "imdb": "tt3339966",
+    "episodes": 15,
+    "stillWatching": 1,
+    "lastWatched": "S02E02"
+  },
+  {
     "title": "Veep",
     "imdb": "tt1759761",
     "episodes": 1,
