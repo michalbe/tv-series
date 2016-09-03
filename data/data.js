@@ -50,9 +50,9 @@ module.exports = [
   {
     "title": "Archer",
     "imdb": "tt1486217",
-    "episodes": 8,
+    "episodes": 11,
     "stillWatching": 1,
-    "lastWatched": "S01E08"
+    "lastWatched": "S01E11"
   },
   {
     "title": "Arrested Development",
