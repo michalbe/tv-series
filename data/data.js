@@ -2,9 +2,9 @@ module.exports = [
   {
     "title": "11.22.63",
     "imdb": "tt2879552",
-    "episodes": 1,
+    "episodes": 8,
     "stillWatching": 1,
-    "lastWatched": "S01E01"
+    "lastWatched": "S01E08"
   },
   {
     "title": "30 Rock",
@@ -679,9 +679,9 @@ module.exports = [
   {
     "title": "Unbreakable Kimmy Schmidt",
     "imdb": "tt3339966",
-    "episodes": 15,
+    "episodes": 18,
     "stillWatching": 1,
-    "lastWatched": "S02E02"
+    "lastWatched": "S02E05"
   },
   {
     "title": "Veep",
