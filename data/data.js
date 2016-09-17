@@ -97,6 +97,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "BoJack Horseman",
+    "imdb": "tt3398228",
+    "episodes": 37,
+    "stillWatching": 1,
+    "lastWatched": "S02E12"
+  },
+  {
     "title": "Boston Public",
     "imdb": "tt0247081",
     "episodes": "81",
