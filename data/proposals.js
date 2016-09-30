@@ -25,16 +25,6 @@ module.exports = [
     ]
   },
   {
-    "title": "Archer",
-    "imdb": "tt1486217",
-    "stillWatching": 1,
-    "votes": [
-      "mmalecki",
-      "stkrzysiak",
-      "siemiatj"
-    ]
-  },
-  {
     "title": "Avatar: The Last Airbender",
     "imdb": "tt0417299",
     "stillWatching": 0,
