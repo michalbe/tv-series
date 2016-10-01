@@ -3,13 +3,33 @@ body {
   background-image: url(bg2.png);
   background-size: 100% 100%;
   text-align: center;
+  padding: 0;
+  margin: 0;
+}
+
+.header {
+  background-image: url(http://s3cf.recapguide.com/img/tv/212/1x22/Limitless-Season-1-Episode-22-26-0574.jpg);
+  width: 100%;
+  height: 500px;
+  padding: 0;
+  margin: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.2;
+}
+
+.header:after {
+  content: '';
+  width: 100%;
+  height: 100%;
+  display: block;
+  background-color: rgba(18, 65, 142, 0.8);
 }
 
 .covers-container {
   width: 85%;
   display: block;
   margin: auto;
-  margin-top: 500px;
 }
 
 .cover {
@@ -20,11 +40,12 @@ body {
   background-position: center;
   display: inline-block;
   margin: 15px;
+  box-shadow: -1px -1px 10px 10px rgba(0, 0, 0, 0.1);
   transition: box-shadow 0.2s, transform 0.2s;
   cursor: pointer;
 }
 
 .cover:hover {
-  box-shadow: -1px -1px 10px 10px rgba(25, 164, 216 ,0.56);
+  box-shadow: -1px -1px 10px 10px rgba(25, 164, 216, 0.56);
   transform: scale(1.1);
 }
