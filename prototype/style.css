@@ -1,3 +1,15 @@
+body {
+  background-color: #12418e;
+  background-image: url(bg2.png);
+  background-size: 100% 100%;
+  text-align: center;
+}
+
+.covers-container {
+  width: 85%;
+  display: block;
+  margin: auto;
+}
 
 .cover {
   width: 180px;
@@ -6,5 +18,5 @@
   background-repeat: no-repeat;
   background-position: center;
   display: inline-block;
-  margin: 10px;
+  margin: 15px;
 }
