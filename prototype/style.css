@@ -9,6 +9,7 @@ body {
   width: 85%;
   display: block;
   margin: auto;
+  margin-top: 500px;
 }
 
 .cover {
@@ -19,4 +20,11 @@ body {
   background-position: center;
   display: inline-block;
   margin: 15px;
+  transition: box-shadow 0.2s, transform 0.2s;
+  cursor: pointer;
+}
+
+.cover:hover {
+  box-shadow: -1px -1px 10px 10px rgba(25, 164, 216 ,0.56);
+  transform: scale(1.1);
 }
