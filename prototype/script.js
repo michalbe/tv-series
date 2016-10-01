@@ -13,8 +13,9 @@
       '.jpg)'
     )
     .addClass('cover')
-    .appendTo($('body'));
+    .appendTo($('.covers-container'));
   });
+
 })();
 
 // {
