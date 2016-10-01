@@ -23,19 +23,19 @@ comparewith="gh-pages"
 emoji=1
 
 # Add all the changes made in the repo to the commit, default: no
-addall=1
+#addall=1
 
 # Prefix added to the commit message, default: [REPONAME]
-prefix="tv"
+#prefix="tv"
 
 # Add branch name to the prefix of the commit, default: no
 branchincommit=0
 
 # Skip the prefix in the commit message, default: no
-#noprefix=1
+noprefix=1
 
 # Open github compare page in the browser after succesfull push
-#opencompare=1
+opencompare=1
 
 # Github username, default: username of the owner of the current repo
 #author="authorname"
