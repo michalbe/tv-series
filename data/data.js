@@ -78,9 +78,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 207,
+    "episodes": 208,
     "stillWatching": 1,
-    "lastWatched": "S09E24",
+    "lastWatched": "S09E25",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -216,10 +216,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 269,
+    "episodes": 270,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S14E20"
+    "lastWatched": "S15E01"
   },
   {
     "title": "Fargo",
@@ -642,9 +642,9 @@ module.exports = [
   {
     "title": "Suits",
     "imdb": "tt1632701",
-    "episodes": 76,
+    "episodes": 77,
     "stillWatching": 1,
-    "lastWatched": "S05E16",
+    "lastWatched": "S06E01",
     "wiki": "Suits_(TV_series)"
   },
   {
@@ -660,6 +660,13 @@ module.exports = [
     "episodes": 200,
     "episodeLength": 22,
     "stillWatching": 0
+  },
+  {
+    "title": "The 100",
+    "imdb": "tt2661044",
+    "episodes": 29,
+    "stillWatching": 1,
+    "lastWatched": "S02E16"
   },
   {
     "title": "The Last Man on Earth",
