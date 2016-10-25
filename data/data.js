@@ -475,8 +475,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S07E22",
-    "episodes": 166,
+    "lastWatched": "S08E01",
+    "episodes": 167,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -664,9 +664,9 @@ module.exports = [
   {
     "title": "The 100",
     "imdb": "tt2661044",
-    "episodes": 29,
+    "episodes": 45,
     "stillWatching": 1,
-    "lastWatched": "S02E16"
+    "lastWatched": "S03E16"
   },
   {
     "title": "The Last Man on Earth",
@@ -725,5 +725,12 @@ module.exports = [
     "episodes": "60",
     "stillWatching": 0,
     "wiki": "The Wire"
+  },
+  {
+    "title": "Wrecked",
+    "imdb": "tt4168956",
+    "episodes": 10,
+    "stillWatching": 1,
+    "lastWatched": "S01E10"
   }
 ]
