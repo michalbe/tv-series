@@ -731,6 +731,7 @@ module.exports = [
     "imdb": "tt4168956",
     "episodes": 10,
     "stillWatching": 1,
-    "lastWatched": "S01E10"
+    "lastWatched": "S01E10",
+    "wiki": "Wrecked_(U.S._TV_series)"
   }
 ]
