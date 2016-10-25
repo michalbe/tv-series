@@ -371,6 +371,13 @@ module.exports = [
     "wiki": "Jericho (2006 TV series)"
   },
   {
+    "title": "Jessica Jones",
+    "imdb": "tt2357547",
+    "episodes": 13,
+    "stillWatching": 1,
+    "lastWatched": "S01E13"
+  },
+  {
     "title": "Joey",
     "imdb": "tt0375355",
     "episodes": 17,
