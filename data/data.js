@@ -133,8 +133,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 68,
-    "lastWatched": "S03E23"
+    "episodes": 73,
+    "lastWatched": "S04E05"
   },
   {
     "title": "Californication",
@@ -482,8 +482,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S08E01",
-    "episodes": 167,
+    "lastWatched": "S08E04",
+    "episodes": 170,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
