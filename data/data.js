@@ -158,6 +158,13 @@ module.exports = [
     "wiki": "Common_Law_(2012_TV_series)"
   },
   {
+    "title": "Cosmos: A Spacetime Odyssey",
+    "imdb": "tt2395695",
+    "episodes": 13,
+    "stillWatching": 1,
+    "lastWatched": "S01E13"
+  },
+  {
     "title": "CSI: Crime Scene Investigation",
     "imdb": "tt0247082",
     "episodes": "121",
