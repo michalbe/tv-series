@@ -697,6 +697,13 @@ module.exports = [
     "lastWatched": "S01E13"
   },
   {
+    "title": "The Ranch",
+    "imdb": "tt4998212",
+    "episodes": 20,
+    "stillWatching": 1,
+    "lastWatched": "S01E20"
+  },
+  {
     "title": "The Sopranos",
     "imdb": "tt0141842",
     "episodes": 86,
