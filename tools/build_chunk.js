@@ -61,8 +61,12 @@ var omdbAction = function(chunko, callback) {
       });
 
       dw.on('error', function(err) {
-        console.log('ERROR!', err);
-        callback(null); // Ignore error for now
+        console.log('ERROR downloading data about', chunko.title);
+        if (!chunko.episodeLength) {
+          chunko.episodeLength = 0;
+        }
+        callback(null, chunko);
+        // callback(null); // Ignore error for now
       });
     } else {
       if (!chunko.episodeLength) {

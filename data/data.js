@@ -223,10 +223,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 270,
+    "episodes": 274,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S15E01"
+    "lastWatched": "S15E05"
   },
   {
     "title": "Fargo",
@@ -496,8 +496,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S08E04",
-    "episodes": 170,
+    "lastWatched": "S08E07",
+    "episodes": 173,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -735,9 +735,9 @@ module.exports = [
   {
     "title": "Veep",
     "imdb": "tt1759761",
-    "episodes": 1,
+    "episodes": 4,
     "stillWatching": 1,
-    "lastWatched": "S01E01"
+    "lastWatched": "S01E04"
   },
   {
     "title": "White Collar",
