@@ -133,8 +133,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 76,
-    "lastWatched": "S04E08"
+    "episodes": 77,
+    "lastWatched": "S04E09"
   },
   {
     "title": "Californication",
@@ -223,10 +223,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 276,
+    "episodes": 277,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S15E07"
+    "lastWatched": "S15E08"
   },
   {
     "title": "Fargo",
