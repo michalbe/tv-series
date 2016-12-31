@@ -463,9 +463,9 @@ module.exports = [
   {
     "title": "Lovesick",
     "imdb": "tt4051832",
-    "episodes": 0,
+    "episodes": 12,
     "stillWatching": 1,
-    "lastWatched": "S01E00"
+    "lastWatched": "S02E05"
   },
   {
     "title": "MacGyver",
