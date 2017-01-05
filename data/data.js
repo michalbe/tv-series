@@ -28,9 +28,9 @@ module.exports = [
   {
     "title": "American Dad!",
     "imdb": "tt0397306",
-    "episodes": 211,
+    "episodes": 219,
     "stillWatching": 1,
-    "lastWatched": "S13E21"
+    "lastWatched": "S14E07"
   },
   {
     "title": "American Horror Story",
@@ -78,9 +78,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 216,
+    "episodes": 218,
     "stillWatching": 1,
-    "lastWatched": "S10E08",
+    "lastWatched": "S10E10",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -223,10 +223,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 277,
+    "episodes": 278,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S15E08"
+    "lastWatched": "S15E09"
   },
   {
     "title": "Fargo",
@@ -647,9 +647,9 @@ module.exports = [
   {
     "title": "Star Wars: The Clone Wars",
     "imdb": "tt0458290",
-    "episodes": 33,
+    "episodes": 35,
     "stillWatching": 1,
-    "lastWatched": "S02E12",
+    "lastWatched": "S02E14",
     "wiki": "Star_Wars:_The_Clone_Wars_(2008_TV_series)"
   },
   {
