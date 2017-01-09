@@ -78,9 +78,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 218,
+    "episodes": 219,
     "stillWatching": 1,
-    "lastWatched": "S10E10",
+    "lastWatched": "S10E11",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -647,9 +647,9 @@ module.exports = [
   {
     "title": "Star Wars: The Clone Wars",
     "imdb": "tt0458290",
-    "episodes": 36,
+    "episodes": 38,
     "stillWatching": 1,
-    "lastWatched": "S02E15",
+    "lastWatched": "S02E17",
     "wiki": "Star_Wars:_The_Clone_Wars_(2008_TV_series)"
   },
   {
