@@ -223,10 +223,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 278,
+    "episodes": 279,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S15E09"
+    "lastWatched": "S15E10"
   },
   {
     "title": "Fargo",
@@ -503,8 +503,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S08E09",
-    "episodes": 175,
+    "lastWatched": "S08E11",
+    "episodes": 177,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
