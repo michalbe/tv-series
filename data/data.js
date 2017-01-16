@@ -718,6 +718,13 @@ module.exports = [
     "lastWatched": "S06E21"
   },
   {
+    "title": "Travelers",
+    "imdb": "tt5651844",
+    "episodes": 8,
+    "stillWatching": 1,
+    "lastWatched": "S01E08"
+  },
+  {
     "title": "True Detective",
     "imdb": "tt2356777",
     "episodes": 8,
