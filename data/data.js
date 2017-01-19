@@ -720,9 +720,9 @@ module.exports = [
   {
     "title": "Travelers",
     "imdb": "tt5651844",
-    "episodes": 8,
+    "episodes": 12,
     "stillWatching": 1,
-    "lastWatched": "S01E08"
+    "lastWatched": "S01E12"
   },
   {
     "title": "True Detective",
