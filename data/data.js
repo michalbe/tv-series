@@ -619,9 +619,9 @@ module.exports = [
   {
     "title": "Sherlock",
     "imdb": "tt1475582",
-    "episodes": 9,
+    "episodes": 13,
     "stillWatching": 1,
-    "lastWatched": "S03E03"
+    "lastWatched": "S04E03"
   },
   {
     "title": "Siberia",
