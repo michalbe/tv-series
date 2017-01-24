@@ -441,6 +441,13 @@ module.exports = [
     "stillWatching": 0
   },
   {
+    "title": "Life in Pieces",
+    "imdb": "tt4384086",
+    "episodes": 1,
+    "stillWatching": 1,
+    "lastWatched": "S01E01"
+  },
+  {
     "title": "Limitless",
     "imdb": "tt4422836",
     "episodes": 22,
