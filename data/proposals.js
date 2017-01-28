@@ -99,6 +99,14 @@ module.exports = [
     ]
   },
   {
+    "title": "Childrens Hospital",
+    "imdb": "tt1325113",
+    "stillWatching": 0,
+    "votes": [
+      "siemiatj"
+    ]
+  },
+  {
     "title": "Chuck",
     "imdb": "tt0934814",
     "stillWatching": 1,
@@ -107,14 +115,6 @@ module.exports = [
       "gstepniewski",
       "scryptonite",
       "tiagomachado"
-    ]
-  },
-  {
-    "title": "Childrens Hospital",
-    "imdb": "tt1325113",
-    "stillWatching": 0,
-    "votes": [
-      "siemiatj"
     ]
   },
   {
@@ -185,6 +185,15 @@ module.exports = [
     ]
   },
   {
+    "title": "Halt and Catch Fire",
+    "imdb": "tt2543312",
+    "episodes": 0,
+    "stillWatching": 1,
+    "votes": [
+      "michalbe"
+    ]
+  },
+  {
     "title": "High Profits",
     "imdb": "tt4468340",
     "episodes": 8,
@@ -207,13 +216,17 @@ module.exports = [
     "title": "Jessica Jones",
     "imdb": "tt2357547",
     "stillWatching": 1,
-    "votes": ["ryanburgess"]
+    "votes": [
+      "ryanburgess"
+    ]
   },
   {
     "title": "Master of None",
     "imdb": "tt4635276",
     "stillWatching": 1,
-    "votes": ["ryanburgess"]
+    "votes": [
+      "ryanburgess"
+    ]
   },
   {
     "title": "My Name Is Earl",
@@ -225,12 +238,6 @@ module.exports = [
       "stkrzysiak"
     ]
   },
-  // {
-  //   "title": "Narcos",
-  //   "imdb": "tt2707408",
-  //   "stillWatching": 1,
-  //   "votes": ["ryanburgess"]
-  // },
   {
     "title": "Numb3rs",
     "imdb": "tt0433309",
@@ -250,17 +257,6 @@ module.exports = [
       "egweeks"
     ]
   },
-  // {
-  //   "title": "Parks and Recreation",
-  //   "imdb": "tt1266020",
-  //   "stillWatching": 1,
-  //   "votes": [
-  //     "kamilogorek",
-  //     "gstepniewski",
-  //     "ryanburgess",
-  //     "egweeks"
-  //   ]
-  // },
   {
     "title": "Person of Interest",
     "imdb": "tt1839578",
@@ -280,14 +276,6 @@ module.exports = [
       "ziolek666"
     ]
   },
-  // {
-  //   "title": "Robot Chicken",
-  //   "imdb": "tt0437745",
-  //   "stillWatching": 1,
-  //   "votes": [
-  //     "stasm"
-  //   ]
-  // },
   {
     "title": "Smallville",
     "imdb": "tt0279600",
@@ -462,12 +450,6 @@ module.exports = [
       "zigomir"
     ]
   },
-  // {
-  //   "title": "Unbreakable Kimmy Schmidt",
-  //   "imdb": "tt3339966",
-  //   "stillWatching": 1,
-  //   "votes": ["ryanburgess"]
-  // },
   {
     "title": "Utopia",
     "imdb": "tt2384811",
@@ -475,6 +457,15 @@ module.exports = [
     "votes": [
       "matisnape",
       "kasprownik"
+    ]
+  },
+  {
+    "title": "Vice Principals",
+    "imdb": "tt3766376",
+    "episodes": 0,
+    "stillWatching": 1,
+    "votes": [
+      "michalbe"
     ]
   },
   {
@@ -516,4 +507,4 @@ module.exports = [
     ],
     "wiki": "Wilfred (U.S. TV series)"
   }
-];
+]
