@@ -493,6 +493,13 @@ module.exports = [
     ]
   },
   {
+    "title": "Master of None",
+    "imdb": "tt4635276",
+    "episodes": 10,
+    "stillWatching": 1,
+    "lastWatched": "S01E10"
+  },
+  {
     "title": "Mentalist",
     "imdb": "tt1196946",
     "episodes": 151,
