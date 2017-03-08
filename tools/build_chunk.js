@@ -47,27 +47,46 @@ var omdbAction = function(chunko, callback) {
     }
 
     if (resp.poster && resp.poster !== "N/A" && download_covers) {
-      var dw = download({
-        url: resp.poster,
-        name: chunko.title.toLowerCase().replace(/[^A-Za-z0-9]/gi, '-') + '.jpg'
-      }, './data/build/assets/covers');
+      download(resp.poster).then(function(data) {
+        fs.writeFileSync(
+          './data/build/assets/covers/' + chunko.title.toLowerCase().replace(/[^A-Za-z0-9]/gi, '-') + '.jpg',
+          data
+        );
 
-      dw.on('close', function() {
         console.log('got', chunko.title);
         if (!chunko.episodeLength) {
           chunko.episodeLength = resp.episodeLength;
         }
         callback(null, chunko);
-      });
-
-      dw.on('error', function(err) {
+      }).catch(function(e) {
         console.log('ERROR downloading data about', chunko.title);
         if (!chunko.episodeLength) {
           chunko.episodeLength = 0;
         }
         callback(null, chunko);
-        // callback(null); // Ignore error for now
       });
+      
+      // var dw = download({
+      //   url: resp.poster,
+      //   name: chunko.title.toLowerCase().replace(/[^A-Za-z0-9]/gi, '-') + '.jpg'
+      // }, './data/build/assets/covers');
+      //
+      // dw.on('close', function() {
+      //   console.log('got', chunko.title);
+      //   if (!chunko.episodeLength) {
+      //     chunko.episodeLength = resp.episodeLength;
+      //   }
+      //   callback(null, chunko);
+      // });
+      //
+      // dw.on('error', function(err) {
+      //   console.log('ERROR downloading data about', chunko.title);
+      //   if (!chunko.episodeLength) {
+      //     chunko.episodeLength = 0;
+      //   }
+      //   callback(null, chunko);
+      //   // callback(null); // Ignore error for now
+      // });
     } else {
       if (!chunko.episodeLength) {
         chunko.episodeLength = resp.episodeLength;
