@@ -330,9 +330,9 @@ module.exports = [
   {
     "title": "Homeland",
     "imdb": "tt1796960",
-    "episodes": 63,
+    "episodes": 69,
     "stillWatching": 1,
-    "lastWatched": "S06E03"
+    "lastWatched": "S06E09"
   },
   {
     "title": "House",
