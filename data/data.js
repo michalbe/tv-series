@@ -610,6 +610,13 @@ module.exports = [
     "lastWatched": "S01E11"
   },
   {
+    "title": "Santa Clarita Diet",
+    "imdb": "tt5580540",
+    "episodes": 10,
+    "stillWatching": 1,
+    "lastWatched": "S01E10"
+  },
+  {
     "title": "Scrubs",
     "imdb": "tt0285403",
     "episodes": "182",
