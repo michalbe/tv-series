@@ -706,9 +706,9 @@ module.exports = [
   {
     "title": "The 100",
     "imdb": "tt2661044",
-    "episodes": 45,
+    "episodes": 46,
     "stillWatching": 1,
-    "lastWatched": "S03E16"
+    "lastWatched": "S04E01"
   },
   {
     "title": "The Last Man on Earth",
