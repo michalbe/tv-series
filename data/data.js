@@ -14,6 +14,13 @@ module.exports = [
     "lastWatched": "S07E12"
   },
   {
+    "title": "A Series of Unfortunate Events",
+    "imdb": "tt4834206",
+    "episodes": 8,
+    "stillWatching": 1,
+    "lastWatched": "S01E08"
+  },
+  {
     "title": "According to Jim",
     "imdb": "tt0285351",
     "episodes": 182,
