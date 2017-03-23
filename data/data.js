@@ -14,6 +14,13 @@ module.exports = [
     "lastWatched": "S07E12"
   },
   {
+    "title": "A Series of Unfortunate Events",
+    "imdb": "tt4834206",
+    "episodes": 8,
+    "stillWatching": 1,
+    "lastWatched": "S01E08"
+  },
+  {
     "title": "According to Jim",
     "imdb": "tt0285351",
     "episodes": 182,
@@ -78,9 +85,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 220,
+    "episodes": 222,
     "stillWatching": 1,
-    "lastWatched": "S10E12",
+    "lastWatched": "S10E14",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -223,10 +230,10 @@ module.exports = [
   {
     "title": "Family Guy",
     "imdb": "tt0182576",
-    "episodes": 280,
+    "episodes": 283,
     "stillWatching": 1,
     "episodeLength": 22,
-    "lastWatched": "S15E11"
+    "lastWatched": "S15E14"
   },
   {
     "title": "Fargo",
@@ -330,9 +337,9 @@ module.exports = [
   {
     "title": "Homeland",
     "imdb": "tt1796960",
-    "episodes": 63,
+    "episodes": 69,
     "stillWatching": 1,
-    "lastWatched": "S06E03"
+    "lastWatched": "S06E09"
   },
   {
     "title": "House",
@@ -443,9 +450,9 @@ module.exports = [
   {
     "title": "Life in Pieces",
     "imdb": "tt4384086",
-    "episodes": 33,
+    "episodes": 37,
     "stillWatching": 1,
-    "lastWatched": "S02E11"
+    "lastWatched": "S02E15"
   },
   {
     "title": "Limitless",
@@ -517,8 +524,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S08E11",
-    "episodes": 177,
+    "lastWatched": "S08E17",
+    "episodes": 183,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -608,6 +615,13 @@ module.exports = [
     "episodes": 11,
     "stillWatching": 1,
     "lastWatched": "S01E11"
+  },
+  {
+    "title": "Santa Clarita Diet",
+    "imdb": "tt5580540",
+    "episodes": 10,
+    "stillWatching": 1,
+    "lastWatched": "S01E10"
   },
   {
     "title": "Scrubs",
@@ -706,9 +720,9 @@ module.exports = [
   {
     "title": "The 100",
     "imdb": "tt2661044",
-    "episodes": 45,
+    "episodes": 46,
     "stillWatching": 1,
-    "lastWatched": "S03E16"
+    "lastWatched": "S04E01"
   },
   {
     "title": "The Last Man on Earth",
@@ -766,6 +780,13 @@ module.exports = [
     "episodes": 4,
     "stillWatching": 1,
     "lastWatched": "S01E04"
+  },
+  {
+    "title": "Vikings",
+    "imdb": "tt2306299",
+    "episodes": 29,
+    "stillWatching": 1,
+    "lastWatched": "S03E10"
   },
   {
     "title": "Westworld",
