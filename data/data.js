@@ -200,6 +200,13 @@ module.exports = [
     "lastWatched": "S01E13"
   },
   {
+    "title": "Designated Survivor",
+    "imdb": "tt5296406",
+    "episodes": 14,
+    "stillWatching": 1,
+    "lastWatched": "S01E14"
+  },
+  {
     "title": "Dexter",
     "imdb": "tt0773262",
     "episodes": 96,
