@@ -457,9 +457,9 @@ module.exports = [
   {
     "title": "Life in Pieces",
     "imdb": "tt4384086",
-    "episodes": 37,
+    "episodes": 39,
     "stillWatching": 1,
-    "lastWatched": "S02E15"
+    "lastWatched": "S02E17"
   },
   {
     "title": "Limitless",
@@ -531,8 +531,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S08E17",
-    "episodes": 183,
+    "lastWatched": "S08E18",
+    "episodes": 184,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
