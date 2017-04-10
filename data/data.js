@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Archer",
     "imdb": "tt1486217",
-    "episodes": 85,
+    "episodes": 86,
     "stillWatching": 1,
-    "lastWatched": "S07E10"
+    "lastWatched": "S08E01"
   },
   {
     "title": "Arrested Development",
@@ -85,9 +85,9 @@ module.exports = [
   {
     "title": "Big Bang Theory",
     "imdb": "tt0898266",
-    "episodes": 222,
+    "episodes": 228,
     "stillWatching": 1,
-    "lastWatched": "S10E14",
+    "lastWatched": "S10E20",
     "wiki": "The_Big_Bang_Theory"
   },
   {
@@ -195,16 +195,16 @@ module.exports = [
   {
     "title": "Daredevil",
     "imdb": "tt3322312",
-    "episodes": 13,
+    "episodes": 17,
     "stillWatching": 1,
-    "lastWatched": "S01E13"
+    "lastWatched": "S02E04"
   },
   {
     "title": "Designated Survivor",
     "imdb": "tt5296406",
-    "episodes": 14,
+    "episodes": 15,
     "stillWatching": 1,
-    "lastWatched": "S01E14"
+    "lastWatched": "S01E15"
   },
   {
     "title": "Dexter",
@@ -344,9 +344,9 @@ module.exports = [
   {
     "title": "Homeland",
     "imdb": "tt1796960",
-    "episodes": 71,
+    "episodes": 72,
     "stillWatching": 1,
-    "lastWatched": "S06E11"
+    "lastWatched": "S06E12"
   },
   {
     "title": "House",
@@ -457,9 +457,9 @@ module.exports = [
   {
     "title": "Life in Pieces",
     "imdb": "tt4384086",
-    "episodes": 39,
+    "episodes": 40,
     "stillWatching": 1,
-    "lastWatched": "S02E17"
+    "lastWatched": "S02E18"
   },
   {
     "title": "Limitless",
@@ -531,8 +531,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S08E18",
-    "episodes": 184,
+    "lastWatched": "S08E19",
+    "episodes": 185,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
@@ -791,9 +791,9 @@ module.exports = [
   {
     "title": "Vikings",
     "imdb": "tt2306299",
-    "episodes": 29,
+    "episodes": 38,
     "stillWatching": 1,
-    "lastWatched": "S03E10"
+    "lastWatched": "S04E09"
   },
   {
     "title": "Westworld",
