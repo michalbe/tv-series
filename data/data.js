@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Archer",
     "imdb": "tt1486217",
-    "episodes": 88,
+    "episodes": 91,
     "stillWatching": 1,
-    "lastWatched": "S08E03"
+    "lastWatched": "S08E06"
   },
   {
     "title": "Arrested Development",
@@ -202,9 +202,9 @@ module.exports = [
   {
     "title": "Designated Survivor",
     "imdb": "tt5296406",
-    "episodes": 19,
+    "episodes": 21,
     "stillWatching": 1,
-    "lastWatched": "S01E19"
+    "lastWatched": "S01E21"
   },
   {
     "title": "Dexter",
