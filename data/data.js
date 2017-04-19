@@ -140,8 +140,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 80,
-    "lastWatched": "S04E12"
+    "episodes": 81,
+    "lastWatched": "S04E13"
   },
   {
     "title": "Californication",
@@ -195,16 +195,16 @@ module.exports = [
   {
     "title": "Daredevil",
     "imdb": "tt3322312",
-    "episodes": 17,
+    "episodes": 19,
     "stillWatching": 1,
-    "lastWatched": "S02E04"
+    "lastWatched": "S02E06"
   },
   {
     "title": "Designated Survivor",
     "imdb": "tt5296406",
-    "episodes": 15,
+    "episodes": 16,
     "stillWatching": 1,
-    "lastWatched": "S01E15"
+    "lastWatched": "S01E16"
   },
   {
     "title": "Dexter",
@@ -386,9 +386,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 32,
+    "episodes": 33,
     "stillWatching": 1,
-    "lastWatched": "S02E19",
+    "lastWatched": "S03E01",
     "wiki": "IZombie_(TV_series)"
   },
   {
@@ -457,9 +457,9 @@ module.exports = [
   {
     "title": "Life in Pieces",
     "imdb": "tt4384086",
-    "episodes": 40,
+    "episodes": 41,
     "stillWatching": 1,
-    "lastWatched": "S02E18"
+    "lastWatched": "S02E19"
   },
   {
     "title": "Limitless",
@@ -791,9 +791,9 @@ module.exports = [
   {
     "title": "Vikings",
     "imdb": "tt2306299",
-    "episodes": 38,
+    "episodes": 39,
     "stillWatching": 1,
-    "lastWatched": "S04E09"
+    "lastWatched": "S04E10"
   },
   {
     "title": "Westworld",
