@@ -57,9 +57,9 @@ module.exports = [
   {
     "title": "Archer",
     "imdb": "tt1486217",
-    "episodes": 86,
+    "episodes": 88,
     "stillWatching": 1,
-    "lastWatched": "S08E01"
+    "lastWatched": "S08E03"
   },
   {
     "title": "Arrested Development",
@@ -140,8 +140,8 @@ module.exports = [
     "title": "Brooklyn Nine-Nine",
     "imdb": "tt2467372",
     "stillWatching": 1,
-    "episodes": 81,
-    "lastWatched": "S04E13"
+    "episodes": 82,
+    "lastWatched": "S04E14"
   },
   {
     "title": "Californication",
@@ -202,9 +202,9 @@ module.exports = [
   {
     "title": "Designated Survivor",
     "imdb": "tt5296406",
-    "episodes": 16,
+    "episodes": 17,
     "stillWatching": 1,
-    "lastWatched": "S01E16"
+    "lastWatched": "S01E17"
   },
   {
     "title": "Dexter",
@@ -386,9 +386,9 @@ module.exports = [
   {
     "title": "iZombie",
     "imdb": "tt3501584",
-    "episodes": 33,
+    "episodes": 34,
     "stillWatching": 1,
-    "lastWatched": "S03E01",
+    "lastWatched": "S03E02",
     "wiki": "IZombie_(TV_series)"
   },
   {
