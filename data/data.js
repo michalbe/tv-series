@@ -202,9 +202,9 @@ module.exports = [
   {
     "title": "Designated Survivor",
     "imdb": "tt5296406",
-    "episodes": 17,
+    "episodes": 19,
     "stillWatching": 1,
-    "lastWatched": "S01E17"
+    "lastWatched": "S01E19"
   },
   {
     "title": "Dexter",
@@ -215,10 +215,10 @@ module.exports = [
   {
     "title": "Doctor Who",
     "imdb": "tt0436992",
-    "episodes": 124,
+    "episodes": 127,
     "episodeLength": 45,
     "stillWatching": 1,
-    "lastWatched": "S09E08"
+    "lastWatched": "S10E03"
   },
   {
     "title": "Drawn Together",
@@ -457,9 +457,9 @@ module.exports = [
   {
     "title": "Life in Pieces",
     "imdb": "tt4384086",
-    "episodes": 41,
+    "episodes": 42,
     "stillWatching": 1,
-    "lastWatched": "S02E19"
+    "lastWatched": "S02E20"
   },
   {
     "title": "Limitless",
@@ -531,8 +531,8 @@ module.exports = [
   {
     "title": "Modern Family",
     "imdb": "tt1442437",
-    "lastWatched": "S08E19",
-    "episodes": 185,
+    "lastWatched": "S08E20",
+    "episodes": 186,
     "stillWatching": 1,
     "oldvotes": [
       "afronski",
