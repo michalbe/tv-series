@@ -1,7 +1,7 @@
 {
   "name": "tv-shows",
   "version": "3.0.0",
-  "author": "Michal Budzynski<mb@bly.sk>",
+  "author": "Michal Budzynski<michal@virtualdesign.pl>",
   "devDependencies": {
     "async": "^0.6.0",
     "async-each": "~0.1.4",
